@@ -1,0 +1,1001 @@
+Mission_ID,Planet_Name,Distance_From_Earth,Crew_Size,Mission_Duration,Budget,Technology_Rating,Atmospheric_Composition,Surface_Terrain,Communication_Latency,Energy_Resources,Previous_Attempts,Alien_Contact_Probability,Critical_Failures,Success_Status
+4f91bb4e-f4f4-4350-a24c-6a7fac3b3923,Zarathustra,57.01,49,56,293.77,6,Hydrogen-rich,Oceanic,4.19,Geothermal,0,0.09881294550791409,2,No
+ed88a267-b191-499d-94c8-7d2b299d8bc4,Titanium,341.12,22,68,442.5,5,Oxygen-rich,Rocky,13.73,Chemical,4,0.3149850944419381,1,Yes
+efafabc1-d683-4719-981c-9ac3d242b368,Elysium,601.8,31,217,464.68,5,Carbon dioxide-heavy,Icy,16.08,Geothermal,2,0.9517260820991158,2,Yes
+6250f932-cd75-4d62-86f5-f80259bef166,Zarathustra,791.82,36,247,430.0,3,Oxygen-rich,Rocky,17.64,Geothermal,1,0.12747670622509966,2,No
+37cc62e9-9f87-4b6a-993c-b9fc0d50906f,Titanium,680.38,9,268,298.8,9,Oxygen-rich,Oceanic,12.78,Chemical,0,0.4874908541918786,0,No
+5d0a4032-cb5b-4913-97a1-bfeb47f3f498,Aurora,641.3,24,45,454.45,5,Carbon dioxide-heavy,Icy,17.8,Chemical,0,0.5576770686552254,2,No
+b277bd1e-4a4e-4fdb-a109-44410d2d1591,Zarathustra,835.14,26,31,276.16,10,Hydrogen-rich,Icy,19.82,Nuclear,4,0.6799172699154591,2,Yes
+f517a53e-2375-4799-a777-4f8c21259c72,Elysium,62.44,40,138,462.47,5,Carbon dioxide-heavy,Oceanic,11.21,Nuclear,3,1.0,2,Yes
+3987fcda-134a-4b13-82fc-18c84888f561,Elysium,533.47,10,98,466.14,2,Hydrogen-rich,Volcanic,10.82,Solar,0,0.5291043194362695,0,No
+eec8ac5d-ea11-444d-80bc-726e0421ba7f,Zarathustra,441.19,13,343,374.63,2,Carbon dioxide-heavy,Volcanic,4.6,Solar,3,0.11398495604919442,1,Yes
+40274a2e-dbc1-4365-9bf6-cd112d44f317,Zarathustra,515.27,20,157,468.24,3,Carbon dioxide-heavy,Icy,18.24,Nuclear,0,0.30808723385532777,1,No
+d1480e5c-ff1b-4381-94e7-881462cc68df,Aurora,279.83,9,265,61.03,7,Carbon dioxide-heavy,Volcanic,15.6,Solar,0,0.6163703607267489,1,Yes
+3dce62ec-10be-4d1f-8e85-bb2877cf0322,Titanium,386.27,11,325,418.51,4,Methane-dominated,Oceanic,5.12,Geothermal,3,0.3703606920389771,1,Yes
+69321650-2328-421e-83e2-240be18af49a,Titanium,146.53,18,173,390.42,3,Oxygen-rich,Volcanic,15.91,Solar,3,0.12423211054220497,1,Yes
+342f1531-7530-444d-941a-fd091fc07fa4,Aurora,373.69,27,44,245.55,7,Methane-dominated,Rocky,2.44,Solar,3,0.8541779905920305,0,No
+8c88ed2b-5013-4383-a64c-eb706fc65ff1,Elysium,538.37,6,197,57.76,6,Methane-dominated,Oceanic,4.48,Solar,0,0.7728855123042077,2,Yes
+802d2f7a-88d5-47c5-b226-d2f206e6c3b6,Xenon,379.16,35,325,141.11,2,Oxygen-rich,Icy,0.18,Solar,2,1.0,2,No
+bc4192b1-a7dd-4d86-9c22-ef4c62c02297,Titanium,854.0,10,292,145.62,5,Hydrogen-rich,Icy,17.99,Nuclear,0,0.8053653934565587,2,Yes
+91a5cc8a-68af-4aee-a0b2-82f4fbc75350,Elysium,392.8,26,338,150.87,1,Oxygen-rich,Oceanic,1.87,Chemical,4,0.8760093581471203,0,Yes
+7361f828-a418-4550-a813-ce0046342b37,Aurora,218.85,11,84,148.0,2,Oxygen-rich,Oceanic,3.9,Solar,2,0.18913724609826515,0,Yes
+9e557864-868a-43b3-9d95-5ab343c0e24d,Titanium,952.72,26,44,340.25,7,Methane-dominated,Rocky,9.69,Solar,0,0.8577873823090905,0,No
+a33e0c4f-568e-44bb-aa1a-844adecc7930,Zarathustra,260.3,14,82,343.22,3,Carbon dioxide-heavy,Volcanic,15.93,Chemical,0,0.2977384860869753,1,No
+58295f44-ecbc-4581-8ece-18eaea0a1b41,Zarathustra,228.49,7,268,127.67,3,Oxygen-rich,Volcanic,18.22,Chemical,1,0.6286369744774157,1,No
+9fca2c46-7f3b-4eb8-bd83-8c9134039c1b,Xenon,45.55,40,95,219.71,2,Hydrogen-rich,Oceanic,7.49,Geothermal,1,0.9744112326715579,0,Yes
+5882bf48-9e83-4f32-acaf-bb597fae11ff,Zarathustra,953.48,40,360,127.58,4,Methane-dominated,Volcanic,8.78,Chemical,1,0.6298591274118475,0,No
+bf756d09-8641-47f3-ace6-35d6002ccb33,Titanium,780.27,12,33,184.5,10,Methane-dominated,Oceanic,6.07,Solar,4,0.4784792656526124,2,Yes
+e5034875-5ea0-4611-b1d2-f44fcd34e5f6,Zarathustra,115.78,25,117,140.28,6,Methane-dominated,Oceanic,2.49,Chemical,2,0.0,2,No
+6b155c59-eb02-4fb1-b00e-43ea2c4e81f3,Elysium,916.44,29,315,156.24,10,Hydrogen-rich,Volcanic,13.75,Nuclear,1,0.3876736006483892,0,Yes
+003384e0-97cd-433d-8874-598082e26d39,Elysium,754.81,28,266,481.83,6,Oxygen-rich,Icy,5.15,Solar,0,0.5028569949471983,2,No
+7e9662fa-ace5-46fc-ac02-e2307fffdf14,Xenon,233.22,26,337,445.4,4,Carbon dioxide-heavy,Volcanic,16.36,Solar,1,0.0,2,No
+68971930-4535-426f-956b-e6174e7df372,Elysium,891.49,41,220,146.5,5,Carbon dioxide-heavy,Volcanic,11.17,Geothermal,4,0.5891825537566573,2,No
+49e79289-50da-47f6-8b95-d00e8ee417ce,Xenon,231.5,15,161,51.13,5,Hydrogen-rich,Volcanic,0.75,Solar,4,0.4194845484531847,0,No
+6ea42922-2210-42dc-ae51-870c0aa5f367,Elysium,586.02,45,129,158.64,5,Carbon dioxide-heavy,Oceanic,8.73,Solar,3,0.5993704908897174,2,Yes
+0548f3cd-84aa-4186-9f24-a619a53ba1a5,Aurora,420.72,46,199,318.68,10,Methane-dominated,Icy,7.29,Geothermal,2,0.3907356173215324,0,Yes
+8db705f7-0d70-4f5e-b409-1fda665008d5,Aurora,419.51,28,271,283.32,3,Methane-dominated,Volcanic,7.41,Chemical,2,0.7232935979193738,1,No
+a773ec98-1627-4d5f-a923-db0e0ab6aafe,Aurora,199.29,33,265,342.91,7,Methane-dominated,Rocky,15.12,Chemical,0,0.15666132122108994,1,Yes
+6d427b22-a1d6-4237-ad9c-adb4cd2e087e,Aurora,812.15,46,98,209.36,4,Carbon dioxide-heavy,Icy,5.8,Geothermal,0,0.22667347769419907,1,Yes
+1652780b-08d3-40ab-8a23-e2c53b72f073,Aurora,622.51,33,295,,9,Hydrogen-rich,Icy,11.39,Chemical,1,1.0,0,Yes
+63344a63-417f-469e-8de8-a5afc4f6b536,Elysium,787.64,20,323,490.44,9,Oxygen-rich,Icy,6.07,Geothermal,4,0.5372434488950054,1,No
+2266ee57-33f1-4236-ae78-0773fade80e1,Elysium,914.88,10,51,470.13,4,Carbon dioxide-heavy,Icy,16.08,Geothermal,1,0.3382944472155961,0,No
+dc4fe39f-bde3-41fa-90e8-805d2a01ff7e,Xenon,801.37,30,151,414.96,10,Carbon dioxide-heavy,Rocky,12.89,Nuclear,1,0.4913021388667416,2,Yes
+761248b3-818e-4beb-bd02-cee0f763fc54,Elysium,628.26,10,246,,5,Carbon dioxide-heavy,Icy,16.14,Geothermal,3,0.7522275520659927,2,No
+b6af2c91-b6d9-41aa-ae9f-2bf03b277b45,Elysium,105.04,16,44,72.79,3,Hydrogen-rich,Icy,8.33,Nuclear,4,0.34329185659303135,1,No
+f5b285a4-3627-4b1c-b431-4b6bfd703b3c,Titanium,423.35,20,156,168.44,2,Oxygen-rich,Rocky,2.9,Nuclear,3,0.5547878685909134,2,No
+e16cf8ef-8b10-45dc-a319-6802b113b58a,Xenon,763.93,48,250,225.3,6,Carbon dioxide-heavy,Oceanic,0.98,Solar,1,0.0,0,No
+6664640c-f13c-42be-9e2e-f1baa57d781d,Aurora,56.58,13,116,299.91,3,Carbon dioxide-heavy,Volcanic,13.15,Chemical,0,0.682058262929743,2,Yes
+5e01c5ba-7d7a-4082-a949-a868512f53b4,Aurora,113.06,17,186,364.81,9,Carbon dioxide-heavy,Volcanic,10.55,Nuclear,4,0.01174083406022524,1,Yes
+1e42d644-b3fc-4e56-b83c-a34d89971dd1,Zarathustra,608.16,24,279,147.85,10,Oxygen-rich,Oceanic,5.01,Geothermal,3,0.34764607236536493,0,Yes
+74477a6d-5a99-4567-bf3e-ac13e45d708d,Titanium,343.93,31,214,464.65,6,Oxygen-rich,Icy,13.0,Solar,3,0.7904013337002513,2,Yes
+7a935fcb-1fe5-40d8-8117-0121b02f18e9,Aurora,502.38,18,347,198.22,1,Oxygen-rich,Icy,17.49,Nuclear,3,0.08732947429552329,0,Yes
+4546af70-f2ee-402b-99f2-fa9ca13e7837,Titanium,133.12,39,298,499.8,1,Carbon dioxide-heavy,Volcanic,3.48,Chemical,0,0.3654828922776656,1,Yes
+7a3d423f-bf4f-4bec-b28e-ed99456e5004,Elysium,118.87,24,260,246.53,8,Hydrogen-rich,Volcanic,19.46,Solar,3,0.7004831780205215,2,Yes
+4903ac6d-8e7f-4d7d-8ceb-580499d60fcb,Titanium,885.58,26,35,391.89,4,Oxygen-rich,Rocky,14.85,Geothermal,4,0.353641377307763,0,Yes
+134c98bf-5a89-4162-96ef-4bee1c3e952a,Xenon,912.31,24,43,222.29,8,Oxygen-rich,Icy,7.03,Geothermal,4,0.3357641520226205,0,Yes
+9ec1aa28-d544-49eb-be10-d7ce2881c945,Aurora,670.43,27,301,226.83,2,Methane-dominated,Rocky,4.75,Chemical,1,0.12406872076691292,0,Yes
+573cb4ea-b8ba-4857-bab2-8c7719dd1e54,Titanium,141.0,11,137,370.42,10,Carbon dioxide-heavy,Oceanic,12.58,Geothermal,1,0.048093140992588594,1,Yes
+73ea7edc-8e2a-4126-8c27-396972b40924,Titanium,960.61,21,176,335.25,7,Carbon dioxide-heavy,Rocky,15.84,Geothermal,4,0.8701747945525551,1,Yes
+d692210c-b0e4-4f17-a15a-d0c410bf19ea,Elysium,273.9,23,204,307.66,4,Methane-dominated,Oceanic,4.71,Nuclear,1,0.0,1,Yes
+34314744-2b2e-4e57-8660-38f2b1b027e4,Elysium,636.89,20,237,247.09,4,Carbon dioxide-heavy,Rocky,8.07,Solar,3,0.4324607414731272,1,Yes
+b6000366-68c3-42e7-bf62-540132c5ab44,Xenon,892.72,28,268,82.81,7,Oxygen-rich,Volcanic,11.79,Chemical,3,0.01848276407183421,1,Yes
+8f7c28a5-0a71-4856-b3f1-0cf372e5454c,Elysium,632.74,42,351,491.42,4,Methane-dominated,Volcanic,12.9,Geothermal,3,0.12346907052072631,2,No
+33e6e79b-9cf1-4fe8-978e-76920a6c8f51,Aurora,996.29,49,144,295.96,4,Oxygen-rich,Volcanic,1.66,Geothermal,2,0.6680865625918398,0,No
+81f6d734-4eb3-4ce0-b672-95606b95e243,Aurora,563.95,48,270,89.55,1,Hydrogen-rich,Icy,6.63,Chemical,3,0.0876415902301857,1,Yes
+42b8c95a-a2c2-4813-afa0-62bfc1ea2119,Xenon,500.26,36,32,418.11,3,Methane-dominated,Icy,12.97,Nuclear,1,1.0,0,Yes
+1274d19f-091d-4fb3-9587-db7a5474eb1d,Elysium,90.47,27,34,167.49,2,Hydrogen-rich,Rocky,2.9,Solar,0,0.49552029749038173,1,Yes
+dfa808c6-ac2f-40a8-9365-4cfd5540b79c,Zarathustra,223.04,21,211,346.35,3,Hydrogen-rich,Volcanic,19.35,Nuclear,0,0.3264955850034187,2,Yes
+ad0f469a-44d6-4314-8b9f-e6e4a8262197,Zarathustra,583.52,21,85,100.74,2,Methane-dominated,Icy,10.52,Geothermal,2,0.7272918169892273,0,Yes
+6a64362e-927a-4c8e-af9b-b616ce226220,Titanium,575.62,16,57,249.32,7,Oxygen-rich,Oceanic,1.29,Nuclear,2,0.6467384495693309,2,Yes
+894746a5-f7e3-48ff-81f6-e7da5260e6c3,Titanium,195.94,46,83,120.99,2,Hydrogen-rich,Volcanic,4.91,Solar,3,0.6330018068524861,2,No
+c245856b-a179-4b9e-a7f3-49747d18960d,Aurora,336.8,12,208,126.85,2,Carbon dioxide-heavy,Rocky,3.33,Nuclear,3,0.9574393641650069,0,Yes
+80aaa619-25ee-42c7-adfe-cd33abb45e99,Xenon,58.61,23,224,210.88,7,Methane-dominated,Oceanic,7.73,Solar,4,0.5296712625608877,0,No
+95b66e08-211b-4d19-8eff-f9664479e660,Elysium,12.02,22,205,370.16,3,Hydrogen-rich,Rocky,13.01,Nuclear,2,0.6710821988360517,1,Yes
+e08bb20c-36ff-4c38-b3de-c5501b0a0e9b,Elysium,73.54,15,322,419.79,2,Methane-dominated,Rocky,18.13,Nuclear,1,0.8173668297877179,0,No
+4dbb612c-18b8-425a-86e8-e569367b5c7a,Titanium,101.6,14,364,105.95,1,Oxygen-rich,Volcanic,7.06,Nuclear,1,0.2168047983876636,0,No
+1a4132ce-ca12-4bcb-bb34-0ca923c2accd,Xenon,632.2,32,122,168.23,5,Carbon dioxide-heavy,Rocky,12.04,Geothermal,3,0.9639683658022791,1,No
+f5af2bb2-00a9-449b-8b23-8c1106a130d6,Elysium,845.11,40,126,165.05,9,Methane-dominated,Rocky,8.6,Nuclear,1,0.7266717326619697,0,No
+2d8fd62d-eb3d-4d8e-81a8-c49408c199b2,Elysium,672.65,6,230,366.85,2,Carbon dioxide-heavy,Icy,3.65,Geothermal,1,0.0640326937534233,0,No
+42da7c49-b6cb-4beb-ae52-2def597e0725,Zarathustra,663.0,22,182,390.25,8,Hydrogen-rich,Rocky,10.54,Nuclear,4,0.858667789721681,0,No
+af167617-f762-4993-bcdc-2aeb875e3cb7,Elysium,828.03,30,59,474.69,2,Oxygen-rich,Rocky,2.24,Chemical,2,0.4394378196667855,0,No
+c359a37d-f539-42d0-9531-60d7202a6b28,Zarathustra,73.07,37,248,418.93,9,Carbon dioxide-heavy,Volcanic,17.15,Nuclear,0,0.5381286540657331,2,Yes
+95bbd58d-6d60-4586-8d08-556f73877d07,Aurora,895.1,37,231,488.03,1,Methane-dominated,Rocky,7.65,Solar,1,0.4957792140656437,1,No
+b561d78d-d915-4368-8b4a-de0ee4caa45f,Zarathustra,198.41,39,329,380.19,7,Oxygen-rich,Icy,14.9,Geothermal,4,0.1625033754057772,1,Yes
+e8376d62-0c63-4da8-a56e-1bed88b4da8e,Zarathustra,333.35,20,30,483.69,5,Methane-dominated,Volcanic,12.03,Geothermal,1,0.8043431174786542,1,Yes
+3b48250d-003c-4c58-b6b3-f7ce82fe1d4d,Xenon,445.72,28,72,443.47,3,Oxygen-rich,Rocky,4.96,Nuclear,1,0.7359171339806407,2,No
+9dc561a8-d7c0-4dd6-a66f-b16e7e826333,Elysium,105.56,39,349,188.33,3,Hydrogen-rich,Icy,9.96,Nuclear,3,1.0,1,No
+ccaa7b8f-60f1-41fe-99c4-b1edac37fbd6,Aurora,844.21,37,273,359.57,5,Hydrogen-rich,Volcanic,16.17,Nuclear,1,0.1289167761985332,0,No
+f8090daa-48c4-47e6-8a64-6d4e079ce6b6,Zarathustra,78.18,6,219,174.05,8,Oxygen-rich,Rocky,15.89,Geothermal,2,0.18940261951523985,1,Yes
+db0a27f7-f2ff-44c0-aae8-9f99e3b038b1,Elysium,961.59,12,292,237.36,6,Methane-dominated,Volcanic,3.11,Chemical,2,0.07498073336058991,2,No
+60a09852-ea62-4db7-978d-ce6323459093,Aurora,729.14,7,244,465.02,9,Methane-dominated,Rocky,1.36,Geothermal,3,0.33689176220959693,0,Yes
+05ec9d8a-c660-4feb-9785-2c7897e802f4,Xenon,908.67,33,214,173.5,1,Hydrogen-rich,Icy,11.42,Solar,1,0.5275086107393236,1,No
+233d8f09-2e39-4fec-a5c6-8a1444dd1c78,Elysium,355.95,14,258,400.8,8,Methane-dominated,Oceanic,9.44,Geothermal,3,0.8783143982926241,1,No
+8636bc5f-331d-468b-b4fa-4cabb6cb19f9,Xenon,970.67,36,210,253.18,10,Methane-dominated,Rocky,2.87,Solar,3,0.23949245343632158,2,No
+cb65b7ab-67f0-494e-9c9d-b9bd5a5f8dea,Xenon,885.8,13,339,303.77,8,Oxygen-rich,Oceanic,14.55,Solar,1,0.06319499859749131,0,Yes
+15cd0358-ec8f-45a4-9797-2777eea0d1ce,Elysium,624.0,11,227,169.31,6,Hydrogen-rich,Oceanic,8.46,Geothermal,1,0.11294578156257618,2,No
+f2145550-8a76-4b32-b40d-02914a43ba31,Elysium,7768.400000000001,27,139,86.91,8,Hydrogen-rich,Volcanic,8.35,Nuclear,2,0.6288507541855699,0,Yes
+54a58612-64e2-4e07-b589-a16e39b0ac35,Xenon,871.79,41,111,184.93,8,Methane-dominated,Volcanic,17.62,Geothermal,4,0.5510666901944545,2,No
+1459a416-6cc0-4951-b9f5-ba57d3f774ab,Zarathustra,209.45,44,32,284.88,10,Methane-dominated,Volcanic,17.82,Geothermal,0,0.0,0,No
+4541cd96-1b41-4d23-97b6-1010bae96c8a,Titanium,166.25,7,364,345.56,8,Hydrogen-rich,Volcanic,5.92,Chemical,1,0.0,0,Yes
+ca3e5eec-12f1-4560-a82d-edb3f42ccf59,Titanium,785.69,16,345,415.13,6,Oxygen-rich,Oceanic,5.47,Chemical,1,0.19853323562642466,2,Yes
+20350f44-ad34-4f8b-882b-40c21c9ef94b,Aurora,914.11,19,223,393.09,9,Hydrogen-rich,Icy,7.91,Chemical,1,0.765576469751623,2,No
+b7add0e9-0573-4434-8259-8900fe05236b,Zarathustra,969.59,39,333,431.24,4,Hydrogen-rich,Volcanic,10.61,Nuclear,3,0.43903371717848744,2,No
+8035c0f6-b93b-4f5c-912b-0c8064d42519,Zarathustra,782.04,11,267,362.58,7,Methane-dominated,Volcanic,10.74,Nuclear,4,0.7258766167439821,0,Yes
+ac7f4e80-ce5e-403b-8ef0-4d1250fbad70,Aurora,539.15,5,308,439.57,6,Methane-dominated,Rocky,11.45,Nuclear,3,0.6698150847995534,0,No
+881274c2-6d94-4256-895d-aa5a7771c88b,Elysium,823.4,13,346,346.99,4,Oxygen-rich,Icy,15.09,Chemical,1,0.8607568113832594,1,Yes
+d254fdc0-8563-4c90-914a-a8abac589740,Xenon,115.96,6,350,57.98,7,Methane-dominated,Oceanic,7.0,Chemical,0,0.6853328961756555,2,Yes
+f86c4cde-b028-4175-accc-8b32a655d0c9,Aurora,38.79,29,34,71.4,8,Hydrogen-rich,Oceanic,3.45,Chemical,0,0.1723266458643217,1,Yes
+60014b68-4011-4428-a5f0-cac0697050a5,Xenon,698.3,40,119,143.56,9,Hydrogen-rich,Icy,0.15,Geothermal,2,0.7158894364620563,1,Yes
+1dd6bce9-69a4-40c5-a3d5-daba7c435cfd,Xenon,471.16,31,233,410.0,5,Oxygen-rich,Rocky,1.28,Solar,2,0.0,0,Yes
+14eeab4b-4de3-45dd-84b6-e4bfadca9e83,Titanium,879.57,27,77,170.24,3,Carbon dioxide-heavy,Icy,15.8,Chemical,1,0.6606633753056058,1,No
+fdd7dc41-717c-483e-9ddc-17470c767f1a,Elysium,921.67,23,362,96.39,10,Hydrogen-rich,Volcanic,17.95,Chemical,2,1.0,1,Yes
+7155977b-cb70-423d-aeab-00aea80d7da0,Zarathustra,995.6,36,112,207.73,1,Carbon dioxide-heavy,Rocky,2.04,Nuclear,4,0.5620601209916857,0,Yes
+7956bc4f-21a0-4769-b570-6c9145d66109,Aurora,104.52,32,255,132.8,1,Oxygen-rich,Volcanic,19.39,Nuclear,4,0.19066511149900045,0,Yes
+d2e2e7c6-8b17-419a-96e7-70914e33b447,Zarathustra,797.14,23,344,57.08,6,Oxygen-rich,Volcanic,0.44,Chemical,2,0.9224660562644144,2,No
+fc3c4fa4-c18f-4677-b13b-712bf515a4b1,Xenon,19.96,49,151,75.85,10,Hydrogen-rich,Icy,5.1,Chemical,3,0.5647823205369479,0,No
+0840059d-056d-40ff-b01d-b9e0fdfdbfd7,Zarathustra,616.54,44,208,322.46,9,Methane-dominated,Rocky,6.21,Geothermal,0,0.7664875729701923,1,Yes
+4a35163d-cbca-4c24-a7b1-809a7a6d0cce,Aurora,250.23,33,255,238.91,1,Methane-dominated,Volcanic,4.84,Nuclear,0,0.4826327412841624,2,Yes
+4a602c70-aba9-409f-9398-6c8536378616,Xenon,598.09,39,110,118.54,9,Methane-dominated,Volcanic,3.71,Solar,3,0.4071727552600565,1,Yes
+4cf41747-e25e-4eb5-afd7-4ee7934b9af9,Zarathustra,160.89,31,172,308.84,4,Methane-dominated,Oceanic,10.84,Geothermal,4,0.15485324259076025,0,No
+7f16cc21-1cb1-4ac9-a9d9-b0c0a1904ada,Titanium,28.63,34,362,264.05,5,Carbon dioxide-heavy,Rocky,2.39,Geothermal,3,0.8694144428923033,0,No
+b7ce7369-ff9f-430f-b272-fa4f5ce48684,Elysium,5156.1,16,340,334.41,9,Oxygen-rich,Rocky,10.6,Nuclear,0,0.5263126191781085,0,No
+6207d464-fadc-43d5-8cf0-98fc22cbe215,Elysium,44.62,7,62,479.98,5,Oxygen-rich,Volcanic,1.47,Chemical,3,0.2740504063494094,0,No
+3c909f71-02a7-4f0a-8d93-12e926d0e7e3,Aurora,614.32,38,152,,9,Methane-dominated,Rocky,14.23,Nuclear,0,0.5960546397460883,2,No
+c1743e36-0200-47d0-8503-3847f0c350a9,Zarathustra,522.55,10,43,169.88,7,Hydrogen-rich,Volcanic,14.56,Nuclear,4,0.46042862849179056,2,No
+a7d67d38-dd5a-4110-af86-977ab0b0fe7b,Aurora,362.6,27,310,77.56,7,Methane-dominated,Oceanic,6.94,Chemical,2,0.18736921523508765,0,Yes
+c4aa3c92-783f-45cf-a826-b16576c8e0bf,Elysium,546.32,15,41,443.87,9,Hydrogen-rich,Volcanic,3.26,Chemical,4,0.39149133179026313,0,Yes
+ca21d873-cfbc-4c4e-8776-89d6d9d5e4cd,Aurora,764.12,21,41,403.99,9,Methane-dominated,Icy,14.8,Nuclear,0,0.598035674618662,2,No
+206f1e03-7d9d-420f-bed3-6c8ed7852c3e,Zarathustra,118.51,12,309,488.76,10,Carbon dioxide-heavy,Oceanic,0.81,Geothermal,1,0.13309850606245488,0,No
+770aca0d-e9ba-4e6a-ba28-787cf5f24cd0,Titanium,692.23,11,135,394.68,1,Methane-dominated,Rocky,12.84,Solar,3,0.6435062212351529,1,Yes
+3609d006-dc75-4b91-a7f6-81c8ba719b82,Titanium,694.79,18,315,475.77,5,Carbon dioxide-heavy,Oceanic,7.56,Nuclear,1,0.8526600871468711,2,Yes
+0d90fa0f-fc34-4458-a44b-5daa131baab8,Titanium,473.35,21,275,271.39,8,,Icy,9.01,Geothermal,3,0.2988273479012612,1,No
+92c7e501-94ff-4a32-a7bb-44ec5e15bbc1,Elysium,656.73,29,157,430.85,9,Methane-dominated,Oceanic,4.47,Chemical,1,0.7759487724150897,0,Yes
+ba442144-893c-40aa-9881-4eb37e784c34,Zarathustra,19.71,12,268,265.71,2,Carbon dioxide-heavy,Volcanic,11.71,Chemical,1,0.0,1,No
+72b22426-81ed-4ff2-89c8-95dfb7d7bfb3,Zarathustra,792.92,25,191,187.21,10,Methane-dominated,Oceanic,3.55,Nuclear,0,0.060595057878165465,0,No
+556795b0-ffd2-41c0-99e9-6c269b5124ea,Xenon,637.54,45,252,218.96,10,Methane-dominated,Oceanic,13.51,Geothermal,3,0.9564192297861029,2,No
+1f5cb03f-ff1d-4e63-abf6-fed826ec972f,Xenon,609.69,22,274,298.86,5,Carbon dioxide-heavy,Rocky,11.32,Chemical,1,0.712707123671684,2,No
+2aa51362-d526-46cd-92fa-dec6819ad6a3,Titanium,653.8,12,158,280.86,10,Carbon dioxide-heavy,Rocky,18.43,Geothermal,0,0.801770802119945,2,No
+55ab9117-6fc0-49cd-845c-3ff3f70861a2,Elysium,2154.3,43,233,473.6,6,Methane-dominated,Icy,19.93,Geothermal,4,0.0,0,Yes
+a76589f2-8dad-4255-a723-2c141e161275,Titanium,620.92,28,292,161.22,2,Oxygen-rich,Icy,6.27,Nuclear,2,0.47358200798679834,1,No
+c72a8a7c-8ff0-4ec5-b20a-4bce0f8da537,Elysium,880.61,39,351,,5,Hydrogen-rich,Volcanic,13.63,Chemical,0,0.0,1,No
+c4a79fab-e476-4ea8-851b-7738518e4ba6,Aurora,503.05,12,196,114.19,3,Hydrogen-rich,Icy,12.4,Geothermal,4,0.1822109071259265,1,Yes
+a2274747-bfea-4f2e-be54-81a10bbc4701,Titanium,946.93,25,294,166.81,6,Methane-dominated,Icy,13.53,Nuclear,4,0.9172440743999336,2,Yes
+aaf48e31-8d70-4b4a-8155-7813c464bbdc,Elysium,782.67,10,322,436.01,6,Carbon dioxide-heavy,Oceanic,4.97,Solar,3,0.32302027059026833,1,No
+317f869c-0d1d-49f1-822d-7ae55da3ac3e,Titanium,445.26,29,73,110.71,9,Methane-dominated,Volcanic,6.75,Nuclear,3,0.48275061788866447,1,No
+3f398b3b-af13-4e0b-9c03-77c2e4333e55,Aurora,880.44,20,114,466.0,1,Carbon dioxide-heavy,Volcanic,16.84,Nuclear,3,0.6478344238075413,0,No
+032b9650-7e8a-441a-8dbd-881b943712d9,Zarathustra,879.97,13,195,60.46,9,Methane-dominated,Volcanic,17.56,Geothermal,2,0.5299640854169589,1,No
+1247da80-7d7e-4f9b-b9f5-eb02e23c3f5c,Titanium,396.58,42,363,67.22,1,Hydrogen-rich,Icy,5.15,Geothermal,0,0.47428435730440466,1,No
+5c8e06fe-ac1c-4154-8ff8-f15462825469,Titanium,401.83,24,217,285.87,9,Methane-dominated,Icy,2.17,Nuclear,2,0.3959155958756983,2,No
+41fc7e42-522a-4e34-bc72-66a1de4071ca,Aurora,156.52,27,341,214.79,7,Oxygen-rich,Oceanic,2.12,Solar,1,1.0,1,Yes
+5051a58b-afb0-42ca-8c8a-572c5d5a4aa6,Zarathustra,759.69,45,194,150.87,4,Methane-dominated,Oceanic,2.85,Chemical,3,0.20391522350654667,1,No
+a470ddaf-3d98-4612-a123-ce265340b080,Xenon,404.93,48,349,50.57,6,Carbon dioxide-heavy,Oceanic,9.68,Solar,1,0.18903295457238137,1,Yes
+cd4f417f-c2af-4ed0-a2e5-b9be57f977e8,Aurora,526.21,49,40,179.0,4,Carbon dioxide-heavy,Volcanic,11.67,Nuclear,2,0.5335948945687442,2,Yes
+e438f487-a868-4026-aaf9-7d0d9636da91,Zarathustra,210.43,38,209,487.74,4,Oxygen-rich,Volcanic,17.7,Nuclear,0,0.10187162410937575,0,Yes
+538edc57-0a12-42f9-91be-d7e779272773,Elysium,792.79,17,250,199.34,8,Hydrogen-rich,Icy,2.56,Nuclear,0,0.3160805941639636,0,No
+d25505b8-30f7-443c-9180-0a1d9555e94d,Titanium,348.38,18,259,52.1,5,Hydrogen-rich,Rocky,15.85,Nuclear,2,0.47397293203197266,0,Yes
+9b0b67d0-aea0-4900-a355-1a13b1ab83ec,Titanium,789.97,45,316,144.12,9,Methane-dominated,Oceanic,7.04,Solar,0,0.2098061236179175,1,Yes
+f385b792-b19c-4f8e-9ca4-a672d08bf9a5,Zarathustra,902.21,33,352,94.02,10,Methane-dominated,Rocky,8.66,Solar,2,0.8009547889782223,2,Yes
+9f8bb319-9daf-4cf7-b4ea-7ac3c52c4bf5,Aurora,457.43,29,154,106.06,9,Carbon dioxide-heavy,Icy,13.21,Solar,0,0.0752761213439677,0,Yes
+a0612bc8-605a-48d6-b487-e6f5dea47b3a,Xenon,331.79,37,121,162.55,10,Oxygen-rich,Rocky,3.11,Geothermal,1,0.09601648528550741,0,Yes
+bc1350c7-f102-4c2e-99ce-227d053666e5,Zarathustra,111.67,7,163,,3,Carbon dioxide-heavy,Icy,3.17,Solar,1,0.11493337759381372,2,No
+02a5f0a3-e31e-440b-852c-457194ddf286,Elysium,118.44,21,92,304.21,8,Oxygen-rich,Rocky,5.39,Solar,2,0.11906698206611514,2,No
+178fc74e-baaa-4b61-9112-cebbe91a6c1b,Xenon,305.95,10,166,395.39,9,Hydrogen-rich,Volcanic,5.64,Nuclear,0,0.9526050769921816,0,No
+c420a2f0-c44d-4ffe-9b5d-5fbdbbe877c2,Titanium,803.0,30,157,166.33,7,Oxygen-rich,Rocky,7.81,Nuclear,3,0.17758624320368727,2,No
+0509782f-3c00-408d-acad-c8f005023f80,Aurora,431.9,35,283,113.36,4,Oxygen-rich,Volcanic,5.05,Chemical,4,0.09929101654840078,1,Yes
+10f091f9-957c-46ca-ab88-706c9fcf6b27,Aurora,179.87,27,247,317.13,10,Methane-dominated,Oceanic,13.82,Chemical,3,0.8179612841937969,1,No
+4cad06a1-8bc1-4cf1-85a3-b4640c6b05e7,Titanium,867.47,44,199,139.59,3,Hydrogen-rich,Oceanic,7.3,Chemical,4,0.7754938091121686,2,No
+dca7268d-325c-4599-8866-bed127770066,Titanium,639.8,37,267,347.38,8,Carbon dioxide-heavy,Icy,19.79,Geothermal,0,0.6782320263189118,0,No
+65edbaa7-8907-45a6-921e-aa257333cd43,Elysium,152.75,35,111,452.12,1,Methane-dominated,Rocky,14.88,Chemical,1,0.4739408577243467,0,No
+b497c671-85b2-46c5-ab16-3dc7c3fc7964,Zarathustra,297.75,6,141,328.38,5,Hydrogen-rich,Volcanic,9.64,Chemical,4,0.08160069823919278,0,Yes
+3070f1ab-9e4e-4686-a7d6-f3251fa77f69,Aurora,175.4,11,319,166.7,1,Oxygen-rich,Icy,12.13,Solar,0,0.7269756542743437,1,Yes
+bfe29f26-da6b-43a3-8bbc-41da2565b781,Titanium,520.32,41,82,400.05,8,Oxygen-rich,Icy,6.66,Solar,1,0.6066833433188501,0,Yes
+b5195aa7-9972-4323-821d-52536fdd3b55,Aurora,318.15,25,168,323.83,3,Hydrogen-rich,Oceanic,11.9,Geothermal,1,0.9881173150847083,1,No
+fdf76def-9c26-47c0-9385-3f462efc1aa0,Xenon,650.89,37,202,292.26,5,Oxygen-rich,Oceanic,14.7,Solar,3,0.23342930118160918,1,Yes
+a0934225-a03d-4747-b4ac-a5054b4cf058,Xenon,582.86,17,78,73.19,1,Oxygen-rich,Rocky,0.19,Geothermal,1,0.5557566304124826,0,Yes
+501254bf-fd42-4728-a753-5dd9bea5f7a1,Zarathustra,970.26,28,246,199.24,5,Methane-dominated,Rocky,5.65,Solar,3,0.9059885826497055,2,No
+5df4441e-bceb-42b8-9d98-0066e9180e38,Zarathustra,75.07,7,359,143.89,10,Methane-dominated,Icy,5.18,Chemical,0,0.17602478084265483,0,Yes
+988616cb-12aa-4936-a57d-2258ed6172ec,Zarathustra,478.5,34,181,490.71,8,Oxygen-rich,Oceanic,13.35,Geothermal,0,0.4561735518768353,2,No
+5bd7dbd3-86d2-4c96-8cd9-17df3adf3b0f,Elysium,620.29,49,159,53.68,5,Oxygen-rich,Rocky,16.08,Nuclear,0,0.8923639549211844,2,No
+6535b73b-56b7-4e41-a707-d82fa966ffff,Aurora,544.37,9,287,198.16,10,Oxygen-rich,Oceanic,6.29,Chemical,0,0.19797578793896625,0,No
+f5a128f5-5048-4429-b39a-c59283f59dd5,Elysium,316.5,27,246,55.33,2,Methane-dominated,Oceanic,1.5,Solar,3,1.0,2,Yes
+357f084b-93b9-4716-8760-7bb349468eee,Aurora,768.01,15,340,402.23,10,Hydrogen-rich,Volcanic,5.05,Solar,1,1.0,2,No
+ff7f3e07-93aa-49da-89c5-a4fe923d74ad,Aurora,486.61,8,351,228.1,6,Methane-dominated,Volcanic,1.64,Geothermal,4,0.6410084546075908,0,Yes
+391bbb63-c035-49df-af67-c3e8fbbe8334,Xenon,540.51,22,85,483.09,2,Methane-dominated,Volcanic,5.86,Solar,3,0.4980835788635245,2,Yes
+f7af8c0d-7cb2-4544-83d0-5bc985ee14e4,Xenon,127.43,32,308,453.3,3,Oxygen-rich,Volcanic,13.49,Chemical,3,0.10837315339556171,0,No
+45310660-6d5f-4e48-8e07-455817f1f43b,Titanium,56.13,25,301,263.86,9,Methane-dominated,Volcanic,12.78,Nuclear,0,0.6019114785579353,2,No
+67c98110-1615-4c75-a82d-5ce821252e31,Elysium,670.78,7,114,189.18,6,Methane-dominated,Rocky,12.54,Geothermal,0,0.29900323992631983,1,Yes
+9eabb5ab-7c85-49ca-be34-04a37ede7a53,Titanium,382.19,29,271,325.12,2,Oxygen-rich,Oceanic,7.89,Solar,2,0.5421162933003931,2,Yes
+ce3ab831-e0d1-40dc-a1f6-6a392b5fc689,Elysium,845.7,43,329,331.31,2,Carbon dioxide-heavy,Icy,19.8,Geothermal,4,0.27573820473049854,1,Yes
+a3fc277b-7fa8-4222-9c0a-71ef442995bd,Titanium,469.26,37,190,189.86,8,Oxygen-rich,Icy,1.48,Solar,4,0.2464717901346855,0,Yes
+c317ab7f-577e-438f-bc95-99a5952052de,Aurora,264.23,36,33,152.73,5,Methane-dominated,Volcanic,17.26,Nuclear,0,0.8123499518705006,1,No
+56616f46-55dc-443b-a6be-623983d966fa,Titanium,617.04,33,225,282.76,2,Methane-dominated,Rocky,8.82,Solar,2,0.09635726803835688,2,Yes
+6149e62f-b7d7-4f98-a428-a1bfc44e2b6a,Aurora,149.49,44,96,156.35,6,Methane-dominated,Icy,9.6,Nuclear,4,0.8688580877779623,0,No
+cb92b4fb-dac3-47b3-a0f9-d071c19e4d61,Zarathustra,199.93,42,345,53.34,8,Hydrogen-rich,Oceanic,9.18,Nuclear,4,1.0,2,No
+f66a176d-664f-49a8-8537-47687370a90d,Xenon,451.31,11,183,343.74,3,Oxygen-rich,Volcanic,6.02,Geothermal,4,0.08893799348706255,2,No
+2c9d7c12-667d-46ed-98fb-9dc5c87b20d5,Aurora,133.13,26,328,451.52,9,Methane-dominated,Oceanic,12.23,Chemical,0,0.3147487514984125,2,Yes
+6405f57e-6801-4fb5-902d-635cf54593ee,Elysium,622.63,12,125,256.75,2,Methane-dominated,Rocky,8.19,Solar,3,0.35383610697740947,1,Yes
+195c0ba4-86d0-48e5-aeed-cc2ea11d603d,Titanium,881.87,45,102,347.33,5,Oxygen-rich,Oceanic,4.61,Solar,0,0.790754019649073,0,No
+c584f549-7e09-4a46-8bc2-1fcdbb161b48,Zarathustra,951.28,45,62,299.23,6,Methane-dominated,Icy,14.86,Nuclear,0,0.40591631205548395,1,No
+4dc99738-517c-4983-8a97-7fb552ca4f1f,Titanium,749.21,24,269,409.94,3,Carbon dioxide-heavy,Rocky,10.6,Chemical,1,0.03628723619538801,2,No
+478465ce-9767-4d48-9a0b-8d9a83581032,Zarathustra,510.25,31,170,348.83,10,Oxygen-rich,Icy,19.37,Geothermal,3,0.053424127177067335,0,No
+c6698ba4-9d34-41ea-9f93-835852eb096e,Titanium,977.39,22,68,493.81,1,Hydrogen-rich,Icy,3.21,Nuclear,1,0.25704655400766196,1,No
+514e0eef-d88a-4f8d-97af-9fa81f310b25,Elysium,126.41,28,271,371.04,10,Carbon dioxide-heavy,Volcanic,8.93,Nuclear,0,0.7886973994616251,0,No
+645ee0fb-c826-4f19-aead-be6229991303,Titanium,67.77,35,205,167.53,6,,Icy,13.32,Geothermal,2,0.6839081295940885,2,Yes
+98f6982e-ea33-4100-95c3-0213c0aacd81,Elysium,196.93,49,204,298.91,2,Hydrogen-rich,Volcanic,9.8,Geothermal,1,0.502582332077192,1,No
+639f4bb9-af22-47ff-9d45-795f431b2104,Zarathustra,194.29,47,276,246.67,1,Methane-dominated,Oceanic,7.89,Solar,2,0.3929332602408205,2,No
+e82a1042-61d5-4dbf-814e-bb4d83e790e3,Aurora,842.71,8,122,66.5,2,Methane-dominated,Icy,9.38,Chemical,3,0.30603451627489386,1,No
+9f4bb7be-2c4e-46b2-8762-032eab88975e,Elysium,330.09,34,311,179.77,7,Methane-dominated,Icy,7.62,Solar,4,0.6729192741292263,1,No
+1d8b301b-60f6-4e97-a0d6-5e4082cf75e4,Xenon,448.22,46,306,231.13,1,Methane-dominated,Volcanic,5.96,Geothermal,3,0.3077460592865515,1,No
+0dbd5065-f477-4d69-91c5-8dd5e75e9ccd,Zarathustra,298.99,49,30,343.5,4,Hydrogen-rich,Icy,1.38,Chemical,1,0.18337618296911018,1,Yes
+ce1ebfa6-080a-49dd-8f22-ab4c085b85ba,Titanium,404.03,11,91,275.94,3,,Oceanic,10.03,Geothermal,0,0.8248894990932883,0,No
+85aba0c9-c50b-4ec0-bbe9-482ee8d1ae9f,Xenon,921.0,24,122,111.11,6,Hydrogen-rich,Icy,13.21,Chemical,3,0.16072953170361537,2,Yes
+1580db7e-41b4-46c5-ab9c-25728c65ac88,Aurora,794.4,43,268,812.65,1,Hydrogen-rich,Rocky,17.98,Chemical,4,0.5408848139115512,1,No
+dbf1b1ff-2733-4445-9dee-07e6a5c84e19,Aurora,255.85,40,308,184.6,10,Methane-dominated,Volcanic,10.87,Geothermal,3,0.13977378377704835,2,No
+cf4f4386-b83e-48a6-819f-ee91c6a2f88a,Elysium,158.51,44,73,107.74,2,Carbon dioxide-heavy,Oceanic,2.98,Solar,1,0.14056889623454197,2,Yes
+f24615c6-9bed-451d-9513-7386231efabe,Xenon,188.79,23,304,139.93,3,Oxygen-rich,Rocky,19.05,Solar,4,0.0,2,No
+03c63caa-58f4-4580-91c7-4eb629f58d9c,Elysium,719.66,25,202,420.85,2,Carbon dioxide-heavy,Oceanic,9.08,Nuclear,2,0.014960434265247277,2,Yes
+979003ef-7068-4d2a-98bc-ffeaf2c95110,Elysium,193.1,42,293,288.76,5,Methane-dominated,Icy,19.94,Nuclear,3,0.25421770065111765,0,No
+7de1aa09-be55-46a2-9aeb-72da278de41e,Titanium,996.83,16,32,325.92,2,Methane-dominated,Volcanic,1.26,Geothermal,2,0.6448832031020525,1,Yes
+8269ac71-6886-45bd-8152-31bcf7c66fbf,Elysium,268.91,8,249,198.68,7,Methane-dominated,Icy,2.57,Nuclear,1,0.02344511294822369,0,No
+9f2f697a-e673-4180-b308-b9c0786ce346,Xenon,336.09,13,274,256.85,10,Hydrogen-rich,Icy,9.76,Solar,3,0.7397810156462831,2,No
+7fcf2c27-0d5a-4bc1-8b26-a89c003a82be,Titanium,21.08,30,141,453.23,8,Hydrogen-rich,Rocky,17.05,Solar,0,0.0020443832651431855,2,No
+a3da4e6d-8025-4a84-a3e5-3096b4a5bc6a,Elysium,764.53,24,95,244.16,9,Carbon dioxide-heavy,Oceanic,2.96,Geothermal,2,0.770814595541349,1,No
+009369d0-33e5-4aac-91ab-6a33ca021a9e,Aurora,673.4,25,205,285.17,7,Carbon dioxide-heavy,Oceanic,18.57,Solar,2,0.468034830690567,0,Yes
+8f1567d7-5509-4303-838f-30bdcedeb0f7,Titanium,864.13,46,62,434.49,4,Oxygen-rich,Volcanic,4.25,Geothermal,3,0.6799860556575443,2,No
+2ba00e9e-d8b8-4e69-9594-128a964531cb,Titanium,723.33,31,332,311.74,5,Carbon dioxide-heavy,Oceanic,17.12,Solar,1,0.8003952100738537,2,No
+4b595e33-2599-4d48-8092-5cceaeabd3f2,Zarathustra,352.38,36,352,120.73,1,Oxygen-rich,Rocky,4.0,Solar,2,0.2877720201235448,0,No
+a3aab108-770e-4609-a4e2-59cd4b8f6077,Aurora,466.97,35,288,226.36,2,Methane-dominated,Rocky,14.86,Chemical,4,0.636954770634659,0,Yes
+960b7656-43dc-4ab9-8b84-c24fcf6def81,Aurora,751.95,21,132,390.82,7,Methane-dominated,Icy,6.52,Solar,1,0.42216934373870757,1,Yes
+6fe73a8a-8549-4a41-8685-56f8b8fcadc7,Elysium,572.6,8,186,91.89,9,Oxygen-rich,Volcanic,19.92,Chemical,2,0.3034808822366128,1,Yes
+eed008cd-37c6-46bd-960f-210036b12b18,Zarathustra,301.28,33,250,165.23,4,Hydrogen-rich,Icy,0.68,Chemical,0,0.311391579608916,2,No
+b6f18aea-129e-4707-be54-bfe7ff1b3c08,Titanium,422.5,19,119,353.22,10,Oxygen-rich,Icy,10.18,Nuclear,3,0.16122669331891487,0,Yes
+8d05d200-36e0-47e5-a480-e43fdbc842cd,Zarathustra,964.35,42,318,115.6,3,Methane-dominated,Oceanic,3.01,Chemical,0,0.6518507240958284,2,No
+30cc3d8f-7d87-432e-ba8b-9d38d2181de3,Zarathustra,620.98,49,86,210.14,10,Carbon dioxide-heavy,Oceanic,16.65,Nuclear,2,0.8693766035500875,1,Yes
+5433a1c0-8925-48cd-bcb3-1c19587b87af,Titanium,937.21,22,302,379.13,6,Methane-dominated,Oceanic,2.91,Nuclear,0,0.6451010963453011,1,No
+10438706-6c45-4d88-8403-4b4e8e2c189f,Elysium,148.85,15,204,116.47,2,Hydrogen-rich,Volcanic,5.85,Geothermal,4,0.6908456343648197,2,Yes
+6b30def5-9a58-4289-b2fe-6db69554b355,Titanium,515.78,10,359,343.04,4,Hydrogen-rich,Volcanic,8.15,Nuclear,2,0.16435730136433985,1,Yes
+69fb9afb-89d2-43b5-80bb-7a5a9e7e18e6,Zarathustra,654.42,45,234,411.71,9,Hydrogen-rich,Rocky,10.28,Nuclear,1,1.0,1,Yes
+e4748b80-bd72-4af9-89d1-262a6c7a966a,Elysium,456.08,42,139,138.45,4,Hydrogen-rich,Oceanic,0.76,Solar,0,0.4936278108287655,1,No
+4d290f49-30d8-45c4-adae-a0c446701134,Zarathustra,995.46,31,108,423.93,3,Hydrogen-rich,Rocky,1.76,Geothermal,1,0.5567270259571548,0,No
+9af0a413-4f56-41ce-b92d-f9881e2df361,Xenon,928.89,28,150,145.41,6,Methane-dominated,Oceanic,4.5,Nuclear,1,1.0,1,No
+1fd919f1-8a64-4350-bafb-df3d99ec55be,Xenon,758.64,15,185,260.08,1,Hydrogen-rich,Rocky,5.26,Geothermal,1,0.21796702773299098,1,Yes
+fbe2e42d-2b78-4f97-83cc-207fbbbfa10c,Zarathustra,207.77,6,295,310.65,6,Hydrogen-rich,Rocky,13.57,Solar,3,0.1747371332330092,0,Yes
+f6a38aed-fab8-4e17-afb8-8b3600d26819,Titanium,150.58,9,211,225.68,4,Oxygen-rich,Volcanic,9.56,Nuclear,1,0.2856776010121755,0,No
+af0507b8-6300-4e5c-8b3d-7e4609794b5b,Xenon,500.29,31,121,386.37,2,Carbon dioxide-heavy,Oceanic,11.16,Solar,4,0.3585431436099311,0,No
+8fe97bec-b9bd-4543-b2e6-80e786fa51ab,Xenon,507.04,15,227,53.43,3,Methane-dominated,Volcanic,4.95,Chemical,0,0.7181726188335639,0,No
+db0ac61a-9ec8-448b-af78-2441fdc6dc5c,Xenon,43.71,45,262,492.3,7,Methane-dominated,Rocky,13.29,Nuclear,3,0.11613633387982873,0,No
+607b7c3c-49ef-4bf9-9187-c481beee8cfe,Aurora,991.64,36,71,212.78,3,Hydrogen-rich,Oceanic,12.52,Geothermal,1,0.8420546196790177,0,Yes
+0afbb222-0631-4c78-8aa8-495769ec511f,Xenon,243.21,6,70,385.23,5,Hydrogen-rich,Icy,5.03,Nuclear,2,0.5299296562247776,0,No
+ef912355-da84-42b5-99ed-ed79f47f3569,Elysium,714.56,45,40,65.23,9,Carbon dioxide-heavy,Volcanic,17.93,Solar,0,0.35810810490832495,0,Yes
+edcc3758-2dd3-461b-af6f-be01dbe90d78,Titanium,486.31,16,158,290.62,6,Methane-dominated,Rocky,2.27,Solar,4,0.18621504718875873,0,No
+e6d8f76d-68dc-4b15-a24c-d3628d9f1dc2,Zarathustra,929.46,20,95,77.23,9,Hydrogen-rich,Icy,19.04,Chemical,1,0.9127354221428857,0,Yes
+14361b97-8d37-409b-8a85-d8c4508b4490,Elysium,751.7,8,134,376.0,8,Methane-dominated,Volcanic,11.22,Chemical,1,0.3772369778026155,1,No
+b9ac06f3-92bc-48c4-b99d-4d8d945d580f,Zarathustra,429.08,46,82,410.31,9,Hydrogen-rich,Rocky,4.36,Nuclear,0,0.0,0,Yes
+dee17a64-d7cf-4dc9-ac80-b3017ae0c6f1,Elysium,350.44,32,360,479.35,5,Methane-dominated,Oceanic,14.81,Chemical,1,1.0,0,No
+3fa839ee-02f0-4e3e-98c7-92cc10bc46ac,Xenon,795.05,29,162,306.43,2,Oxygen-rich,Volcanic,14.93,Nuclear,1,0.2282052907252899,0,No
+e033bb97-fc1c-45bc-bb19-56f44e1a3403,Titanium,993.6,47,157,424.45,2,Oxygen-rich,Volcanic,5.13,Solar,2,0.47713261417049313,0,Yes
+309ba707-0511-43c6-b023-fa332729c6ff,Aurora,23.69,43,162,296.39,6,Methane-dominated,Rocky,5.28,Nuclear,0,0.44725102507519887,1,Yes
+705007eb-1b52-47a2-929a-fdfcc17fd0e1,Xenon,514.37,26,191,323.27,7,Oxygen-rich,Oceanic,12.96,Geothermal,2,0.10003120552685058,2,Yes
+75078903-1508-4343-aaf3-4f1a27c80f54,Titanium,553.27,25,296,368.8,10,Methane-dominated,Oceanic,17.34,Nuclear,2,0.19641990968721057,0,Yes
+177f671f-740b-46a8-87b8-942849297c1d,Aurora,91.21,5,82,425.88,4,Carbon dioxide-heavy,Icy,3.61,Solar,1,0.5666697224700912,0,Yes
+46586bff-ac81-4a99-a49f-1af278c1295c,Elysium,669.32,28,295,380.36,6,Carbon dioxide-heavy,Volcanic,18.42,Chemical,2,0.3101085896327602,1,Yes
+f5fa24ca-9e05-407c-a18e-5ff9b16e3069,Elysium,916.79,35,310,210.31,7,Carbon dioxide-heavy,Icy,1.51,Chemical,4,0.9226646011852038,1,Yes
+c70eb543-bfba-48cd-83ae-4e5e8c10d85a,Elysium,809.14,20,272,487.99,10,Oxygen-rich,Rocky,2.98,Nuclear,3,0.7036885131781639,1,No
+3dc877da-d25b-454e-9f7f-51680697278d,Xenon,728.86,5,271,445.88,10,Methane-dominated,Icy,8.43,Geothermal,0,0.41641996035419376,2,Yes
+2fa87d01-8060-4ae6-9327-3e35375d8345,Titanium,802.55,10,227,424.74,1,Methane-dominated,Icy,2.01,Solar,1,0.12178031080950966,2,Yes
+7a3c53a9-556c-4d69-a690-c68b4ac57815,Zarathustra,511.29,33,92,113.43,4,Hydrogen-rich,Rocky,11.08,Nuclear,4,0.5880758432708896,0,No
+1faf7051-27d7-4c07-bd94-5eca6e574240,Aurora,67.54,24,275,125.2,4,Methane-dominated,Icy,8.44,Solar,0,0.1578603740196125,1,Yes
+528c6b45-4a62-4f2c-843c-03f4f9a05977,Xenon,804.61,30,286,489.54,2,Methane-dominated,Volcanic,7.38,Nuclear,0,0.9834588853949411,1,No
+3319e888-4958-4c8c-b276-15f57a8295da,Titanium,12.36,23,250,455.06,3,Oxygen-rich,Volcanic,13.61,Geothermal,0,0.22788578165382692,2,Yes
+023f7857-a3e2-4e8d-a4ea-ad95009a3766,Aurora,793.59,35,197,213.29,2,Hydrogen-rich,Rocky,2.18,Geothermal,1,0.460702110329451,2,Yes
+19f01c51-fb21-4e08-9174-e4fe4c891226,Elysium,488.19,37,112,139.83,7,Carbon dioxide-heavy,Oceanic,9.73,Solar,0,0.37967864216129693,0,Yes
+4bde297c-6dd8-45ee-a852-f0209c5cfae6,Aurora,80.76,27,296,415.66,3,Methane-dominated,Rocky,4.7,Nuclear,0,0.36089443689988115,2,No
+248330c6-cd7f-4415-8671-b5831def21ce,Aurora,795.46,25,202,457.06,10,Carbon dioxide-heavy,Rocky,7.56,Solar,0,0.747661338853043,0,Yes
+4e45dcf0-080d-4635-ba9b-97ec663ac4ba,Elysium,702.91,20,47,80.45,9,Hydrogen-rich,Icy,10.63,Solar,3,0.0024420529891003573,0,Yes
+94f4bee5-7d40-41d5-b41d-3ae8b24353b0,Zarathustra,867.64,16,255,367.74,3,Carbon dioxide-heavy,Oceanic,19.57,Geothermal,2,0.9101296248680291,2,Yes
+0a842f2b-eef4-42ed-bd52-a233c4761d67,Titanium,347.13,29,252,126.79,9,Methane-dominated,Icy,13.45,Chemical,1,0.39523919772756455,0,No
+cc844d02-e9b9-4a5b-9e36-59e500720ffe,Aurora,741.46,21,248,108.85,7,Carbon dioxide-heavy,Volcanic,12.34,Nuclear,2,0.5277350571815678,0,No
+9e3d216e-bec8-461d-885e-74b150d366c8,Aurora,861.33,44,53,370.07,3,Hydrogen-rich,Icy,14.44,Nuclear,4,0.6689107753547403,1,Yes
+e8dda025-8b30-4c74-9f3b-3f1bb48de4ca,Elysium,983.64,7,123,159.7,8,Hydrogen-rich,Rocky,19.11,Solar,1,0.5516413878874619,2,No
+f07436ff-01ec-4333-80d9-a1cbf0f98f24,Xenon,187.39,38,127,346.13,4,Methane-dominated,Oceanic,19.55,Chemical,3,0.6208164771528711,2,Yes
+ff95e130-3cd0-4549-83e2-d153dd15a0df,Xenon,683.68,47,255,163.36,2,Methane-dominated,Rocky,16.6,Chemical,0,0.16335409580021434,2,No
+d4450815-7b4b-4078-941d-40a05abbe0be,Xenon,688.38,35,334,223.76,2,Oxygen-rich,Icy,0.82,Solar,2,0.8497891923850063,1,No
+a3b5561f-1480-4531-82fa-c649204cc575,Zarathustra,22.48,6,200,70.38,3,Carbon dioxide-heavy,Rocky,16.45,Solar,3,0.5473448598420192,1,Yes
+8c35ae81-1b86-4546-8a65-22ae42c84013,Zarathustra,737.8,18,208,101.81,6,Hydrogen-rich,Rocky,12.87,Solar,2,0.6809129212392964,1,Yes
+a636e033-845f-48e4-abb0-5ba0606a1b06,Titanium,78.05,5,92,206.7,10,Oxygen-rich,Oceanic,19.88,Solar,2,0.2709939612648564,1,No
+834c1991-d1e8-4acb-84e7-28259d5ee41d,Elysium,68.88,43,280,214.22,10,Methane-dominated,Rocky,5.09,Geothermal,2,0.9941768424953266,2,Yes
+aaa53b0c-9c72-4010-afeb-405cb786a73e,Aurora,813.01,38,243,201.25,5,Oxygen-rich,Icy,5.49,Solar,0,0.20858914006539586,2,No
+1394318f-8a16-490b-83fd-d8d0a8c4990b,Xenon,434.85,43,56,359.45,4,Methane-dominated,Rocky,4.78,Solar,4,0.017499180762364494,0,No
+a88d0eac-3e08-4c69-a957-303a9521ad97,Aurora,459.37,36,64,,2,Carbon dioxide-heavy,Rocky,8.78,Geothermal,3,0.3400536982152492,0,Yes
+be01e7e7-1767-48a0-8c63-40d3cdf16f39,Zarathustra,34.03,18,146,443.24,8,Methane-dominated,Oceanic,4.63,Geothermal,2,1.0,2,Yes
+a5d2ad63-0e97-4a14-af6b-2b4456509e8f,Xenon,499.55,44,220,262.61,8,Carbon dioxide-heavy,Oceanic,19.93,Geothermal,1,0.3817414373301359,2,No
+1108f860-39f5-4e9f-8275-d29f76590c8a,Xenon,29.01,39,250,385.48,5,Oxygen-rich,Volcanic,13.0,Geothermal,1,0.48599431929513925,0,No
+0077dc1d-3b97-43b0-b5e5-54edbf3d1ffa,Zarathustra,785.95,36,292,146.56,7,Methane-dominated,Rocky,13.21,Geothermal,0,0.7375597048874705,2,No
+265a2753-3604-4733-a10f-0ddc9439a441,Elysium,512.76,26,304,182.92,10,Methane-dominated,Volcanic,11.7,Solar,0,0.9332761578039729,0,No
+2a343906-2db6-4125-97e9-2540d3622221,Aurora,158.17,12,292,282.79,6,Carbon dioxide-heavy,Rocky,12.51,Solar,3,0.8065531284633045,1,Yes
+24c65630-d76b-4982-b381-22870b32dbc5,Zarathustra,269.75,40,93,207.71,9,Oxygen-rich,Rocky,5.72,Geothermal,0,0.8060127288017064,0,No
+cec4ce4a-e079-4d70-ae57-325da67578e1,Aurora,615.23,7,95,250.64,10,Carbon dioxide-heavy,Icy,14.09,Geothermal,2,0.6285390867692556,0,Yes
+518ecfa2-6b29-42aa-9d24-c3ead3f6b764,Elysium,986.59,10,308,273.86,5,Hydrogen-rich,Oceanic,14.93,Geothermal,2,0.5768023566374888,1,Yes
+b5731813-2289-4131-b287-48638d3dbe60,Zarathustra,737.3,20,321,83.48,4,Oxygen-rich,Volcanic,14.32,Solar,4,0.3782060256616206,1,No
+ae634038-24de-4bd3-b259-f4f46962d37e,Titanium,219.18,31,250,123.33,3,,Rocky,4.15,Nuclear,2,0.38818283765912487,2,Yes
+c3cb7b44-2e9c-48e4-8d48-36e997433cf1,Aurora,162.98,41,238,394.41,3,Methane-dominated,Rocky,17.02,Geothermal,1,0.8812239587569023,1,No
+f5bc896b-a33f-4a5d-aa56-4065a080d98d,Titanium,583.63,14,50,160.6,6,Carbon dioxide-heavy,Rocky,14.05,Nuclear,0,0.05489762668219248,2,Yes
+b98a6e4a-ac18-45df-b3fe-2ea413e7b419,Titanium,383.31,31,268,242.76,9,Methane-dominated,Volcanic,14.96,Geothermal,0,0.5998872684987516,1,Yes
+b30f8543-7499-44aa-9f9f-bf8c0d3ba27b,Aurora,424.94,27,317,266.6,7,Hydrogen-rich,Oceanic,15.37,Solar,2,0.4511080012499854,2,Yes
+5deb98bd-9b9d-496c-abc3-27db062e2be8,Zarathustra,484.1,5,132,333.08,5,Methane-dominated,Oceanic,18.54,Solar,2,0.14410920955910303,2,No
+1afaae5d-946b-45ed-9ca0-1b668279f01b,Aurora,847.68,12,180,313.97,7,Carbon dioxide-heavy,Icy,11.06,Nuclear,4,0.7620659055891577,1,No
+54a14a4f-9b37-4936-a6a7-0835a00f676e,Titanium,92.58,6,249,274.19,3,Methane-dominated,Volcanic,17.01,Solar,0,0.8464000303700252,1,Yes
+9cb8985b-7071-4798-8a5d-1848044763a3,Aurora,448.47,6,111,222.14,4,Hydrogen-rich,Oceanic,13.98,Nuclear,1,0.5064021865768168,2,No
+f9974629-3aaf-43fc-9b3c-ad077f12dff1,Xenon,36.19,25,70,485.68,3,Methane-dominated,Oceanic,12.8,Geothermal,1,0.3883645565456662,2,Yes
+f37c069a-12e4-457b-baa7-62f5ef5594b2,Zarathustra,733.6,29,324,220.08,3,Carbon dioxide-heavy,Volcanic,11.39,Geothermal,2,0.6617588287591467,2,No
+b7bad92e-8fda-4ffc-a391-49d7a4578b4a,Xenon,946.05,31,167,370.31,2,Carbon dioxide-heavy,Icy,3.75,Nuclear,3,0.5186437052939541,1,No
+7b1b4b09-42f9-42b3-a83f-5890ce1c2f99,Zarathustra,884.24,40,74,237.3,4,Hydrogen-rich,Oceanic,4.55,Nuclear,0,0.9448614705508842,1,Yes
+88d0fdde-718f-4681-88e2-d137c7a080fe,Aurora,66.27,20,341,344.91,1,Methane-dominated,Rocky,13.28,Geothermal,2,0.5238426511160662,0,Yes
+16c412cf-e29a-453a-a049-d25ea17d7c91,Elysium,100.63,44,63,472.24,4,Hydrogen-rich,Rocky,17.26,Solar,2,0.6697440255519518,0,No
+b56ca560-4a54-4c82-b3ff-b5e9005e61a7,Aurora,994.43,14,268,179.04,8,Hydrogen-rich,Oceanic,8.84,Solar,0,0.3057034508670597,0,No
+4ccc0fb5-f663-43b2-aa40-f5264e4a90fa,Titanium,534.15,36,345,,2,Methane-dominated,Rocky,10.16,Solar,2,0.6891354946064862,2,Yes
+695ee61c-c85d-4852-8027-d4c5f17a8f05,Xenon,222.22,9,210,489.11,5,Hydrogen-rich,Icy,7.19,Solar,0,0.7600110062712264,2,No
+4c846f8f-8d06-413e-823c-33135a5e98b4,Elysium,286.46,15,241,497.73,4,Methane-dominated,Rocky,16.87,Solar,1,0.2969979350186617,0,Yes
+9923f276-1669-4c9b-bb28-6f01e17293f3,Titanium,506.7,28,323,409.11,3,Oxygen-rich,Icy,6.58,Chemical,1,0.33721188664615814,0,Yes
+ef405bdb-3789-4c94-a706-4d2d1ba4f571,Elysium,59.95,43,104,481.41,2,Hydrogen-rich,Oceanic,14.22,Solar,3,0.8804869737180775,0,No
+4452d4f1-e52e-4f08-8f7f-83c44ed049c4,Aurora,938.09,10,41,268.14,7,Hydrogen-rich,Oceanic,12.63,Solar,0,0.0,1,No
+7c98bd9f-0311-4923-be1d-9770545f8c6d,Elysium,714.59,26,201,230.42,9,Oxygen-rich,Oceanic,7.5,Geothermal,0,0.057172273100769014,1,No
+b41fddd5-9b41-4f6d-a311-75f171ae4069,Aurora,666.2,46,291,195.53,8,Methane-dominated,Oceanic,15.2,Geothermal,2,0.289525932936703,1,No
+69281d58-cd44-4005-84ad-3eea4a4104ee,Zarathustra,78.77,8,176,462.69,3,Carbon dioxide-heavy,Icy,19.54,Nuclear,2,0.26793067576097296,1,Yes
+7ffb08c4-c0e7-4a3c-bd3b-116e72776567,Titanium,582.66,44,359,329.34,7,Oxygen-rich,Icy,4.26,Nuclear,1,0.14220694955744137,1,No
+6da1120d-547e-424a-a5da-7a666d84a628,Xenon,128.79,41,314,290.82,7,Methane-dominated,Icy,10.66,Nuclear,4,0.7647019276411173,0,Yes
+b61f9452-d81b-4331-bd4b-97fb86a60495,Aurora,247.9,48,44,153.46,7,Carbon dioxide-heavy,Icy,9.88,Geothermal,0,0.25381370791291596,0,No
+bd7f9fe1-e544-40cc-8245-3f2eedc092f0,Aurora,89.85,6,296,466.85,3,Hydrogen-rich,Oceanic,19.82,Solar,4,0.9644222638801464,1,No
+188e845a-a0c9-4e70-af73-a560ab64d1b7,Elysium,106.88,44,147,213.24,10,Oxygen-rich,Rocky,16.99,Nuclear,0,0.018902231215349674,2,Yes
+54cdf14a-a948-46f4-92cc-1914c9d326b5,Elysium,419.29,33,166,362.37,2,Hydrogen-rich,Volcanic,0.31,Geothermal,0,1.0,0,No
+c382487f-a3b8-4b12-a202-a48a26b31ba0,Elysium,740.51,35,84,92.86,3,Methane-dominated,Rocky,4.52,Nuclear,0,1.0,0,Yes
+f9760eb4-d346-4e78-b458-789b72d950d9,Zarathustra,428.46,39,242,54.93,5,Methane-dominated,Oceanic,18.82,Chemical,0,0.47880061739227775,0,Yes
+f1a1c556-6ca8-431c-911e-06d9e72095a5,Xenon,74.69,13,55,307.08,1,Oxygen-rich,Oceanic,19.72,Solar,1,0.1832686108659201,0,No
+f1a14dc7-879c-40d7-9132-8a682de5126c,Titanium,537.87,38,217,91.38,8,Hydrogen-rich,Oceanic,3.7,Chemical,0,0.4895105750720077,2,Yes
+cc556c68-165f-4c84-a620-fcd1278b237a,Aurora,124.85,20,354,129.88,2,Carbon dioxide-heavy,Oceanic,3.05,Geothermal,3,0.0,0,Yes
+5795e560-a328-4d56-ba60-84fda5d6d553,Xenon,918.68,14,53,434.87,3,Hydrogen-rich,Oceanic,6.48,Solar,3,0.7815398854753254,1,Yes
+035b37dd-e5d9-4157-87b3-e21171bc6d2e,Elysium,11.39,19,144,71.74,9,Oxygen-rich,Icy,2.98,Geothermal,1,0.6974710628290948,2,Yes
+2e3522f9-ec96-411c-ac34-7ea19fdee992,Xenon,626.28,28,311,63.49,4,Oxygen-rich,Oceanic,15.76,Solar,2,1.0,2,No
+76c15a90-d8e6-4da6-a70f-cf009b9f6651,Elysium,638.05,49,186,89.74,3,Hydrogen-rich,Rocky,14.06,Nuclear,0,0.3531455653157821,0,Yes
+85fe0db4-9524-4f81-86fc-c9d35f8a6482,Elysium,271.13,9,41,150.41,8,Oxygen-rich,Icy,6.69,Chemical,1,0.727812109035461,2,Yes
+b0fca01f-cbac-4df1-89e4-2691c7d2b6ef,Zarathustra,288.89,16,323,298.98,10,Methane-dominated,Oceanic,18.92,Solar,2,0.44351619468377335,1,No
+9798ad5e-e01f-4001-ad53-f25f16decf4a,Elysium,250.58,45,133,484.92,8,Carbon dioxide-heavy,Rocky,10.95,Chemical,1,0.2737513332762066,2,Yes
+ebde4387-323e-49c4-b7e2-60fc8e2993c8,Titanium,240.85,14,95,311.57,8,Methane-dominated,Rocky,12.85,Chemical,2,0.7498800092628171,1,Yes
+dc954b84-c5e8-4d89-8887-2c106e1e9d4a,Zarathustra,188.28,41,281,60.42,7,Oxygen-rich,Volcanic,6.98,Nuclear,2,0.6853477984989365,2,Yes
+494b118f-1ac6-4050-85f8-74148e49d98b,Zarathustra,980.29,45,54,360.3,5,Hydrogen-rich,Icy,6.83,Nuclear,2,0.17655356659920476,0,No
+b19b076c-bed0-4a66-b0a4-65a3d69a11c0,Zarathustra,32.72,9,362,151.46,7,Hydrogen-rich,Volcanic,11.08,Geothermal,1,0.5343163202204346,1,Yes
+57767af3-3fc1-4a31-bf37-ce5b55d32ef4,Xenon,813.4,18,193,56.59,1,Methane-dominated,Volcanic,14.73,Solar,0,0.2264264667809592,2,Yes
+10dabf60-2fce-48d3-97dd-5430bee7ab74,Zarathustra,397.35,42,271,263.87,10,Hydrogen-rich,Icy,19.84,Nuclear,4,0.5211340789659956,1,No
+181eedd3-89a3-4dcc-b27c-343ce4fdd393,Aurora,419.06,15,249,420.26,4,Hydrogen-rich,Icy,17.82,Solar,3,0.8167827806346175,1,No
+8773ec7f-bcad-4b90-8254-111d7c681195,Xenon,388.97,7,272,339.91,9,Hydrogen-rich,Volcanic,16.95,Nuclear,3,0.5366613315354234,1,No
+e48ff545-b786-40b7-a144-11da09bcb6cd,Elysium,434.14,32,267,138.91,8,Methane-dominated,Oceanic,5.9,Nuclear,0,0.7716008379973848,1,Yes
+be759b60-4d59-4b22-b383-b13290250791,Aurora,94.43,21,313,146.82,1,Carbon dioxide-heavy,Icy,18.41,Chemical,2,0.0,0,No
+c55f3bad-c60e-44bb-8bba-c317eb754779,Aurora,466.91,11,127,486.37,6,Methane-dominated,Rocky,17.59,Solar,1,0.5396109311247254,1,No
+4828f505-7a36-4962-87cb-4237c5beb630,Elysium,305.9,17,344,332.72,4,Oxygen-rich,Icy,5.79,Geothermal,4,0.28388264861429746,2,No
+8ea09ff5-529d-488a-8e0f-2544786efd79,Elysium,647.82,20,123,482.67,3,Methane-dominated,Icy,4.84,Chemical,0,0.6913677900909605,1,No
+d13fd3ca-f46f-4eca-b78c-147843b328eb,Xenon,193.98,24,222,278.2,3,Methane-dominated,Oceanic,0.29,Chemical,4,0.6032323457127093,0,Yes
+386e5c47-d138-4f71-a51d-1130f09af653,Xenon,818.59,28,71,233.82,5,Oxygen-rich,Oceanic,6.54,Nuclear,0,0.6814095233071022,0,Yes
+5f57138a-5444-4bb0-989d-2d3a026dc8c1,Elysium,627.98,46,298,273.6,7,Methane-dominated,Oceanic,2.01,Geothermal,4,0.20543017573161576,0,Yes
+e3ff6b43-0e8f-4718-870d-8490af08c396,Elysium,99.91,42,362,411.26,2,Hydrogen-rich,Icy,13.85,Solar,4,0.6787737814055533,0,No
+e2d9a4ab-1398-4a4e-a7b2-0bf387cfc8d9,Elysium,732.3,6,323,416.05,9,Hydrogen-rich,Icy,0.46,Geothermal,3,0.9233356062601239,2,No
+e5ae1acc-7c1d-4aa8-a2d7-1ae2526e1277,Xenon,101.81,28,90,233.15,1,Oxygen-rich,Oceanic,18.03,Solar,3,0.8211454355105466,1,No
+6ba2f9b3-11eb-4bd0-951f-a0a9fe8b2286,Aurora,871.88,11,93,417.72,6,Hydrogen-rich,Oceanic,2.21,Solar,4,0.28503165548465453,0,Yes
+8ea5b3af-7469-4186-acc6-7d569bec064e,Titanium,558.0,7,363,488.73,9,Hydrogen-rich,Icy,1.75,Nuclear,1,0.13293742347878046,2,No
+759bbc90-c16f-4d89-bba4-92c79f413836,Xenon,479.44,48,362,139.77,3,Methane-dominated,Rocky,16.53,Chemical,0,0.380217680545214,0,No
+daa65c4a-ee3e-4dff-b360-a72fb43b674a,Aurora,582.78,14,312,56.82,9,Methane-dominated,Volcanic,19.38,Solar,3,0.6976817659471017,2,No
+e0ea8081-1e22-4194-b6da-4d878d3eedc5,Zarathustra,721.56,6,38,282.87,3,Carbon dioxide-heavy,Icy,10.78,Nuclear,4,0.6161210871422997,2,Yes
+446b30cd-4161-420c-81b3-ceef7376d6eb,Zarathustra,67.58,24,246,241.3,10,Carbon dioxide-heavy,Icy,2.34,Chemical,2,0.9224417805902594,0,No
+39b05907-5792-4ee2-93bf-46f8d2e7ca49,Titanium,191.31,27,93,248.42,9,Methane-dominated,Volcanic,15.35,Nuclear,0,0.5122854020810153,2,Yes
+2d94432b-629b-4e28-977d-941fbafaa466,Elysium,591.64,26,249,179.92,1,Oxygen-rich,Oceanic,15.89,Nuclear,0,0.18504275384940141,1,Yes
+1ac9c249-2cfa-49be-a520-18be46ea384e,Xenon,193.22,44,247,180.1,7,Carbon dioxide-heavy,Oceanic,10.91,Solar,4,0.4057756668842542,1,No
+45333e05-23af-4bb7-9a05-836e9eb7a349,Zarathustra,592.07,13,42,137.9,6,Carbon dioxide-heavy,Icy,7.03,Solar,2,0.774796142035495,1,Yes
+f4d3b544-dbc6-416e-a484-4ee1cdef16ce,Titanium,50.56,41,107,174.22,10,Methane-dominated,Oceanic,12.12,Chemical,2,0.8587357400129563,0,Yes
+bb34e361-b4c3-473a-94d4-1ace709a0b7b,Titanium,594.39,49,141,215.81,6,Oxygen-rich,Oceanic,0.11,Chemical,4,0.47235399735117745,2,Yes
+11f367b1-e59a-43d5-959f-f3305f55ac60,Xenon,359.28,25,352,318.25,3,Hydrogen-rich,Volcanic,6.78,Geothermal,2,0.43557279186561626,0,Yes
+04f47435-45fa-4365-92ca-9403cd257821,Titanium,112.13,49,83,98.78,6,Carbon dioxide-heavy,Icy,14.55,Nuclear,0,0.4576884535996774,2,Yes
+37b24665-aa9d-40c8-b1ff-1c708ac4697b,Xenon,394.84,27,360,127.67,9,Methane-dominated,Rocky,11.25,Geothermal,3,0.7781672459366853,2,Yes
+856d1603-731a-4027-a8db-6acbec2a1f8c,Aurora,45.09,32,359,451.57,1,Oxygen-rich,Icy,15.88,Solar,0,0.5212846443659109,0,Yes
+010e5dff-32d4-4b94-9290-e3a81f49cf77,Titanium,834.71,5,37,398.14,2,Methane-dominated,Oceanic,11.28,Geothermal,3,0.14777644431588433,2,No
+d3f6ac16-1d76-4c1e-87de-967a4c4e0088,Titanium,242.55,48,306,449.9,10,Methane-dominated,Oceanic,14.79,Geothermal,3,0.829297046919397,1,No
+a3b87574-a0c1-4e6b-8d4a-3cc6ca13ca1e,Aurora,980.61,24,276,330.41,3,Hydrogen-rich,Volcanic,1.09,Solar,3,0.5312585983834204,2,No
+cd0377df-f0bd-4486-a063-a6afd80e73f5,Zarathustra,25.53,22,364,75.23,6,Hydrogen-rich,Rocky,15.82,Solar,0,0.3597055310649059,0,No
+3d79fb14-c764-49d1-8b7a-934c1f900731,Zarathustra,617.1,5,206,89.71,3,Carbon dioxide-heavy,Volcanic,1.6,Nuclear,4,0.5359702391100443,0,No
+aa66f508-03a6-4dfd-861b-8bb63d81a403,Aurora,186.58,26,171,445.52,10,Oxygen-rich,Icy,5.8,Chemical,0,0.37127238904893556,1,Yes
+9ba2b294-e928-4a3c-a6be-383fc4572522,Xenon,280.29,32,289,200.3,4,Methane-dominated,Icy,18.15,Chemical,0,1.0,1,Yes
+d296a4d8-fb58-4211-a421-d495cb9407ff,Aurora,181.76,45,268,176.51,10,Methane-dominated,Volcanic,9.17,Chemical,3,0.2427018940993724,2,Yes
+f3380d21-98fa-41bb-96b1-d748379401d8,Elysium,951.99,47,337,442.98,7,Oxygen-rich,Oceanic,2.94,Geothermal,2,0.1932462584230204,0,Yes
+82122557-434f-47c8-bf18-7ff9e81d8650,Zarathustra,721.45,48,37,181.97,6,,Rocky,5.5,Nuclear,1,0.870897171777623,1,No
+3ac62f2c-4cb7-461b-9a40-084ba82dad4e,Titanium,135.16,18,177,472.47,5,Methane-dominated,Volcanic,5.87,Geothermal,4,0.7263696773102928,1,Yes
+9506d8fd-4925-477e-b06e-01552056259c,Elysium,753.82,5,235,317.33,9,Carbon dioxide-heavy,Oceanic,7.57,Geothermal,0,0.17612852337537202,2,No
+be6bbb4c-b6b6-4abc-aa19-6ef23945055c,Aurora,887.69,28,274,128.61,2,Methane-dominated,Volcanic,11.81,Chemical,2,0.09600350156476539,1,Yes
+449ea5f6-75f2-4d91-9535-d638d37fd315,Xenon,45.62,8,331,349.29,1,Methane-dominated,Volcanic,2.23,Chemical,1,0.5224105178023623,0,No
+a1e062eb-1676-41f5-901e-62db7bd7a368,Aurora,484.93,28,202,271.94,4,Oxygen-rich,Oceanic,6.6,Chemical,3,0.7531060251953362,0,Yes
+f82654f2-9b76-4213-a5ee-c90e373dcad9,Elysium,125.12,37,68,299.81,6,Oxygen-rich,Icy,10.54,Chemical,2,0.8106843139109423,0,No
+7fdef9c6-43f3-4eb0-bf66-c923ea899bb9,Elysium,612.38,35,134,275.32,8,Oxygen-rich,Volcanic,6.34,Nuclear,4,0.5337416306593334,0,No
+285e5d1d-c9f3-45c9-bd23-f841f9bf829d,Aurora,233.33,14,323,390.2,6,Methane-dominated,Volcanic,15.78,Chemical,3,0.8237184725728006,0,No
+58dad8bd-c26f-4a65-a7b1-0fbef8c14bd2,Zarathustra,596.08,30,248,367.16,5,Carbon dioxide-heavy,Oceanic,8.52,Nuclear,0,0.5739463584827571,1,Yes
+dc50fa77-e1de-4f36-9891-c101b7c690d5,Aurora,859.66,40,189,366.66,10,Methane-dominated,Rocky,9.41,Nuclear,4,0.7286032724387039,1,No
+a2a32a4a-549a-412c-bb10-3b3ac6330422,Zarathustra,296.76,34,253,316.49,2,Methane-dominated,Icy,11.82,Nuclear,4,0.9657294145231885,0,Yes
+d7019509-70e7-4b2a-9677-c18715045d6f,Titanium,287.59,36,222,295.09,3,Hydrogen-rich,Oceanic,11.04,Nuclear,3,0.7759194504108113,2,No
+a7eeb27c-f942-4d5c-a434-a7418dd9253f,Zarathustra,280.65,30,111,450.58,1,Carbon dioxide-heavy,Rocky,19.9,Geothermal,2,1.0,0,No
+9a0bc44d-dc3e-4225-88aa-ef06201b7d98,Zarathustra,814.42,43,203,419.76,5,Hydrogen-rich,Oceanic,12.44,Nuclear,4,0.5749803479760295,0,No
+3e5c0b13-9ddd-4d8f-b4ae-fe16182b196f,Titanium,540.77,19,334,466.7,8,Carbon dioxide-heavy,Icy,8.8,Nuclear,1,0.26242895488261503,0,Yes
+c93e757d-77e1-492a-927a-f0442378746d,Xenon,545.25,48,198,54.21,2,Carbon dioxide-heavy,Icy,19.85,Geothermal,1,0.4892376686465919,0,Yes
+9e173af3-9d9e-4507-83ee-56c0aecb47d3,Xenon,734.6,5,218,336.56,7,Carbon dioxide-heavy,Volcanic,16.11,Nuclear,3,0.2796951679762021,0,Yes
+9aece41f-0aab-4cad-95b1-c146f559f990,Zarathustra,207.22,10,346,488.89,3,Oxygen-rich,Icy,18.85,Chemical,0,0.0,2,Yes
+5a9b5b72-453d-4107-8b36-3757831fa609,Titanium,531.8,40,64,187.66,2,Methane-dominated,Oceanic,16.41,Nuclear,0,0.8221307000952108,1,Yes
+1b8ae3d0-ac49-451c-873c-082c896c0a6b,Aurora,484.11,12,211,469.4,3,Hydrogen-rich,Oceanic,1.43,Chemical,0,0.6656620223916649,1,No
+7115c551-ff62-4873-a44f-6567122dc172,Xenon,19.62,31,303,428.93,5,Hydrogen-rich,Icy,18.95,Geothermal,3,0.8570498348014719,1,Yes
+a2b0dc25-ff95-4b54-8f7d-9d5e97b28c02,Aurora,728.79,27,306,97.18,10,Hydrogen-rich,Oceanic,16.04,Nuclear,4,0.5466611702191757,0,Yes
+8e90857a-ea97-46f8-ae37-9628fec0a219,Aurora,680.32,31,234,243.73,6,Methane-dominated,Volcanic,9.17,Nuclear,2,0.9565176796611463,2,No
+25cab892-9ff5-4af0-9093-2143f7ba4c5c,Aurora,107.24,13,324,140.23,2,Carbon dioxide-heavy,Icy,18.8,Nuclear,3,0.7554429198412844,2,No
+a7009b1d-4d7d-4a0f-8542-61a9fc4a4c05,Elysium,573.93,33,359,436.41,1,Methane-dominated,Volcanic,3.29,Solar,3,0.440403636509949,2,Yes
+cee82410-64c8-4367-8a10-addda8ee3934,Aurora,616.17,28,339,59.91,6,Hydrogen-rich,Rocky,13.9,Geothermal,3,0.2770634617785944,1,No
+91f0c6f5-ea29-48e9-8cf3-6871a039cd1d,Zarathustra,368.03,36,66,329.99,9,Hydrogen-rich,Rocky,17.49,Chemical,3,0.07559926290715654,0,No
+9edb4d09-2a3c-4471-bc77-2fb59905ee0f,Xenon,702.44,13,235,414.0,9,Oxygen-rich,Rocky,18.18,Solar,0,0.20884986991463578,0,Yes
+3439f3db-ffe0-4d24-9640-d47e42177bfc,Titanium,848.32,18,232,50.14,3,Hydrogen-rich,Oceanic,12.93,Geothermal,1,0.3860335582393506,1,No
+1e1f03f2-bd60-4378-aeec-118f6450cfa1,Aurora,900.11,42,260,399.78,2,Hydrogen-rich,Icy,4.65,Chemical,0,0.7489768745419499,2,No
+b263ccda-0473-4628-8912-f155ae63a3cb,Elysium,642.75,49,97,392.1,9,Carbon dioxide-heavy,Volcanic,16.24,Nuclear,1,0.2930087964998957,1,Yes
+162fbe2a-212a-4c18-8641-9822a8e07085,Xenon,99.4,28,88,374.82,2,Methane-dominated,Rocky,1.18,Solar,2,0.977347052418826,2,Yes
+7a2e37ed-30fc-4d24-ace8-734a081b37b3,Titanium,464.87,47,248,270.92,3,Carbon dioxide-heavy,Rocky,16.26,Chemical,3,0.24820698882800812,2,No
+35ed0e24-213f-4a0c-a587-c10569880632,Xenon,296.66,48,88,141.48,10,Carbon dioxide-heavy,Volcanic,6.69,Solar,2,0.24759044559168447,2,No
+02a23788-ed7c-4be6-90ce-72da3c4382b0,Xenon,192.7,38,341,470.81,5,Hydrogen-rich,Volcanic,5.53,Solar,3,0.19789917969160667,0,Yes
+8a7c6baf-b94e-44fc-b805-b664266900bc,Zarathustra,585.84,25,65,126.03,7,Carbon dioxide-heavy,Rocky,6.54,Nuclear,1,0.22652024076768967,2,No
+3dd73df1-cb46-4575-bf70-231b37c1c6ce,Aurora,536.7,35,297,426.74,2,Hydrogen-rich,Rocky,5.92,Solar,4,0.2611601539520002,2,No
+de37f6f5-f74d-491f-97cf-80519d0e09e0,Xenon,292.32,36,154,201.59,5,Carbon dioxide-heavy,Rocky,7.06,Geothermal,0,0.8240084672217235,1,No
+82afc8dd-2b2d-4ae9-b3ef-e40f7656028b,Aurora,421.53,17,194,351.12,1,Methane-dominated,Icy,6.21,Geothermal,2,0.27944068524667837,1,No
+6c8fad7f-3cb5-4ac9-a7dd-0e5eaa5d8eb9,Elysium,853.58,46,297,237.82,8,Methane-dominated,Oceanic,15.02,Nuclear,2,0.17461018424858898,1,No
+b222426e-4d3e-4103-a5c2-0429a393e511,Titanium,533.13,39,287,155.46,3,Carbon dioxide-heavy,Rocky,6.12,Solar,2,0.24776437928867515,2,Yes
+ccafd2a5-d369-49d9-a93e-5bbcb6c985bd,Xenon,751.5,46,336,320.21,9,Oxygen-rich,Oceanic,3.88,Nuclear,3,0.8327416338896856,1,No
+abee66de-0ca3-443d-a5b0-24fdbdec71ec,Aurora,28.13,44,334,284.64,6,Oxygen-rich,Icy,15.43,Chemical,3,0.3075037857258721,1,Yes
+fad07f61-8800-4d68-8409-55b371f0381c,Zarathustra,492.03,42,95,289.29,8,Methane-dominated,Rocky,19.31,Nuclear,1,0.2884629444502743,0,No
+5b98f714-7cc4-4c7c-9c9e-e5942f07694a,Elysium,674.91,18,78,214.37,1,Hydrogen-rich,Icy,5.62,Chemical,3,0.7263004868818362,1,Yes
+93ee8403-8dba-4f36-a4e3-b344dde1e50a,Zarathustra,353.26,24,168,166.85,6,Oxygen-rich,Rocky,14.96,Nuclear,4,0.8828580725603411,1,Yes
+d28295f8-d35b-48be-8e15-ca73f7155feb,Titanium,784.05,16,92,262.38,5,Hydrogen-rich,Icy,8.08,Nuclear,2,0.6584099452658282,0,Yes
+b1c977ad-2706-4df4-b34a-70affc35a462,Aurora,864.44,49,174,356.47,7,Oxygen-rich,Icy,7.12,Nuclear,0,0.016984942803694836,2,Yes
+ea5ab808-1b29-4699-9937-99e3f820d972,Xenon,259.93,28,104,249.53,8,Hydrogen-rich,Icy,16.47,Solar,2,0.10237860703742716,0,No
+6fefa105-aefa-4947-9401-de6c07fcfb37,Aurora,385.0,35,210,,5,Methane-dominated,Oceanic,18.89,Geothermal,2,0.8415878371072618,2,Yes
+63c52717-9922-4d55-af65-69ec691447e1,Xenon,337.05,24,339,474.71,8,Hydrogen-rich,Volcanic,12.45,Nuclear,1,0.7626475368092969,1,Yes
+7442432a-6acd-4d00-abbf-6be6264503f1,Xenon,215.27,22,246,188.39,7,Oxygen-rich,Rocky,1.79,Geothermal,1,0.16733343456047492,2,No
+7b709b2c-d967-4e0e-a9b4-3f6a7c7420f6,Xenon,302.64,11,104,73.32,1,Carbon dioxide-heavy,Volcanic,11.39,Chemical,4,0.22093701376962546,1,No
+d554e423-6d7e-467c-9df9-4f31807f4829,Xenon,795.04,8,346,451.22,6,Carbon dioxide-heavy,Oceanic,16.14,Chemical,0,0.20679888704824276,0,Yes
+4d0f9a98-2772-4580-9ca2-00f77bd51ae6,Aurora,370.24,42,155,371.75,10,Hydrogen-rich,Volcanic,3.94,Chemical,1,0.6889689724704263,1,No
+788c6220-9743-45ad-93dd-5cbd0630ca72,Aurora,165.05,15,278,301.66,7,Hydrogen-rich,Volcanic,10.29,Chemical,3,1.0,1,No
+c265b33a-ab98-4d00-bbb7-edb1831a4067,Elysium,327.64,7,35,426.41,8,Carbon dioxide-heavy,Volcanic,1.94,Geothermal,0,0.767117909067953,2,No
+f7325a6e-34e9-4f20-a2f3-14bf8faf448e,Xenon,451.68,26,31,280.3,10,Methane-dominated,Volcanic,3.08,Geothermal,0,0.9257711130712525,0,No
+1e8cf8aa-9565-4516-859f-7be57930376e,Elysium,427.19,7,53,181.93,4,Hydrogen-rich,Oceanic,0.83,Solar,0,0.7010642961013807,0,No
+65c1e67d-3e77-4c80-b5ec-9fbb7c59eead,Aurora,616.95,43,260,134.48,9,Carbon dioxide-heavy,Icy,3.12,Chemical,3,0.7363883304848401,0,No
+93cbf97c-29ff-4d76-aa58-d28a87e8f647,Aurora,558.53,14,51,275.11,6,Oxygen-rich,Volcanic,1.6,Nuclear,1,0.3908704175219667,0,No
+2ccfa80b-e369-4c49-b512-5ac680547a4a,Zarathustra,443.87,5,221,93.69,1,Methane-dominated,Icy,2.09,Geothermal,4,0.29854519629845216,2,Yes
+f6035eee-a8a0-46f1-9c2a-8a1d6f84349b,Titanium,86.48,37,223,,10,Methane-dominated,Volcanic,3.59,Solar,4,0.5383769540385301,1,Yes
+8a8c9295-90ac-4b1f-b625-53a819ee445c,Zarathustra,856.66,33,300,71.47,8,Oxygen-rich,Oceanic,14.96,Solar,3,0.5578154876452565,1,Yes
+7f714ac9-e628-4409-b6c0-1829efb87214,Titanium,628.93,29,154,363.82,7,Oxygen-rich,Icy,12.82,Chemical,2,0.009045225407653748,2,No
+06266c68-08e6-4e8f-af95-f76569bf0590,Xenon,397.11,43,364,143.91,5,Hydrogen-rich,Rocky,17.14,Nuclear,0,0.07673552174070702,1,No
+e3d6aa0c-a69a-4c2c-b1e7-5a41555b88e2,Titanium,25.66,43,222,107.0,7,Oxygen-rich,Volcanic,4.14,Solar,0,0.8797452885471934,2,No
+464664ac-0bc3-4b75-8207-b1cbd924641f,Titanium,295.35,24,185,373.0,2,Hydrogen-rich,Rocky,19.2,Nuclear,0,0.5463223210082893,1,Yes
+0d7d348f-0505-4911-b721-f2a9c82102a3,Aurora,962.26,18,140,231.13,3,Methane-dominated,Icy,14.08,Nuclear,0,0.6736736232096905,0,Yes
+9d426358-cb73-4449-a1f3-3758576330c0,Zarathustra,365.07,22,314,264.89,10,Oxygen-rich,Icy,18.23,Solar,1,0.40586037800002045,1,No
+1440fa05-e9fc-43b2-bada-9b1c73b00df1,Titanium,647.0,26,49,368.36,7,Methane-dominated,Oceanic,3.6,Chemical,2,0.5484730672313312,1,No
+f1c72851-b301-4050-b558-11cb938dda33,Elysium,556.75,7,81,252.71,8,Hydrogen-rich,Oceanic,9.78,Solar,3,0.5949654117745398,0,Yes
+a9066bd1-aa23-497a-b19e-8573fc47073e,Aurora,670.52,19,156,483.93,5,Hydrogen-rich,Volcanic,12.12,Chemical,4,0.921500682431876,0,No
+1ae3fe35-5f29-4c9f-87bd-b9c3fc4a6a35,Zarathustra,415.88,18,32,457.07,7,Oxygen-rich,Volcanic,4.29,Geothermal,2,0.1560447924648175,0,No
+2e9b539e-9653-4b81-a6f4-b7484d352589,Elysium,230.87,42,189,124.61,9,Methane-dominated,Volcanic,19.3,Chemical,3,0.2302246088982569,1,Yes
+16a3b041-4d88-48c5-83ff-4ec39447100c,Zarathustra,851.72,41,203,479.53,7,Methane-dominated,Volcanic,17.96,Geothermal,3,0.5573286658756257,0,Yes
+07965c0f-70e9-4bf2-87f5-fe7827758091,Elysium,263.77,38,115,385.4,4,Carbon dioxide-heavy,Rocky,18.68,Chemical,2,0.8877023159242937,2,Yes
+e8f4e8e9-a0d2-494f-96d2-4174dec37e20,Xenon,174.01,22,280,92.07,7,Carbon dioxide-heavy,Volcanic,6.78,Nuclear,2,0.9903951001334497,1,No
+ba1e57c1-7582-40c2-878f-d533b326c42f,Titanium,585.06,44,177,164.19,2,Oxygen-rich,Oceanic,2.63,Solar,1,0.9079601788472614,1,Yes
+e96c952f-ab52-4323-b590-5fbc9f248b7c,Aurora,170.88,36,128,168.04,3,Methane-dominated,Icy,8.54,Chemical,4,0.5429396799609452,2,No
+f3ff52e3-35be-47a8-bba0-0ba3c6799876,Zarathustra,518.82,13,328,308.57,7,Oxygen-rich,Oceanic,16.07,Solar,4,0.7968845371143733,1,No
+e031b0e4-e1bd-488e-a340-b471eed2630a,Xenon,279.67,23,305,73.61,8,Hydrogen-rich,Oceanic,6.64,Chemical,4,0.39282024611874905,2,No
+1bb2bf27-c150-4488-bf2a-0e51f40f667c,Zarathustra,166.93,10,193,195.22,10,Hydrogen-rich,Icy,3.43,Nuclear,1,0.9315411577200274,1,No
+7d171bf6-62a7-47b4-bff3-ba1d45ebcb3c,Elysium,499.87,10,259,173.09,8,Carbon dioxide-heavy,Oceanic,12.66,Chemical,4,0.8607133280869025,2,No
+8d5e6543-4251-40a1-8fe7-3292288ffd99,Zarathustra,593.63,23,230,331.45,3,Methane-dominated,Icy,7.22,Nuclear,4,0.3905452559334007,0,No
+231a64eb-ffeb-4a83-b962-d5afe64dd652,Xenon,495.57,16,98,451.36,1,Carbon dioxide-heavy,Volcanic,9.03,Nuclear,2,0.8617450193225155,2,No
+f011a840-7536-4eef-8f89-fe74eb588965,Xenon,907.79,15,89,223.9,1,Methane-dominated,Oceanic,3.43,Nuclear,4,0.774031969909128,0,No
+b7a1bfd0-2907-4d9c-9cf2-d98119febd4b,Titanium,772.29,46,347,377.78,8,Methane-dominated,Volcanic,12.37,Nuclear,3,0.27119729364864564,0,No
+a46d2d96-eccf-4057-84bb-a84783fc6f72,Titanium,846.06,40,284,481.91,2,Oxygen-rich,Oceanic,19.57,Nuclear,4,0.4644987987711211,0,No
+be41a3fd-1801-419d-bd04-d0f277a38155,Titanium,445.1,18,362,419.53,10,Oxygen-rich,Icy,14.3,Nuclear,1,0.49906958925750716,2,No
+aed95dde-54ad-4b68-b55b-876f3a59ea00,Zarathustra,437.49,7,172,464.23,4,Carbon dioxide-heavy,Rocky,19.15,Geothermal,4,0.7192607446521092,1,No
+629b5276-21fe-46ff-9aeb-179d58419b23,Xenon,742.51,18,262,261.36,3,Methane-dominated,Volcanic,10.52,Solar,4,0.36705865206238564,1,Yes
+8783ffea-1eac-4992-8c46-705ddee6ad35,Aurora,420.01,31,97,405.16,4,Methane-dominated,Icy,3.87,Solar,4,0.9216969492164029,1,No
+0cfe0378-4d71-438c-8139-06e13af85820,Aurora,436.02,33,170,361.42,8,Oxygen-rich,Icy,12.46,Solar,4,0.06243050618143263,0,Yes
+198846e2-47f4-4d77-b2df-b6911d293a29,Elysium,778.11,45,357,63.9,9,,Volcanic,2.89,Geothermal,1,0.6855461261282778,0,Yes
+4b30576b-95b8-41fb-996a-e46ac9c80692,Zarathustra,478.54,9,175,232.1,5,Oxygen-rich,Icy,13.38,Nuclear,2,0.5997176709459875,2,No
+d752dc16-7eed-4c38-b708-31a8af98e650,Xenon,189.21,16,73,243.45,5,Oxygen-rich,Volcanic,8.94,Nuclear,0,0.8751822568940445,2,No
+2617eee3-8a4e-4440-b7ad-714f887b1050,Aurora,288.75,13,238,430.85,5,Methane-dominated,Icy,9.78,Chemical,0,0.07408395829049846,1,No
+293cdcde-60e5-47cb-b009-cb9b8e33256c,Aurora,389.33,30,119,302.47,7,Carbon dioxide-heavy,Icy,12.48,Geothermal,3,0.5125709932911198,0,Yes
+7a48704c-fc47-4ff2-84e5-6f9ba8c4ac6c,Aurora,122.92,13,189,139.1,8,Hydrogen-rich,Rocky,11.31,Geothermal,2,0.9022364657399461,1,Yes
+daac3b56-b85c-4abf-b631-cff01183de1e,Elysium,998.5,23,130,294.41,3,Hydrogen-rich,Icy,3.9,Nuclear,3,0.5450936146543625,2,No
+c19bde97-27a8-4c4e-a170-afc3727b2fab,Aurora,91.06,35,150,325.21,10,Methane-dominated,Rocky,7.54,Solar,4,0.5737659337827438,0,Yes
+bc6efc79-4647-407e-bb40-761091462576,Xenon,553.15,46,80,391.9,9,Oxygen-rich,Volcanic,12.71,Geothermal,3,0.315808610382323,1,Yes
+6225f475-6538-4fa1-9435-8465d2be26fc,Titanium,900.74,20,196,282.73,4,Oxygen-rich,Rocky,17.76,Solar,1,0.6841932750953379,2,No
+4f61690b-911a-469b-ab20-047aa1def531,Elysium,561.02,11,288,228.51,4,Methane-dominated,Rocky,7.11,Nuclear,1,0.18576418375520826,2,No
+fe2f4e78-5627-4c52-8040-315a5d731c4c,Xenon,807.02,24,76,147.34,3,Hydrogen-rich,Volcanic,5.11,Geothermal,2,0.4181515672523448,1,Yes
+59a1135e-a665-4f94-952f-5eee50a579da,Aurora,161.43,33,199,394.98,4,Oxygen-rich,Icy,7.15,Nuclear,1,0.8621648018177711,1,No
+3b106514-c022-4137-84a6-d23b513abdda,Titanium,19.46,41,229,322.89,2,Carbon dioxide-heavy,Oceanic,6.33,Chemical,4,0.5613400412862098,2,No
+a86132be-3557-45ca-b96d-4c8c65f20543,Elysium,739.7,48,331,434.62,6,Methane-dominated,Oceanic,4.2,Solar,3,0.5257074423392251,2,Yes
+54870529-b72c-462b-b778-c3cd237627ae,Elysium,742.26,6,254,477.66,1,Hydrogen-rich,Rocky,5.09,Solar,3,0.4321512711874749,1,Yes
+bca9e398-488e-4b09-bd15-92ac3d2d1608,Elysium,189.42,41,362,329.36,6,Oxygen-rich,Volcanic,17.44,Nuclear,3,0.3739398336506323,0,Yes
+6bbe8337-1c7e-4e7c-aa2a-71fa08c07a6d,Zarathustra,426.88,42,113,71.08,8,Carbon dioxide-heavy,Oceanic,8.86,Solar,4,0.7418986780946435,2,No
+b48f4187-646b-4640-aee9-917ef900e552,Titanium,521.16,48,52,493.56,10,Methane-dominated,Icy,3.17,Chemical,2,0.3105415527034095,1,No
+e02b54dc-75fa-4f3a-97ec-fc648e844f81,Titanium,397.54,30,324,158.21,8,Carbon dioxide-heavy,Volcanic,5.99,Nuclear,0,0.291561557301421,1,No
+02fc0114-bba2-4906-85dd-850497c35db6,Xenon,202.66,11,316,486.1,9,Oxygen-rich,Oceanic,18.55,Solar,0,0.5566960815721318,0,Yes
+d53cc29b-1aec-47a5-9e12-682247562b55,Aurora,671.3,24,113,392.86,5,Hydrogen-rich,Volcanic,19.7,Geothermal,1,0.6009784769583109,1,Yes
+d202ea22-1e43-40b6-a4af-1eeff1ec82d1,Xenon,206.75,7,349,368.02,10,Hydrogen-rich,Volcanic,10.03,Geothermal,1,0.2568129363330411,1,No
+f80b62da-bb43-43b4-8a8d-eb78df0ce34e,Elysium,672.74,32,104,59.91,6,Hydrogen-rich,Oceanic,4.67,Nuclear,1,0.30342547488637794,1,Yes
+0e9d8b45-d8a4-4b00-b96b-4c5496081ac4,Titanium,627.46,45,299,428.39,2,Methane-dominated,Volcanic,0.85,Geothermal,4,0.9073365757055354,0,No
+915f46f5-e620-401c-ab33-f0770deada68,Xenon,481.22,49,50,284.69,4,Hydrogen-rich,Icy,13.15,Nuclear,1,0.9614977233482368,0,Yes
+9cb66c4c-ed2c-490a-b33f-52c19e3ad3c6,Titanium,44.65,17,230,146.57,9,Methane-dominated,Volcanic,16.23,Chemical,4,0.7717358585405234,2,No
+5d02eb99-68b7-438c-a7a3-8af772893d87,Aurora,205.52,14,140,274.29,6,Carbon dioxide-heavy,Rocky,15.45,Chemical,2,0.7087427491387843,2,Yes
+32036d4c-a3c4-421e-8d34-fdcc2456d07e,Titanium,646.02,39,83,264.84,6,Methane-dominated,Oceanic,3.39,Solar,1,0.06471848390711218,2,No
+3326e35c-64b9-40b9-9cff-e5e3e909ded9,Titanium,278.91,47,315,347.8,9,,Rocky,17.05,Solar,3,0.7093265679276458,0,Yes
+efcb5323-8540-46ef-b8f7-8f5950383800,Xenon,979.43,10,265,465.0,1,Carbon dioxide-heavy,Volcanic,7.65,Nuclear,0,0.1715946917847859,2,No
+df23e27d-e140-46e7-85ee-a974edf075e6,Zarathustra,652.13,19,292,81.27,8,Hydrogen-rich,Rocky,18.84,Nuclear,0,0.900731401243938,1,Yes
+8f94869b-ac34-48ea-a953-cbd148a2fdc2,Zarathustra,359.55,29,349,106.87,8,Oxygen-rich,Volcanic,8.12,Chemical,2,0.5478732015558212,1,Yes
+fd907da1-d11a-4f8d-a047-0f41eab7cc27,Elysium,62.6,30,277,273.98,9,Carbon dioxide-heavy,Rocky,16.88,Chemical,0,0.3523911956909722,0,No
+99c12429-e803-4027-b6c7-5e75b9c3fb6b,Xenon,712.88,22,255,143.47,5,Hydrogen-rich,Rocky,17.1,Chemical,4,0.7189260735034277,0,Yes
+1e134078-a230-410f-b25c-2c727d281ab5,Titanium,966.68,39,32,472.67,9,Hydrogen-rich,Volcanic,9.49,Nuclear,2,0.9515354969301726,1,Yes
+f179c2c9-e641-4139-9fa9-aea3077cc7cd,Titanium,172.22,6,260,346.14,8,Methane-dominated,Rocky,8.48,Chemical,0,0.25063714990665065,0,No
+c8032427-6ea0-4a13-9aef-aea91b5e92d1,Xenon,222.5,42,195,401.56,3,Hydrogen-rich,Rocky,16.9,Chemical,3,0.1575014828485664,1,No
+9c64cf3e-a424-44d2-a74e-a5540fd1c716,Zarathustra,599.85,35,31,290.91,7,Hydrogen-rich,Rocky,9.57,Solar,0,0.9553627842888931,0,No
+9f9629b0-92a8-41b8-9e6a-c76ad50afafc,Aurora,771.57,11,272,104.07,8,Carbon dioxide-heavy,Volcanic,1.92,Solar,0,0.48693594934753703,2,No
+0e6a83e7-1047-4658-aa4e-85e6a13358d4,Zarathustra,959.13,35,297,296.84,9,Oxygen-rich,Oceanic,12.28,Solar,4,0.6628824781615608,1,No
+da468c15-0259-49b2-bb88-0a23f813c81c,Titanium,727.0,8,106,438.73,9,Hydrogen-rich,Oceanic,12.69,Chemical,4,0.5355623142247323,1,Yes
+290d078e-b663-44d0-8fdf-bb4a1b15159f,Elysium,92.23,6,288,474.06,2,Hydrogen-rich,Rocky,11.11,Solar,3,0.9624059513842794,0,No
+948fc12e-82f1-4e4e-b3ad-69a25d069aea,Titanium,395.15,32,180,115.66,9,Hydrogen-rich,Rocky,7.24,Chemical,0,0.5448295855917903,2,Yes
+1e5a72d2-489e-413b-a760-6079d332005f,Xenon,703.28,15,147,82.15,8,Methane-dominated,Icy,6.57,Geothermal,4,1.0,0,Yes
+762ecd1e-1db9-4941-b02a-0c78e269ba36,Elysium,290.27,10,108,334.45,6,Methane-dominated,Volcanic,14.94,Nuclear,4,0.7031531654929112,1,Yes
+05c05d6d-dad8-4a3d-892e-c610fa063dc9,Elysium,912.28,36,185,72.15,10,Carbon dioxide-heavy,Volcanic,19.22,Nuclear,1,0.24258088571975928,0,Yes
+e3e047a3-33cf-4531-96c2-58002aeb58ec,Elysium,528.5,12,275,448.0,4,Carbon dioxide-heavy,Volcanic,9.58,Solar,0,1.0,1,No
+0847995f-a0c5-41f3-b24f-ad3a9adfc6e2,Aurora,511.69,43,158,81.66,5,Oxygen-rich,Oceanic,2.85,Chemical,3,0.07771317384024164,0,Yes
+5b692dc2-e2ec-4332-8e37-45e29af7527a,Aurora,667.33,49,269,384.69,4,Oxygen-rich,Icy,17.77,Nuclear,4,0.9572906469804531,0,Yes
+91878d66-7655-4f60-bd3a-e46458dc714d,Aurora,392.47,13,233,332.6,10,Carbon dioxide-heavy,Icy,5.25,Chemical,4,0.4603514157797787,1,Yes
+291c7be8-aa40-44f8-b25f-1c8adbfcefe1,Titanium,195.0,30,345,173.73,10,Methane-dominated,Volcanic,18.42,Geothermal,2,0.43435930924591415,2,No
+04057dd3-5b61-496b-be73-a3d1277dccea,Zarathustra,400.87,23,342,70.44,6,Methane-dominated,Oceanic,1.18,Chemical,0,0.9821674625244214,2,Yes
+7586489f-cae0-4065-844b-df7964a27cde,Titanium,440.03,41,174,497.18,6,Hydrogen-rich,Icy,11.35,Nuclear,2,0.7837735135454339,0,No
+a79b3958-1529-45d7-b8da-9f5be36eae7f,Xenon,636.56,13,324,88.25,7,Hydrogen-rich,Icy,7.92,Geothermal,4,0.21550720980884103,2,No
+6b1d5973-66ff-403a-8f47-7cb537b08c3b,Aurora,513.83,33,108,271.88,5,Oxygen-rich,Icy,2.12,Geothermal,3,0.3640334290630329,1,Yes
+609b8834-2dad-44c0-b3e1-582c6a503072,Aurora,957.95,43,259,420.72,3,Hydrogen-rich,Oceanic,2.01,Chemical,0,0.9511241442881676,0,Yes
+783e8d34-fc2d-4403-903f-864688e3944f,Elysium,981.04,36,210,336.27,6,Hydrogen-rich,Icy,9.44,Geothermal,1,0.570404858010935,1,Yes
+a21ebb3c-0d4c-41ca-a149-f97ca5166af4,Elysium,705.15,21,113,342.3,2,Oxygen-rich,Volcanic,9.39,Solar,1,0.6055790253202655,1,Yes
+52ae0dbb-ce3b-4a7b-9e3a-4bae7b986c4b,Elysium,753.37,33,295,92.32,3,Hydrogen-rich,Oceanic,13.33,Solar,1,0.8372835019341873,2,Yes
+b842c31b-2cea-4d6b-8635-0095e86b5b85,Elysium,872.73,16,240,281.05,6,Methane-dominated,Volcanic,15.38,Geothermal,4,0.4597449485926707,1,Yes
+2974ebab-92d1-440c-bbbe-be508857251a,Zarathustra,962.33,37,304,280.28,3,Carbon dioxide-heavy,Icy,4.87,Chemical,4,0.8854703637464614,2,No
+2c0a87f8-7719-43df-b7d1-620cc7ab7ce5,Titanium,114.96,21,181,349.48,9,Methane-dominated,Oceanic,8.03,Solar,1,0.616617304070167,1,Yes
+615d1aed-3ba8-40c9-9314-8a7f73cda1a8,Titanium,226.27,25,105,52.56,9,Carbon dioxide-heavy,Rocky,16.95,Chemical,1,0.748593888347621,2,No
+4e3991cc-d073-4506-b1c0-5b558c6123bd,Aurora,351.92,16,90,281.42,8,Oxygen-rich,Rocky,5.2,Nuclear,3,0.674560610795623,0,Yes
+c2d2b969-cdad-4e21-8580-bcf07860376b,Zarathustra,866.48,37,270,242.3,10,Oxygen-rich,Volcanic,2.58,Solar,1,1.0,2,No
+0f3d7882-21a3-451d-9a2c-0f192a0858cd,Elysium,146.75,38,233,367.35,5,Carbon dioxide-heavy,Oceanic,2.48,Geothermal,3,0.7215455070146292,2,Yes
+3bd464e1-0c13-4523-8c68-c2201c7a4cd6,Elysium,604.45,44,307,241.3,9,Hydrogen-rich,Rocky,1.58,Geothermal,3,0.0,2,Yes
+7cac9021-0e6c-4d30-a17d-bfa2693f5cf8,Titanium,467.81,34,55,103.2,5,Hydrogen-rich,Volcanic,10.26,Solar,4,0.6647594931299904,0,Yes
+99324da9-93c9-4f88-988e-dbfdce813688,Titanium,292.64,35,215,126.4,10,Hydrogen-rich,Volcanic,12.43,Chemical,1,0.265817629604501,0,No
+42ba1b03-41a7-4c3c-864d-351ad53241f7,Titanium,128.77,23,282,73.36,7,Carbon dioxide-heavy,Rocky,5.18,Nuclear,2,0.5152236377175449,0,No
+c70938af-d3b4-4773-ac38-0871979b20aa,Titanium,374.45,13,321,352.67,4,Oxygen-rich,Rocky,5.53,Nuclear,0,0.7719555157053688,0,Yes
+5c6bfe87-a1b9-44de-8499-80434d1a7763,Xenon,559.79,48,224,472.18,3,Oxygen-rich,Volcanic,4.54,Solar,1,0.0,1,No
+9134ef74-0621-4d1e-9d19-2125a84dac3e,Titanium,865.18,21,107,304.46,5,Hydrogen-rich,Icy,18.37,Geothermal,2,0.9447681351139301,1,No
+bc77fe09-988a-43f9-b9f1-2ad0c78cd9fc,Elysium,440.09,32,162,116.25,4,Hydrogen-rich,Rocky,4.14,Geothermal,2,0.7678665424389269,0,No
+290a9090-7e5b-4395-b88c-336c6098683d,Aurora,649.51,15,236,427.28,1,Oxygen-rich,Volcanic,16.81,Chemical,2,0.20194705705379246,2,No
+db017c1f-783c-419b-8895-94542589196a,Xenon,851.26,24,269,397.87,9,Carbon dioxide-heavy,Oceanic,6.62,Chemical,2,0.4220429662651904,0,No
+6f267a70-11b7-4adf-9a36-c78ad32cee55,Zarathustra,847.85,11,363,353.44,8,Carbon dioxide-heavy,Rocky,19.44,Chemical,4,0.35664418837407275,0,No
+91014909-4a67-433f-9b83-f6cef5214d33,Elysium,929.73,16,36,80.97,6,Oxygen-rich,Rocky,13.89,Geothermal,2,0.3849059885559741,2,No
+3ecdfc90-ce7d-456f-84f5-20d81707d090,Xenon,935.47,37,118,92.61,5,Oxygen-rich,Rocky,12.82,Geothermal,3,0.2750423631954988,0,No
+c8b81570-b8e9-4108-95d5-6035a77d4300,Elysium,267.5,40,217,358.56,3,Carbon dioxide-heavy,Icy,18.04,Solar,3,0.588698861637344,0,No
+6ee07c16-bda4-4992-92e3-e7167c08d474,Zarathustra,932.83,17,363,447.26,1,Methane-dominated,Oceanic,16.93,Solar,4,0.48503518101263476,2,Yes
+6730c0f3-a37d-46be-9cd6-90fdbf8b7e63,Xenon,724.43,36,357,1008.25,6,Methane-dominated,Icy,12.05,Chemical,0,0.3405760950415102,1,No
+29eb2dcb-c6f6-40d8-87e2-5da1528b8dac,Titanium,164.83,12,142,368.06,4,Methane-dominated,Rocky,9.83,Solar,4,0.7492891344664344,1,No
+8df07b07-3388-439d-966b-8f55d4acfcef,Elysium,329.05,25,193,385.62,6,Methane-dominated,Icy,8.92,Geothermal,1,0.6875616767486611,0,Yes
+fde187a8-867e-40a3-b982-ce005133c4f7,Xenon,989.03,36,231,98.55,7,Methane-dominated,Rocky,15.84,Chemical,0,0.0,2,Yes
+749e596e-31ab-4fd1-b401-2c3f797515f4,Aurora,443.01,15,166,292.87,4,Hydrogen-rich,Icy,2.48,Nuclear,1,0.8873749726599589,0,No
+fb17335f-efcf-4077-86bc-2b335bc9a47a,Aurora,974.42,46,106,2250.5,2,Hydrogen-rich,Rocky,2.6,Solar,0,0.0,1,Yes
+27ccc6f7-7054-4ded-a693-9bab738b8d42,Zarathustra,17.76,35,321,255.47,5,Methane-dominated,Oceanic,6.81,Geothermal,1,0.792209422434274,0,No
+fe3200fa-5a0e-4b62-b46d-ac039bd04725,Aurora,267.51,19,173,192.41,1,Carbon dioxide-heavy,Volcanic,13.6,Nuclear,1,0.42986258734404115,1,Yes
+27616f90-5e0c-4a25-b7ef-5a5e7826102e,Elysium,405.67,19,192,381.61,10,Carbon dioxide-heavy,Icy,6.72,Nuclear,4,0.8071489494017604,0,Yes
+8f780381-23c4-409b-b1a1-185fb5b65eb3,Titanium,29.89,42,324,439.41,10,Carbon dioxide-heavy,Icy,8.95,Chemical,3,0.9426909848479921,0,No
+c53bd742-bd45-4d45-a83b-605edeeef7df,Xenon,938.2,31,306,304.01,5,Methane-dominated,Volcanic,12.69,Chemical,3,0.30276022616099085,2,No
+a3fe6b63-7e7b-41d0-a808-3c02a748cd8b,Aurora,645.05,32,213,493.89,5,Carbon dioxide-heavy,Oceanic,15.04,Nuclear,3,0.30609408224912016,1,No
+4a8c1920-af48-458f-949a-c8d06f8d9bc9,Elysium,663.16,13,351,456.97,7,Hydrogen-rich,Volcanic,2.7,Solar,0,0.6909614369094921,2,Yes
+522ea0ac-7ec7-43f9-85d4-d8065da1a394,Zarathustra,824.94,7,94,,1,Methane-dominated,Icy,1.2,Solar,4,0.6655513275091502,2,No
+c7448c5a-324f-4156-8a9d-16e032221a05,Elysium,538.48,45,314,281.61,1,Methane-dominated,Icy,17.27,Chemical,1,0.9184653362042644,0,Yes
+c38c6ee4-ed42-43b5-832b-c6147e77459a,Titanium,773.54,6,172,,6,Hydrogen-rich,Icy,1.51,Chemical,1,0.6579738672943976,1,No
+b3e7f57b-cf14-4103-9853-25e2e95b3934,Elysium,990.7,37,173,277.96,5,Methane-dominated,Rocky,11.58,Chemical,0,0.24533342626713436,1,Yes
+17eac25e-7eaa-4edb-89d4-c05b25e02b94,Xenon,628.89,43,140,454.37,4,Methane-dominated,Oceanic,1.59,Geothermal,1,1.0,0,No
+e0ea0277-bdb0-4793-8217-76e6e44a6868,Xenon,185.22,11,362,199.79,7,Oxygen-rich,Oceanic,1.42,Solar,2,0.5813585315782708,0,No
+64a8f575-eab0-41c6-9962-b3ff8c394c72,Aurora,36.11,25,268,112.95,4,Hydrogen-rich,Rocky,6.95,Chemical,1,0.29216612065919356,1,Yes
+418633a7-68d4-4453-abbf-7ce6e2c28f67,Aurora,352.66,21,267,365.72,10,Oxygen-rich,Rocky,17.61,Chemical,4,0.05703078784490487,1,No
+266a7147-f3c1-44e3-a2b9-c72d344d8d71,Xenon,88.96,21,120,309.23,4,Hydrogen-rich,Oceanic,11.13,Solar,0,0.5603561435093404,1,No
+ceb00c80-0c03-4640-a9bc-302eababd89b,Elysium,972.64,41,301,283.58,8,Methane-dominated,Icy,15.38,Chemical,2,0.28213753834642974,0,Yes
+c58cf421-f18d-47ce-b470-ae235a7f392e,Aurora,727.11,49,73,301.25,8,Oxygen-rich,Volcanic,14.31,Chemical,3,0.1439987189920797,2,Yes
+82c7673b-2a76-48b5-a097-434a21a40b9f,Xenon,246.67,31,191,108.92,7,Carbon dioxide-heavy,Icy,19.06,Geothermal,0,0.9597745593574769,0,No
+fe2f5e02-deec-42c0-9489-f8b275e4266d,Titanium,223.63,26,277,154.28,1,Oxygen-rich,Volcanic,15.48,Solar,0,0.7474552293853489,0,Yes
+f4144c47-23f1-4dff-9747-c58ddd1a8e20,Titanium,497.63,29,340,349.59,5,Carbon dioxide-heavy,Volcanic,4.54,Geothermal,2,0.5568009940901548,2,No
+a9c660ba-a696-4d58-b1c0-41d0bbc64c8b,Elysium,768.31,21,190,269.27,10,Hydrogen-rich,Rocky,5.26,Geothermal,3,0.3005541756729041,1,No
+8f0d2d4a-c17e-416e-abaf-4196970b55fe,Titanium,401.97,18,146,320.04,5,Methane-dominated,Oceanic,1.99,Solar,2,0.6066940034782377,2,Yes
+6311dec1-eb24-4fc1-ad77-cbb59a76ee0f,Aurora,896.37,25,64,165.65,7,Methane-dominated,Oceanic,2.57,Geothermal,4,0.382972529982497,1,No
+a7709e0a-041b-4188-8ad9-53fdfbf8e5c0,Xenon,917.09,25,284,167.43,1,Hydrogen-rich,Rocky,2.04,Solar,0,1.0,0,Yes
+17bbf4ac-5c6c-4494-9f28-2a31262978d3,Aurora,684.97,45,126,96.92,9,Carbon dioxide-heavy,Rocky,10.86,Nuclear,0,0.9939690904059212,2,Yes
+affed1d5-2992-47a7-aec6-3c1b59231a0b,Elysium,509.03,48,120,61.34,1,Methane-dominated,Rocky,19.02,Nuclear,0,1.0,0,No
+512ec02f-dd5e-449e-b79e-cc663d69b6da,Elysium,680.07,40,45,290.98,4,Methane-dominated,Rocky,5.96,Chemical,2,0.9330682807354161,1,Yes
+833c592f-3378-40aa-9535-17966f8631ee,Elysium,7736.0,46,35,329.81,3,Hydrogen-rich,Volcanic,3.93,Nuclear,3,0.9300591673056093,1,Yes
+816a1f45-5846-45db-a0e6-4b1668899f9f,Elysium,502.41,33,147,116.83,4,Carbon dioxide-heavy,Icy,15.47,Geothermal,0,0.35185143569448807,0,Yes
+0f6a516e-1599-48c8-95eb-3af818d82227,Aurora,419.67,32,192,351.84,2,Hydrogen-rich,Rocky,13.61,Geothermal,3,0.12266720363364142,2,No
+9a8012a3-47ec-4319-8c9e-c5fa65ed050b,Titanium,55.29,39,167,136.86,4,Carbon dioxide-heavy,Icy,9.31,Geothermal,4,0.5811930782191218,0,No
+71867d90-5339-49b0-a143-8794bf3934b5,Xenon,309.68,12,169,405.49,8,Carbon dioxide-heavy,Volcanic,19.45,Geothermal,3,0.714862898999957,0,No
+3016d6a1-e865-43d4-a7e5-842d442e374e,Zarathustra,369.38,27,138,204.0,7,Carbon dioxide-heavy,Icy,19.57,Chemical,1,0.8756881997656172,2,No
+1df29895-416b-4389-adca-4dfcf493d1ba,Aurora,666.95,5,49,102.27,4,Methane-dominated,Icy,15.54,Geothermal,2,0.3978231663762398,0,Yes
+b469f8a6-5961-45c0-a6cc-f7069cd2b0ae,Titanium,632.09,26,253,353.0,4,Hydrogen-rich,Icy,17.21,Chemical,3,0.5108874359865198,1,Yes
+24014764-b70c-4fe0-a0e2-697a018aca13,Aurora,648.51,20,200,357.32,10,Methane-dominated,Icy,11.95,Nuclear,2,0.04703736331241256,1,No
+573b489b-308f-46b2-908a-dd5a6e6d2b36,Xenon,92.68,29,294,54.02,9,Oxygen-rich,Rocky,19.68,Solar,3,0.6165957168675155,2,Yes
+a29d5b6a-068f-458c-b910-56767e5d718c,Elysium,170.06,9,74,197.37,5,Methane-dominated,Rocky,18.02,Geothermal,0,0.7506818026063444,2,Yes
+e23e4b50-1d8c-4737-a78c-8b24fd85eda8,Titanium,751.75,42,299,308.52,1,Oxygen-rich,Oceanic,14.27,Chemical,1,0.5162717546558114,1,No
+f8dd66b9-06f1-48a4-819e-44f580c84118,Titanium,212.08,43,271,183.96,1,Oxygen-rich,Oceanic,13.14,Geothermal,4,0.7539490336246883,0,Yes
+d13522f5-51c5-4a32-9dc3-de42a772109c,Aurora,659.92,5,94,460.14,8,Hydrogen-rich,Oceanic,15.12,Nuclear,0,0.20102256188924625,2,No
+a926c193-70be-48fe-bc12-26f377abbc79,Elysium,962.53,26,170,425.61,8,Methane-dominated,Volcanic,9.83,Chemical,0,0.38593505181606635,0,Yes
+c2caf82e-49d9-442f-8121-86d07a83c49e,Zarathustra,145.85,40,219,474.46,4,Methane-dominated,Icy,6.7,Nuclear,3,0.4731472077670319,0,No
+6e41c0f0-b09a-4977-abae-ab4e86393e94,Aurora,70.91,39,31,459.1,2,Hydrogen-rich,Rocky,12.83,Chemical,4,0.3502081954421402,2,No
+4e43a990-0cfd-4eb9-ba82-e37cfe1e8af8,Xenon,331.62,17,34,195.03,9,Methane-dominated,Oceanic,5.11,Nuclear,0,0.01153042662466136,1,Yes
+2dc53859-229e-489f-9cfd-19bd36c13074,Titanium,503.02,13,96,327.58,4,Carbon dioxide-heavy,Oceanic,0.69,Nuclear,4,0.3960915082483252,0,No
+d83b9c74-42e3-40f7-88cc-537f69e1ca09,Zarathustra,425.04,23,208,65.66,8,,Oceanic,6.34,Solar,2,0.23670706509317585,0,Yes
+55c38061-c789-4794-a874-abeebf80543f,Xenon,94.93,21,39,347.67,3,Oxygen-rich,Icy,12.35,Chemical,3,0.8548727049183344,0,No
+12995a76-7269-4970-97f9-7b96d7b5dab3,Elysium,764.0,22,285,186.91,8,Carbon dioxide-heavy,Rocky,7.03,Solar,3,0.556461710891962,1,No
+19d34274-c0c9-41e9-bad8-2ba9630a65ee,Aurora,47.47,8,206,361.21,5,Carbon dioxide-heavy,Volcanic,8.89,Geothermal,3,0.24155955721380923,0,No
+89dbf68b-ce47-46c4-86e8-33a6031fa56f,Titanium,125.29,25,54,54.25,8,Hydrogen-rich,Rocky,17.11,Solar,1,0.0,1,No
+f9a679fe-7ea0-4073-8fcd-7cc7d73e5ab7,Aurora,767.38,35,271,2417.05,6,Methane-dominated,Rocky,19.67,Chemical,2,0.05298622979724249,2,No
+6882b326-8f69-411b-81ce-2e37bf186d2c,Zarathustra,323.3,25,181,495.0,1,Hydrogen-rich,Oceanic,6.31,Geothermal,3,0.21067100529603847,2,No
+2264d7a6-8d81-49be-a8c5-bae7599d492b,Titanium,625.47,20,266,240.63,5,Hydrogen-rich,Icy,13.28,Chemical,0,0.2730598264535937,1,No
+180164f7-5e9c-4f9a-8245-131a24ab7e05,Aurora,75.17,43,226,351.96,6,Carbon dioxide-heavy,Icy,15.42,Nuclear,1,0.4732769061615609,2,Yes
+1c856a22-7e9b-4b50-827a-4474ecc575a0,Titanium,743.79,23,101,173.02,9,Hydrogen-rich,Oceanic,6.95,Geothermal,4,0.28011054351231895,1,Yes
+5dcc34b6-48ab-43b7-b080-b716cd75ceab,Titanium,418.34,33,190,175.82,2,Hydrogen-rich,Oceanic,0.17,Nuclear,1,0.5300024054304107,0,No
+791ab7c1-8397-4cd0-ad13-f3ff2946533c,Aurora,830.61,44,150,422.9,2,Oxygen-rich,Oceanic,16.52,Chemical,4,0.40400500993439814,2,Yes
+92c1973e-2e6f-4285-827d-83c59c8160be,Titanium,840.7,25,212,60.4,3,Carbon dioxide-heavy,Rocky,13.36,Solar,0,0.4361358689032741,1,Yes
+aab6fa53-bd51-4429-9238-d8fcff2aa8b6,Zarathustra,505.87,49,331,221.39,9,Methane-dominated,Icy,1.5,Nuclear,4,0.6443249989916565,1,No
+158587be-5dc7-4461-9363-a06234dd2579,Aurora,47.04,18,190,483.73,1,Hydrogen-rich,Rocky,12.34,Chemical,4,0.3297403483053905,0,Yes
+b844b86c-4d7e-468c-b8bf-3cd34eefa94f,Xenon,867.25,27,353,165.52,5,Methane-dominated,Volcanic,18.48,Chemical,1,0.10548557674664336,0,No
+dcc85405-3508-4cfe-805d-08c43cd93c90,Aurora,754.88,16,274,486.34,3,Carbon dioxide-heavy,Oceanic,13.57,Solar,1,0.8738565931431841,2,No
+55e37ce5-f8c5-4c6b-88db-b19ffb58fbb0,Elysium,998.21,10,60,73.94,9,Methane-dominated,Rocky,15.66,Nuclear,2,0.964266233447411,2,Yes
+6808f90a-ffaf-4308-9295-8b699f39cada,Aurora,101.68,19,86,237.68,6,Carbon dioxide-heavy,Volcanic,6.56,Nuclear,0,0.03668715636068726,1,Yes
+234a057f-ac28-4fc1-a10a-fbfb910e5f72,Zarathustra,880.89,5,54,284.15,5,Hydrogen-rich,Icy,19.1,Nuclear,0,0.0,0,Yes
+cc2ef796-ae49-43f3-ab90-8c4a2faeba8a,Aurora,294.6,41,328,328.22,6,Carbon dioxide-heavy,Oceanic,1.27,Solar,0,0.6646404922423065,2,No
+029e73ad-a799-4b4b-acb5-71d0ec5025a9,Xenon,196.36,6,165,397.32,1,Hydrogen-rich,Volcanic,2.29,Solar,2,0.0008660418741224529,0,No
+38ba6a09-270b-489c-ad61-bcad1881c012,Zarathustra,769.5,48,322,423.2,2,Methane-dominated,Oceanic,6.93,Nuclear,0,1.0,1,No
+09a1e851-8454-4c62-9821-b92a143b5b55,Titanium,980.0,38,278,294.66,6,Carbon dioxide-heavy,Oceanic,1.79,Nuclear,4,0.030335762754901144,1,No
+1373ea87-617c-41aa-8ab0-6e2a9c42ce4b,Aurora,265.8,36,140,221.28,9,Methane-dominated,Icy,6.38,Solar,0,0.3616644378045324,2,Yes
+a1f4ac62-b1e0-4bad-995a-10759ba95ee5,Titanium,650.98,33,332,321.79,4,Carbon dioxide-heavy,Oceanic,4.86,Solar,3,0.0,2,Yes
+f6d637f2-d964-4ed3-8b7f-aa67613b7097,Zarathustra,401.17,18,201,427.63,1,Oxygen-rich,Oceanic,16.8,Nuclear,0,0.14661223524551564,0,No
+e404ce2d-ed62-40ed-afbb-4217fe5d4096,Titanium,806.07,35,286,365.4,8,Carbon dioxide-heavy,Volcanic,4.72,Geothermal,0,0.5047884192415497,0,No
+0e9e51e0-1f0b-4e39-b72c-1178c3fdb0d6,Xenon,366.71,27,208,438.3,6,Carbon dioxide-heavy,Icy,19.24,Geothermal,4,0.31346628174286645,2,Yes
+41064187-f17f-49ae-bfa9-ceefa09c3c9e,Xenon,630.2,22,161,271.05,7,Hydrogen-rich,Rocky,16.44,Chemical,4,1.0,0,No
+03da5daf-4401-4b3c-8424-2ebd517d54b7,Aurora,167.61,11,32,378.21,8,Hydrogen-rich,Icy,16.54,Chemical,4,0.2530961482948442,0,No
+0e3cb23b-1f08-44a0-bb9e-ee34f1266a30,Xenon,854.15,6,152,303.25,1,Carbon dioxide-heavy,Rocky,18.41,Geothermal,3,0.2293155688736216,1,No
+e8cdcdd1-d1ee-4ecb-b10c-00160850fc05,Elysium,960.9,19,113,,9,Hydrogen-rich,Rocky,18.44,Geothermal,1,0.10231153318579288,0,No
+aafac04a-2f8c-42fd-a427-ce471dc4ce42,Aurora,669.54,39,353,92.45,4,Methane-dominated,Volcanic,18.73,Geothermal,4,0.31750829440316486,0,Yes
+789899e9-5dde-4149-bf48-e74af176501f,Aurora,477.78,35,278,80.66,6,Oxygen-rich,Oceanic,1.93,Nuclear,1,0.8934550075233626,2,No
+42d1a2c7-3c67-4ec1-9730-1fcca0745404,Xenon,601.85,42,309,186.94,8,Hydrogen-rich,Icy,14.37,Geothermal,2,1.0,1,No
+4bad570a-0335-42e3-9a0e-96b08e83828a,Aurora,30.41,39,159,421.6,8,Carbon dioxide-heavy,Icy,13.12,Nuclear,4,0.6139649176646708,2,No
+1176f275-cc34-4db0-a864-888ca6819bdc,Titanium,550.56,33,326,374.76,4,Carbon dioxide-heavy,Rocky,11.11,Solar,1,0.0,0,No
+9fe05e05-c97d-4353-a332-9d800f2185e2,Elysium,95.35,17,221,193.75,1,Hydrogen-rich,Oceanic,5.64,Nuclear,0,0.5736576028558774,0,Yes
+fb1ff18f-138e-44ae-90b5-3cca62165a81,Titanium,491.76,35,273,449.35,1,Methane-dominated,Oceanic,2.71,Solar,2,0.2518843838442532,0,Yes
+a9df9ba4-fe90-4efb-8f5a-1b138f4a0d5f,Zarathustra,265.48,33,46,311.14,8,Carbon dioxide-heavy,Rocky,4.56,Geothermal,0,0.5669838565535459,1,Yes
+6cb7e85f-8501-481f-874b-bc0e150c1d67,Xenon,169.7,21,352,267.67,3,Oxygen-rich,Volcanic,19.96,Solar,3,0.7943515471627247,2,No
+091d869e-c28a-4af0-90bd-f91781a1c1ff,Zarathustra,432.69,18,344,87.3,4,Methane-dominated,Volcanic,9.68,Nuclear,0,0.6850886000267299,1,Yes
+1b048159-98dd-4b42-b122-a2df589cac58,Elysium,601.83,35,139,147.1,6,Methane-dominated,Volcanic,2.29,Nuclear,0,0.8083812460651314,1,Yes
+880a2ef2-2b51-4f51-b571-693d99453dbb,Xenon,186.09,24,85,237.86,10,Oxygen-rich,Volcanic,2.38,Geothermal,2,0.4915257667161175,1,Yes
+e081da58-2f75-4290-9221-79c4073fbab4,Elysium,936.12,19,45,157.97,5,Oxygen-rich,Volcanic,5.38,Nuclear,3,0.5382815671378426,2,Yes
+b4c077b9-f54e-4ae6-a73b-ea27c53264da,Zarathustra,753.08,13,351,316.85,9,Carbon dioxide-heavy,Rocky,5.52,Nuclear,1,0.0,2,Yes
+919f66e7-a7e2-495d-bbb6-405562598a20,Aurora,231.37,9,129,324.22,7,Hydrogen-rich,Volcanic,15.39,Geothermal,0,0.8588413204320315,0,No
+b8d33dc1-7215-402d-b4e1-b8ce73ab25de,Xenon,262.55,42,96,279.47,3,Hydrogen-rich,Oceanic,11.11,Geothermal,2,0.3406464485144681,0,No
+3d1098e3-e009-4f72-8b25-fe2a11932cea,Xenon,174.1,16,288,197.55,8,Oxygen-rich,Volcanic,7.01,Nuclear,2,0.8295983329059515,1,Yes
+7fbae460-3546-421c-a165-ed03db648625,Xenon,647.55,46,212,85.1,2,Methane-dominated,Oceanic,8.23,Chemical,4,0.020591792830775738,0,Yes
+29aa7d7d-b76e-4b4b-9caf-723ea28ea56a,Titanium,665.21,40,176,209.8,9,Hydrogen-rich,Icy,3.7,Geothermal,4,0.152872897784546,1,No
+3c10da4f-e42a-454a-9749-53987589bc1b,Aurora,906.72,36,214,72.53,10,Oxygen-rich,Volcanic,18.95,Chemical,3,0.9150377210046545,2,Yes
+c335215b-216d-4ff8-be92-39ceb98ed430,Zarathustra,491.55,20,356,265.74,5,Hydrogen-rich,Volcanic,13.31,Nuclear,2,0.30726786125212296,2,Yes
+831b1bf4-d8b8-4d6c-9262-e9a53a968de1,Titanium,404.4,11,62,117.02,10,Hydrogen-rich,Rocky,17.35,Chemical,4,0.7431996857179504,2,No
+37306f37-5dbf-4803-b727-ac9c964010ae,Xenon,826.88,17,198,351.46,8,Methane-dominated,Icy,15.87,Nuclear,4,0.40483582075450797,0,Yes
+95bc47de-f5f6-45e2-ba7b-77ee5465efe0,Titanium,80.81,39,318,280.81,7,Hydrogen-rich,Oceanic,8.57,Geothermal,1,0.5655540680341954,2,Yes
+1d59e243-bfd0-4f05-bbe1-32a38b22df60,Aurora,955.78,35,190,130.83,7,Oxygen-rich,Oceanic,9.74,Chemical,4,0.7533132875372052,2,Yes
+ca15072a-4f8c-4168-879d-938c39e57f03,Elysium,157.98,37,292,269.99,1,Hydrogen-rich,Volcanic,8.32,Geothermal,0,0.0,2,No
+eb404da3-285f-4c5d-b1b2-4ee2869d384c,Aurora,313.14,5,94,56.32,4,Hydrogen-rich,Icy,5.37,Solar,1,0.7406873184357075,2,Yes
+60b5f480-5c8f-4149-a5f9-1eac4569703d,Xenon,84.7,9,71,205.13,10,Oxygen-rich,Oceanic,4.39,Solar,4,0.12652278395176467,0,No
+b28bbcd6-5553-4cd7-9adc-7286dbe7fb56,Zarathustra,10.27,47,268,299.38,8,Oxygen-rich,Volcanic,16.66,Chemical,2,0.4234480717190575,2,Yes
+5ede8870-a089-46be-969f-77eeae216e9c,Titanium,893.66,15,45,415.33,8,Carbon dioxide-heavy,Oceanic,9.67,Geothermal,0,0.0,1,No
+fa43ba80-b9b0-4585-a4d2-bf5121a6cf33,Xenon,273.02,22,219,62.02,2,Hydrogen-rich,Oceanic,13.04,Chemical,0,0.2559875995758359,2,Yes
+91d64dd3-4815-4b35-bf38-3ba0f18c9b18,Titanium,657.5,7,239,75.59,8,Methane-dominated,Oceanic,14.84,Nuclear,1,0.5419592699824975,1,No
+98e080ff-8d2a-4f56-927e-a82c8ccf5428,Aurora,293.03,7,119,276.75,8,,Rocky,8.37,Chemical,1,0.6237133944510241,1,Yes
+dcfe9b6d-a407-4908-a20c-4aa272a37cfb,Zarathustra,212.72,39,193,312.69,4,Methane-dominated,Icy,15.72,Geothermal,2,0.756083560719524,1,No
+08713293-e5b4-44af-b595-227db86c0e89,Aurora,492.92,33,264,88.18,2,Oxygen-rich,Oceanic,10.7,Nuclear,4,0.3261143236739537,1,Yes
+144b87e6-d633-422f-9a0d-cb9e454b6678,Xenon,592.05,42,288,373.55,4,Carbon dioxide-heavy,Rocky,9.68,Solar,1,0.7213779630240245,1,No
+5f3ffe59-ed01-44e9-bef0-4f8a6745ff56,Elysium,212.17,25,156,275.38,9,Oxygen-rich,Oceanic,15.41,Solar,0,0.5720410319328164,2,No
+00789224-7904-4733-a105-beb8b975ad91,Elysium,828.72,44,97,368.7,7,Methane-dominated,Icy,0.26,Geothermal,4,0.6416462120216824,2,Yes
+006693e2-35bd-4af3-9d57-5d360f934f02,Xenon,126.55,34,224,237.59,2,Oxygen-rich,Volcanic,7.84,Chemical,2,0.09251265370353001,2,Yes
+cc4a8f6e-02b3-47c6-845c-13f09d05a0f3,Xenon,753.86,8,157,496.6,8,Hydrogen-rich,Oceanic,8.59,Solar,1,0.2676313410124306,0,No
+d77b6a8a-5ea4-4e77-adee-81de5348062e,Titanium,460.87,29,181,348.22,7,Hydrogen-rich,Volcanic,8.98,Solar,4,0.5022072956535112,0,No
+e91fb501-7f52-447f-a00f-0b3e5c839e35,Xenon,627.55,45,267,447.55,9,Methane-dominated,Icy,18.22,Nuclear,2,0.8112279999200483,0,Yes
+f49b533c-10a7-47b7-a41e-b0eab941b06a,Titanium,783.26,39,80,433.21,4,Carbon dioxide-heavy,Volcanic,2.75,Solar,2,0.4235579635849425,2,No
+e36a7001-cb7e-46e1-a3e4-81b08a3a1785,Aurora,408.79,19,344,84.97,9,Hydrogen-rich,Volcanic,12.13,Geothermal,3,0.7045044995561076,0,No
+3ad4f6f3-7a8f-46b7-bd6a-c567624d3157,Zarathustra,136.83,16,206,202.44,8,Methane-dominated,Icy,4.2,Solar,4,0.7327866423757812,1,Yes
+afbe8045-20ea-4b24-980a-3462fe8d5973,Titanium,922.42,24,36,192.91,5,Carbon dioxide-heavy,Oceanic,18.44,Nuclear,2,0.6576730762800341,2,No
+66ce77fe-1979-4764-9916-af5ee823d9a3,Zarathustra,390.84,44,127,208.26,6,Hydrogen-rich,Volcanic,5.27,Chemical,4,0.40742220814403973,1,Yes
+6b15d3d8-f8ef-49c3-b269-3d1ed23958f5,Titanium,374.5,20,243,109.07,1,Hydrogen-rich,Oceanic,12.0,Geothermal,0,0.12638380034385277,2,Yes
+6b5b809e-d92f-4b1c-a7b5-f770a3a680e3,Xenon,920.91,44,59,260.75,9,Oxygen-rich,Rocky,5.54,Chemical,0,1.0,1,Yes
+3425a297-0003-4964-bd9c-e4ee144866ae,Aurora,158.5,37,122,401.26,3,Oxygen-rich,Oceanic,8.42,Nuclear,1,0.618384727493078,1,Yes
+0e5a03b3-be05-4f3b-bac6-0577b82e8006,Zarathustra,445.67,43,104,173.05,1,Carbon dioxide-heavy,Volcanic,5.7,Solar,1,0.8845216411674544,2,Yes
+bd7bf32c-96d6-4f44-b7e4-519d73672efd,Aurora,966.02,46,346,250.54,2,Oxygen-rich,Icy,0.15,Solar,2,1.0,2,Yes
+5765bc50-a7ea-4a1c-b861-7ea74bcd4c92,Titanium,912.99,47,315,448.01,8,Hydrogen-rich,Icy,9.08,Nuclear,3,0.1404939672408811,2,No
+e7a7b4af-8ae8-42d2-8454-ff882e7fc852,Xenon,115.38,23,219,236.84,4,Hydrogen-rich,Volcanic,12.51,Chemical,3,0.4831325302338003,2,Yes
+bb2ef81f-754f-4cec-a977-0b9bf94461ac,Elysium,10.11,45,296,378.26,3,Hydrogen-rich,Icy,19.24,Solar,0,0.5127152236723721,2,No
+bb3a7e44-1dc1-46ce-a56f-c5a368493395,Xenon,667.29,24,266,388.37,10,,Icy,8.58,Nuclear,0,1.0,1,Yes
+198c05c4-cb6e-4775-9fba-c2cbff20606a,Titanium,107.9,21,242,453.92,5,Methane-dominated,Rocky,11.1,Chemical,2,0.13346337160547714,0,No
+94137fdb-7b47-4dde-960e-ada0cfa7efc8,Zarathustra,333.68,14,201,72.4,3,Hydrogen-rich,Rocky,13.04,Solar,0,0.13920726903653435,0,No
+80388fb1-17f9-4bee-b79a-68b264d186e1,Zarathustra,956.08,9,359,226.27,10,Hydrogen-rich,Icy,4.92,Chemical,4,0.5426536223243159,1,No
+ce185cb7-0d46-4cd4-8b6f-6a0514e6b60f,Elysium,635.29,16,185,106.32,1,Oxygen-rich,Oceanic,5.86,Nuclear,4,0.8968501803609237,0,No
+a29e708d-5d07-432e-9ec7-c7c7e0ecfcb3,Elysium,765.38,10,81,233.42,9,Carbon dioxide-heavy,Rocky,15.15,Nuclear,1,0.11418708668447376,0,No
+7588ca87-28c2-45c4-985b-ab60d82ffa26,Elysium,99.13,38,147,387.8,6,Carbon dioxide-heavy,Volcanic,3.17,Chemical,4,0.21419508298521645,2,No
+b781a660-1ef9-4680-befc-609e5ef331a6,Aurora,807.75,44,57,215.37,6,Hydrogen-rich,Rocky,7.08,Chemical,1,0.8138159174466592,1,Yes
+988680a8-7044-4ab0-85ce-82b669a05de8,Xenon,423.91,8,251,366.34,9,Methane-dominated,Volcanic,12.89,Geothermal,4,0.21786107928649406,0,No
+7bd54e1e-34b7-4918-a6a1-ba3d94b327d8,Elysium,337.06,23,291,436.59,10,Oxygen-rich,Icy,17.07,Geothermal,1,0.8869775348957156,1,No
+16e2b59b-7798-4208-853c-13c9eb266b1f,Zarathustra,465.88,15,294,476.5,5,Methane-dominated,Volcanic,2.65,Nuclear,1,0.5337175421158081,1,No
+142cf4d5-b197-4e58-9a70-3d9d488d3e8c,Titanium,510.75,39,164,273.26,7,Hydrogen-rich,Icy,10.82,Geothermal,4,0.658430418677671,0,Yes
+df8c8ca6-af02-4d09-b6ff-57b26eeea9d7,Xenon,552.34,43,277,75.74,5,Oxygen-rich,Volcanic,8.97,Geothermal,2,1.0,0,Yes
+3cd3593d-cd1b-4999-8043-ae8c681c598f,Aurora,605.11,9,120,87.46,2,Carbon dioxide-heavy,Oceanic,16.22,Geothermal,1,0.07176685003070185,1,Yes
+ba479387-2c90-430b-a7eb-570a4a99cfbd,Zarathustra,179.61,15,312,61.96,7,Carbon dioxide-heavy,Volcanic,3.99,Geothermal,3,0.4603466564867921,2,No
+5160dea0-b13f-4799-807d-b593adc0cb7d,Titanium,390.31,43,346,164.34,7,Hydrogen-rich,Icy,11.53,Geothermal,3,0.21466620212445325,2,No
+f3fe1029-5159-4c07-b100-7d17a45e908a,Zarathustra,255.7,38,164,442.31,9,Methane-dominated,Rocky,4.8,Chemical,4,0.02939849171467305,1,No
+fad6f2a6-0af2-44fd-919e-a2b0b5175c14,Aurora,223.77,29,347,326.16,1,Oxygen-rich,Oceanic,15.06,Chemical,1,0.46582764594577797,0,Yes
+c0fc4d57-fc69-459c-bb34-e16ac15ca484,Titanium,343.2,44,122,155.67,8,Oxygen-rich,Icy,18.97,Chemical,1,0.7429142067913067,1,No
+06727511-a5ea-45d9-925f-16c74ea7d6e5,Xenon,516.47,33,31,129.51,10,Methane-dominated,Rocky,16.59,Geothermal,0,0.0,0,No
+c043e4f0-e7d7-4caf-98a5-b1328ec646ea,Elysium,566.39,31,307,461.64,9,Oxygen-rich,Rocky,7.5,Geothermal,0,0.8128218661822388,1,No
+bcc56483-89cd-41ba-ae24-2335316e679f,Elysium,465.27,37,63,219.58,8,Carbon dioxide-heavy,Rocky,14.14,Nuclear,4,0.40184375531374156,0,Yes
+845e8c80-617c-4ebb-8c5f-474d66175e2a,Elysium,940.67,36,265,226.02,6,Oxygen-rich,Oceanic,9.67,Nuclear,0,0.8282962941018815,2,Yes
+12e1a8a0-6f24-4696-9ddd-ab666eb3f94a,Titanium,66.53,47,165,454.75,7,Methane-dominated,Volcanic,12.09,Nuclear,3,0.9089348691280736,2,Yes
+4834448f-61d1-4f60-8b07-0118f535e68a,Xenon,367.2,6,79,191.18,3,Methane-dominated,Oceanic,16.1,Nuclear,0,0.9308807471117877,2,Yes
+99aa9dae-2890-4a93-98d6-67e90d6f0e4a,Zarathustra,550.75,47,193,256.1,7,Methane-dominated,Oceanic,9.88,Solar,3,0.7230820146453684,0,No
+8e4b9a7d-b80b-4fd9-9006-aa576fe51ca2,Aurora,762.54,28,193,,3,Methane-dominated,Oceanic,13.76,Solar,1,0.1775488912820876,0,Yes
+41c73bad-a7ae-4c0c-be88-4a0ec017a115,Elysium,657.71,47,246,414.94,7,Methane-dominated,Volcanic,18.72,Geothermal,2,0.8662519000804043,0,Yes
+4bd17995-3339-4d27-8cbe-7b418da9bcd4,Elysium,223.42,21,89,423.69,4,Oxygen-rich,Icy,10.95,Nuclear,1,0.41354651110443236,0,No
+d888a207-2c55-49bd-b913-878c93796da6,Zarathustra,777.44,45,72,220.56,8,Oxygen-rich,Icy,10.52,Chemical,1,0.22558922294857817,0,No
+9cd36e58-030e-4e74-b061-c8a98a135d13,Aurora,500.79,39,175,,10,Methane-dominated,Oceanic,11.87,Chemical,0,0.04250805405504992,1,No
+b067c335-cb78-4411-a0e5-130f58439022,Aurora,696.38,18,308,175.26,1,Carbon dioxide-heavy,Rocky,10.91,Geothermal,1,0.6974031564297124,0,No
+90ea2235-813f-4e8d-9cce-5d6b98de0d8c,Zarathustra,770.2,29,64,253.51,8,Carbon dioxide-heavy,Oceanic,11.99,Nuclear,2,0.7975973213853531,0,No
+025b487a-0ba7-4260-a60d-64457364660f,Zarathustra,395.53,31,124,261.06,3,Oxygen-rich,Icy,9.4,Geothermal,2,0.16845087180723503,1,Yes
+d9908d55-bed3-4a9c-a28f-34c344996bcf,Titanium,256.79,23,238,282.74,1,Methane-dominated,Oceanic,10.21,Solar,1,0.863862763334226,0,Yes
+05b52c07-3353-45ac-9c1e-51bd51cc085f,Zarathustra,232.53,28,256,376.97,5,Oxygen-rich,Rocky,16.69,Nuclear,0,0.9321625566470417,0,No
+fead58b0-cdf3-4add-b79d-bda5df046291,Aurora,835.24,10,70,83.55,3,Hydrogen-rich,Rocky,16.6,Chemical,0,0.6023073009357353,1,No
+e4d4042a-6587-484a-b09a-99254ac1f2cd,Aurora,184.36,5,180,483.68,6,Oxygen-rich,Oceanic,8.8,Nuclear,1,0.0,2,No
+ee4d116d-8281-4b17-947b-0b6833bd5886,Aurora,19.14,46,38,151.28,5,Hydrogen-rich,Icy,0.99,Nuclear,4,0.8180951148219031,1,No
+89663635-f1fb-4d01-9c10-822b4a85682f,Zarathustra,383.84,38,273,376.08,10,Hydrogen-rich,Volcanic,19.06,Chemical,2,0.5113475011280699,2,No
+2efc5c77-15c9-460d-b0a7-25c8121dfc2c,Xenon,641.18,32,198,241.75,5,Methane-dominated,Oceanic,19.41,Chemical,2,0.5561708508704583,0,No
+f0e8d632-c110-4419-b903-236b59dd3cf7,Zarathustra,387.73,17,83,96.86,6,Hydrogen-rich,Oceanic,4.3,Geothermal,1,0.9070270341007711,2,Yes
+8e931faf-1e62-4d69-9562-a3b856b31c90,Titanium,549.44,39,140,78.07,6,Carbon dioxide-heavy,Rocky,18.1,Nuclear,2,0.601803201282035,1,Yes
+582b1db0-0724-4cc2-a679-a6ede45fead4,Elysium,79.91,36,270,392.79,10,Methane-dominated,Volcanic,9.31,Solar,1,0.33494608369552514,0,No
+93b131f8-eba5-43f8-8d3d-c255862d4812,Zarathustra,512.46,40,66,224.33,3,Oxygen-rich,Oceanic,3.35,Nuclear,3,0.13982085101535804,0,No
+78ca2e53-1487-4391-be0d-57338bc063dc,Aurora,173.62,45,217,146.19,9,Methane-dominated,Volcanic,8.68,Chemical,1,0.820603226370159,0,No
+dbcee6c2-45f9-4119-8267-c5c314076848,Aurora,766.87,21,187,369.5,7,Hydrogen-rich,Oceanic,12.42,Solar,3,0.05664296677390444,2,No
+611a9264-b7bb-43d1-bb7e-6ea9e79978d3,Xenon,199.7,43,112,205.79,2,Oxygen-rich,Oceanic,15.27,Nuclear,0,0.09280427995333193,0,No
+282952b6-d5e0-4807-bdf1-d2abad4992c9,Aurora,918.28,18,138,357.9,2,Carbon dioxide-heavy,Oceanic,1.74,Solar,1,0.23595092084142585,1,Yes
+e0e71fad-cca1-4ec5-ac44-5fd3e89fa60e,Zarathustra,135.7,9,129,410.68,7,Hydrogen-rich,Volcanic,0.35,Geothermal,4,0.7748500181263344,1,No
+c43064f8-2bae-4fa5-87c4-35c3590fa089,Zarathustra,822.72,36,105,199.9,1,Carbon dioxide-heavy,Oceanic,19.0,Geothermal,0,0.540266608195729,2,Yes
+56de2982-e33d-430b-b494-3316ce04fa00,Zarathustra,171.35,48,60,81.77,6,Oxygen-rich,Oceanic,11.42,Geothermal,2,0.4595932377688958,2,Yes
+c4a5f270-f3dd-435a-9083-4d6b7c1442ed,Titanium,463.8,23,131,161.4,1,Methane-dominated,Volcanic,6.99,Geothermal,3,0.0394786826738857,2,Yes
+10dcad7d-640c-49c9-a992-76e3da49215d,Xenon,345.8,10,336,301.15,1,Hydrogen-rich,Icy,6.15,Chemical,4,0.0,0,Yes
+9af136be-0bed-4f20-aacb-3cf23f1309d8,Aurora,432.46,19,133,143.39,1,Methane-dominated,Rocky,5.4,Solar,2,0.9065490522318154,1,Yes
+96f9550e-c1d4-4a87-aa16-128d6f50cf8e,Aurora,438.08,33,44,371.0,10,Hydrogen-rich,Rocky,18.63,Geothermal,4,0.2909440441108016,0,Yes
+b72a5d35-941f-440d-b0c3-70434c0658dd,Aurora,205.67,9,214,,6,Carbon dioxide-heavy,Rocky,7.83,Nuclear,0,0.5813031964643967,0,No
+3ca014d5-48be-49de-bda0-324e495173c4,Xenon,37.97,43,355,295.39,6,Oxygen-rich,Rocky,12.72,Nuclear,0,0.26872594240205017,1,No
+47508b71-0d9e-4b2a-ab20-2327bfd62725,Xenon,295.69,16,207,75.56,2,Carbon dioxide-heavy,Oceanic,0.29,Chemical,4,0.9861848669721239,2,No
+100362f1-a16c-4a22-8a6e-5f0a454f64a0,Zarathustra,124.03,13,214,103.34,10,Hydrogen-rich,Rocky,16.92,Nuclear,4,0.27412306110127327,0,Yes
+c3452ebb-13da-4766-9e1a-64bcbb153b32,Xenon,332.89,20,342,347.12,2,Methane-dominated,Oceanic,4.48,Solar,1,0.29519974228416435,0,No
+80dfa81f-9d82-40df-bc18-e00f5edb84e8,Elysium,871.33,19,203,459.15,10,Methane-dominated,Volcanic,11.79,Nuclear,4,1.0,2,No
+9f3e7feb-e6af-4394-9908-c88515d04d1b,Elysium,518.94,46,221,105.75,3,Hydrogen-rich,Rocky,6.23,Chemical,1,0.13937592204338822,0,No
+4bd20138-86dd-473f-8131-e990e72200cc,Aurora,265.32,5,197,175.87,7,Oxygen-rich,Volcanic,1.64,Chemical,1,0.12537344401734685,1,No
+b66d745f-b8f4-41ba-ab09-8c90d7e758dd,Titanium,807.84,10,89,474.44,2,Methane-dominated,Rocky,16.04,Geothermal,1,0.0868688583947839,1,No
+75deedb5-4294-439c-ac1a-1606a190b233,Elysium,921.2,37,282,189.4,6,Methane-dominated,Icy,1.18,Chemical,2,0.05072955478870958,2,No
+a9e24105-0356-4d3e-ac2d-c534ff67a7a2,Titanium,379.57,34,310,468.44,6,Hydrogen-rich,Volcanic,7.33,Geothermal,1,0.1287607861537277,1,No
+7651e543-c29f-4459-ba6b-f568b9a77667,Zarathustra,936.49,34,337,132.25,1,Oxygen-rich,Icy,10.24,Chemical,2,0.6804021387189506,1,No
+afc624fb-4440-4c3a-8b17-b91f2e988448,Zarathustra,403.22,24,261,487.95,9,Hydrogen-rich,Rocky,1.71,Chemical,3,0.07739850651799277,0,No
+0e2e3765-c5d9-44fb-86ab-d9d8391ebd3a,Titanium,924.14,9,46,56.55,5,Carbon dioxide-heavy,Oceanic,19.93,Chemical,4,0.6265237373518386,0,No
+bf185002-3ab1-43cd-957f-c5f581a519c1,Titanium,497.1,19,261,109.19,4,Carbon dioxide-heavy,Rocky,9.12,Nuclear,3,0.4181831275034884,0,No
+ee40b400-0ca1-4977-9507-940a03da1949,Elysium,247.86,36,53,69.7,1,Methane-dominated,Oceanic,10.77,Solar,4,0.12873780421132716,2,No
+82c027d8-7287-442e-ada9-d756a29b546d,Elysium,110.71,34,87,387.79,8,Oxygen-rich,Volcanic,9.24,Nuclear,0,0.9611864467412763,0,Yes
+996c9bb6-2cd8-41eb-a8d8-bc0396f9a673,Titanium,784.5,24,52,309.14,10,Oxygen-rich,Volcanic,16.08,Geothermal,4,0.5155358429862231,2,Yes
+6a16a5b9-19eb-4a23-afe9-a1d20bfa820b,Elysium,75.19,29,264,74.84,6,Carbon dioxide-heavy,Icy,0.83,Geothermal,2,0.04975978502465507,1,Yes
+5dacd539-cc36-4973-a4d6-135c0c0b394e,Zarathustra,421.18,32,48,379.8,8,Methane-dominated,Volcanic,2.22,Chemical,3,0.9298023701846665,0,Yes
+2a92ccf7-8e0f-4bb5-8393-6d19ed8a0d7e,Titanium,8213.8,23,188,334.93,3,Oxygen-rich,Volcanic,12.22,Chemical,3,0.862879105354219,1,No
+db040b37-764b-4f33-aec0-8c582a788f70,Zarathustra,119.07,11,352,209.74,4,Methane-dominated,Volcanic,1.84,Nuclear,4,0.35066363826803343,2,Yes
+e1a0ff78-8f9d-4dbe-8825-244ee79cf409,Xenon,570.45,49,133,322.62,7,Oxygen-rich,Rocky,6.3,Geothermal,0,0.815970698637787,2,Yes
+b909dfa2-3d8f-42be-b410-50ba6a9f7b29,Titanium,399.71,16,263,404.49,9,Carbon dioxide-heavy,Volcanic,19.12,Nuclear,4,0.43984585899812384,0,No
+e30df5ba-34d0-496b-93cc-80a37410f971,Xenon,359.74,41,43,231.9,10,Hydrogen-rich,Volcanic,16.74,Geothermal,2,0.008716365152070624,2,No
+8042a8a6-6d3d-4d7b-a3c9-0a5125f28d55,Xenon,806.32,46,56,99.37,1,,Volcanic,17.68,Chemical,2,0.8416556553525951,2,Yes
+729a2ece-492d-4d20-8760-81ae18b3a92d,Xenon,124.35,36,358,213.23,8,Oxygen-rich,Icy,10.65,Nuclear,2,0.20702240532187527,1,No
+70027d43-8854-4d84-8bc7-384a6673f6fd,Aurora,435.98,7,75,88.66,6,Carbon dioxide-heavy,Icy,12.23,Chemical,4,0.34940446867590513,0,No
+a2e3597c-c5e6-46fe-bc80-32503ac0cbb5,Titanium,797.5,35,238,55.08,5,Oxygen-rich,Volcanic,7.08,Nuclear,2,0.5953266715005701,0,No
+9b4d0968-5f97-4d0a-bfb0-dee1b7cc3940,Aurora,797.96,17,180,150.06,9,Hydrogen-rich,Rocky,11.59,Solar,1,0.6151746523848168,0,No
+7a1230cb-d3bc-414e-b9ff-a72fe3421ffe,Zarathustra,295.43,31,278,242.91,1,Hydrogen-rich,Icy,10.59,Solar,3,0.6223449606839385,1,No
+d2b34727-e9d5-4c8f-926a-9888a770c0f1,Titanium,31.7,24,275,176.1,6,Carbon dioxide-heavy,Icy,3.21,Solar,1,0.9385462065723753,2,Yes
+e8d11391-12ed-4c99-a7e1-e60e14e3a190,Xenon,196.89,37,103,434.87,4,,Icy,7.46,Geothermal,1,0.8575163374444138,0,No
+ab50bf9b-ed75-4457-81da-3ea27f3c20e0,Zarathustra,458.26,19,137,418.68,3,Oxygen-rich,Volcanic,4.5,Geothermal,1,0.4505198944716013,0,Yes
+104ae516-7c58-4960-a7ff-4459c62707bc,Xenon,901.08,32,254,220.63,3,Hydrogen-rich,Rocky,14.36,Nuclear,4,0.43755972475348603,2,Yes
+479cd8ef-8566-4334-b039-5f14976a73e2,Xenon,546.58,18,246,210.49,3,Carbon dioxide-heavy,Icy,8.09,Nuclear,0,0.3391961953445166,1,No
+8a9bea31-3075-47d3-a9e2-3aba362564f0,Zarathustra,182.11,41,146,111.14,8,Carbon dioxide-heavy,Oceanic,10.46,Nuclear,4,1.0,0,Yes
+04759405-f82a-4ede-83b1-92aec7e88a69,Titanium,826.64,40,222,487.19,7,Oxygen-rich,Rocky,12.49,Chemical,4,0.09546089984283374,0,Yes
+9e067961-b9fb-42cb-aae0-ba1f662c899d,Xenon,502.84,34,182,158.6,8,Oxygen-rich,Volcanic,11.5,Nuclear,4,1.0,0,Yes
+ff4bad08-a076-4075-8187-834c718717e2,Titanium,519.42,32,207,359.25,6,Hydrogen-rich,Volcanic,7.38,Solar,4,0.5640655409996118,2,No
+d677cb2a-a97f-4399-a417-6d0e2d7779a2,Aurora,541.26,27,69,285.99,2,Carbon dioxide-heavy,Volcanic,3.42,Nuclear,1,0.8491499408989381,0,Yes
+694ba8a6-df01-4c22-bc65-0797efc5569b,Aurora,59.78,49,140,247.73,1,Carbon dioxide-heavy,Rocky,18.56,Chemical,4,0.6271791261040511,0,Yes
+8e33e885-e11c-4dea-97a0-e4e2652e56ba,Elysium,778.37,8,48,275.53,7,Hydrogen-rich,Volcanic,4.23,Nuclear,1,0.5391893569768181,2,No
+d7ce6831-4e0f-4f1b-a196-7ba54571d315,Titanium,305.65,10,224,462.9,2,Carbon dioxide-heavy,Icy,14.22,Solar,4,0.6152210959542973,1,No
+123eb006-9f0d-4f08-8fca-42e8b2e080a1,Titanium,590.27,36,203,409.85,9,Hydrogen-rich,Oceanic,15.81,Geothermal,0,0.6041047039209438,1,No
+b7a94a67-efd4-43d2-a3b3-e5bb81d75b48,Zarathustra,931.03,46,190,152.5,1,Oxygen-rich,Rocky,7.07,Solar,1,0.815158389372887,1,No
+77acbfa7-7fc7-4db7-8802-d7660b30cf79,Aurora,687.58,23,139,81.32,9,Methane-dominated,Rocky,6.28,Chemical,2,0.337552330750179,2,No
+8b38fbee-2cda-4efe-b15e-c8dc3062110b,Elysium,987.24,32,216,118.69,4,Carbon dioxide-heavy,Volcanic,16.46,Solar,1,0.7277684754442638,1,Yes
+f92443ec-29fc-4aed-aa78-5436411ae1a0,Aurora,940.53,34,274,109.62,5,Methane-dominated,Icy,19.7,Chemical,2,0.4576468167627532,2,No
+e86f6da7-92bd-4a4e-9a4a-dcba7a514a00,Zarathustra,964.78,45,281,366.29,4,Methane-dominated,Rocky,16.4,Chemical,4,0.5977759519409168,2,No
+b995b8ad-dd20-4162-b091-9506347c5a7b,Titanium,909.33,45,95,173.77,9,Methane-dominated,Icy,5.93,Chemical,4,0.3750926928160705,1,Yes
+830aff45-bc9a-483f-9a4f-97f2036a7c12,Titanium,891.36,47,160,307.7,7,Oxygen-rich,Volcanic,14.48,Chemical,1,0.13868642166592282,0,No
+0e068e32-5f6a-428f-9b87-6503f69a0eb7,Zarathustra,484.45,42,209,100.76,7,Hydrogen-rich,Icy,17.77,Solar,1,0.8235021316988906,2,No
+74ccbff7-010a-4622-972a-5b08832e0727,Xenon,893.61,19,244,159.21,1,Oxygen-rich,Icy,8.46,Chemical,4,0.15586301792958596,0,Yes
+9622436b-885e-4d71-bc38-0324886d0149,Titanium,953.36,20,316,329.68,6,Hydrogen-rich,Rocky,18.3,Chemical,1,0.4671400622643329,2,No
+f017c863-1ff8-4579-812b-ab225702a442,Xenon,443.13,45,228,90.35,5,Methane-dominated,Oceanic,8.69,Nuclear,4,0.8583414903918546,0,No
+2a67e038-c942-4898-8ec2-bf8936a6afd1,Elysium,306.25,31,263,370.79,10,Hydrogen-rich,Rocky,1.87,Nuclear,3,0.7669452495070898,0,No
+71b2e7fe-9256-4956-8c29-72af795f58cb,Xenon,744.63,43,195,89.96,2,Hydrogen-rich,Rocky,3.27,Chemical,4,0.23645217589447623,2,No
+cea7dfa2-70fa-4ac7-b91b-d66447a5957b,Titanium,181.3,15,146,428.44,7,Carbon dioxide-heavy,Oceanic,7.1,Geothermal,0,0.6062875476695667,0,No
+2b8a7bc2-76a0-4304-a659-1d803f5d0d64,Xenon,539.19,15,190,240.37,3,Carbon dioxide-heavy,Oceanic,19.08,Geothermal,4,0.23524821659837428,2,Yes
+af2f8bfb-dc58-4014-9b6c-4af6d443e7fa,Elysium,633.37,35,351,160.56,2,Methane-dominated,Oceanic,8.21,Chemical,2,0.1520629433564201,0,Yes
+3574fb7d-a98c-461a-91ca-185a61457893,Zarathustra,761.32,23,134,229.29,6,Carbon dioxide-heavy,Rocky,3.68,Chemical,3,0.47399972827809567,0,Yes
+41829be2-17c9-419d-8a0d-fe93f449817f,Xenon,741.17,32,162,242.57,3,Oxygen-rich,Volcanic,0.41,Chemical,1,0.1250585143242586,1,Yes
+444d51a2-cfb1-40ca-b684-48d6384dd257,Aurora,612.45,22,200,462.95,9,Hydrogen-rich,Volcanic,15.92,Chemical,4,0.17780263904368848,0,No
+59ce32be-102d-48eb-95c5-3090db5aa9e6,Zarathustra,483.88,18,304,415.28,10,Oxygen-rich,Volcanic,6.74,Nuclear,1,0.9117436198274439,2,No
+11728ea9-5c1d-46c1-a385-593e1f88ba05,Elysium,935.2,33,238,360.22,7,Methane-dominated,Volcanic,19.4,Chemical,0,0.8512672821728028,0,Yes
+f1952648-e302-4c52-a72d-da9a3f1bec51,Aurora,137.48,41,259,179.29,2,Hydrogen-rich,Volcanic,19.97,Nuclear,3,0.8776297303597791,0,Yes
+c48b8810-730e-4a03-ba95-88b1aa94b439,Aurora,788.65,19,214,127.2,8,Hydrogen-rich,Rocky,18.09,Solar,0,0.6184813889955831,0,No
+c783a8da-77bb-4821-b18b-911360c80b78,Titanium,291.83,11,123,58.72,10,Hydrogen-rich,Rocky,16.42,Nuclear,1,0.30884643360913167,2,No
+f92fbc42-cd4f-4b93-bf03-139bd226e8f7,Xenon,46.29,45,251,63.98,6,Hydrogen-rich,Rocky,19.81,Solar,0,0.45466790687453207,2,Yes
+c7160911-d345-4328-ac4f-6f1b538af02c,Elysium,589.56,8,160,229.86,10,Oxygen-rich,Rocky,12.77,Geothermal,0,0.3151280921249966,1,Yes
+8527f185-ecf4-4380-9cf1-c4b172d02990,Zarathustra,295.38,7,39,118.32,7,Oxygen-rich,Icy,18.93,Nuclear,2,0.37854129865648267,2,Yes
+fcb3ecf0-2b9e-4f28-b036-75e7438f56c1,Titanium,726.23,17,270,93.97,7,Oxygen-rich,Oceanic,17.61,Solar,1,0.35665856885681846,1,No
+77f479ba-1328-4698-b5ec-51f5a9c3d014,Zarathustra,314.56,23,204,484.78,6,Oxygen-rich,Icy,3.78,Nuclear,1,0.8001072807642566,1,Yes
+61ddafaf-9ac8-457c-b09b-94b52f88d9fa,Aurora,70.83,30,327,79.93,6,Hydrogen-rich,Rocky,12.34,Chemical,1,0.27725085941756183,0,Yes
+2c26cb71-3b04-42bc-89a6-e6cda539e114,Zarathustra,895.29,23,151,467.97,10,Methane-dominated,Rocky,4.32,Geothermal,1,0.13093370006183933,2,No
+8121c919-d133-4e04-a495-c68ada0b275c,Zarathustra,535.42,37,300,,1,Oxygen-rich,Icy,12.3,Chemical,4,0.8282088804441055,1,No
+fb7aea90-dc34-46b4-a0b2-4e5d006a177e,Elysium,152.42,49,112,191.53,8,Oxygen-rich,Oceanic,12.7,Solar,0,1.0,0,No
+f6dec490-a19d-4738-9a4f-713f32594f67,Elysium,785.63,9,291,97.59,2,Hydrogen-rich,Volcanic,17.81,Geothermal,1,0.3742196967362351,1,No
+d975718f-d066-4fc7-9b05-c6f98776315f,Elysium,383.17,17,91,200.92,7,Oxygen-rich,Volcanic,15.39,Solar,0,0.902700463778063,0,Yes
+607cdba0-fdb9-42f4-aa7e-84538831ec7c,Titanium,103.8,7,41,212.7,2,Oxygen-rich,Volcanic,17.99,Solar,1,0.030125613201279187,0,Yes
+d551019b-245d-4525-82ed-1e391c7e539d,Elysium,165.8,11,146,373.77,1,Hydrogen-rich,Volcanic,4.9,Nuclear,3,0.3765261500532072,2,No
+149135d6-2b8d-4281-836e-6b9fc747ec4e,Elysium,836.2,44,272,423.53,9,Methane-dominated,Volcanic,15.21,Chemical,3,0.8982470502731482,0,No
+63328dbd-22fa-4aa2-9351-6038779edd29,Titanium,89.65,13,81,414.75,3,Hydrogen-rich,Volcanic,16.64,Solar,2,0.0,1,No
+5e51e6ef-8288-42df-bafd-7a1b1a1fe1c6,Zarathustra,324.37,8,289,479.17,8,Carbon dioxide-heavy,Icy,13.61,Nuclear,0,0.604369727440332,1,Yes
+fe328af5-a6c1-42de-8df3-4594aafc6bdd,Aurora,174.99,24,337,450.96,6,Carbon dioxide-heavy,Volcanic,3.99,Nuclear,4,0.7539355006787027,0,No
+2984eed2-ffbe-433e-9aec-b14151bdd4f5,Elysium,289.16,19,51,417.43,10,Hydrogen-rich,Oceanic,5.84,Solar,2,0.6340508039686044,1,Yes
+f5227b69-e616-410e-95ad-c9ccc0ec4194,Aurora,100.46,28,353,63.57,7,Methane-dominated,Rocky,10.05,Chemical,3,0.4476028529539793,2,Yes
+fd61ab5b-fff8-4cd8-a230-cca0e2356d32,Titanium,635.53,34,164,67.63,10,Hydrogen-rich,Icy,16.31,Solar,1,0.6144613896106268,1,Yes
+bfc142fe-b7c0-49f6-91ba-c80f0d6451b8,Zarathustra,546.43,16,220,410.71,3,Hydrogen-rich,Icy,16.47,Chemical,4,0.6221039720220275,1,Yes
+1dee885b-c55d-494d-b67a-a3d20f5f0c33,Elysium,522.78,34,76,171.3,9,Hydrogen-rich,Volcanic,9.98,Geothermal,2,0.28143568244382267,1,Yes
+ac30f7c9-da39-44a5-a527-866b0c8a4ec9,Elysium,754.25,13,329,,9,Oxygen-rich,Rocky,8.15,Nuclear,0,0.14023193237191706,1,Yes
+908bcc97-0539-4988-89b5-87fc4d34a995,Xenon,344.93,24,94,376.94,6,Oxygen-rich,Volcanic,0.62,Solar,1,0.4019981372417566,1,No
+72e1fbf5-a39c-4d54-b835-e6a8abb80d6b,Zarathustra,84.94,19,172,148.55,10,Carbon dioxide-heavy,Rocky,17.22,Geothermal,2,0.11228262527781227,0,No
+b588cb32-2538-4e19-ad17-536aeaf24033,Elysium,511.36,44,273,223.43,1,Carbon dioxide-heavy,Volcanic,5.36,Nuclear,2,0.0,1,Yes
+6f225510-0dba-44dc-9602-b8a18bef1b76,Aurora,142.03,12,30,383.06,9,Hydrogen-rich,Volcanic,19.14,Solar,1,0.7466238900409834,1,Yes
+bc0c1fc5-e808-4a61-b5ab-143a3c6e9304,Elysium,790.69,31,201,411.49,3,Hydrogen-rich,Rocky,5.88,Geothermal,0,0.542818213684889,1,Yes
+fcfc37ba-50c7-4e02-9253-e5217fc5132c,Titanium,138.84,43,59,377.1,3,Hydrogen-rich,Oceanic,11.85,Chemical,2,0.9773711335712995,1,No
+22b335e3-8cec-43a5-a9f2-0ce3895068d4,Titanium,325.77,39,280,92.69,4,Carbon dioxide-heavy,Icy,15.1,Nuclear,0,0.964903973175267,2,Yes
+de3620c7-62be-4885-85e1-3483a6ea19d3,Elysium,648.46,5,290,405.77,2,Methane-dominated,Rocky,16.76,Nuclear,1,0.20156898936924575,2,No
+e812d14c-7524-4d07-a5ba-48a9743859fb,Aurora,338.78,8,182,398.86,2,Hydrogen-rich,Rocky,9.83,Geothermal,1,0.2069551518477003,0,No
+36aeb0c6-af91-477e-9643-d60ce421ae89,Zarathustra,454.02,45,177,284.92,4,Hydrogen-rich,Icy,11.12,Nuclear,4,0.05756688618037926,1,No
+105f5308-4bc0-489b-b4be-4d4f2c468a97,Elysium,827.56,44,81,196.12,4,Hydrogen-rich,Oceanic,17.03,Chemical,2,0.14469079903296964,0,Yes
+bb6bf29b-f768-40c0-a335-a1832f52b918,Zarathustra,486.64,46,289,436.24,4,Methane-dominated,Oceanic,12.32,Solar,0,0.6475228961772139,2,Yes
+e7648a7b-933a-4636-9ec2-64faf199944b,Aurora,840.87,17,271,131.19,1,Oxygen-rich,Volcanic,2.23,Nuclear,4,0.07802327188256947,1,Yes
+83e5bb3b-012e-4c32-ad01-6d6c9a7970c4,Titanium,940.08,36,185,201.68,3,,Volcanic,5.85,Nuclear,2,0.9287299859759545,0,Yes
+7e5e0a37-bcba-4a20-8fc4-0aa3878068f3,Elysium,548.3,30,246,243.66,10,Hydrogen-rich,Volcanic,18.33,Nuclear,0,0.8116377750876285,2,Yes
+690df002-5347-47d9-9b8e-489f13722f67,Zarathustra,943.42,28,129,274.63,4,Oxygen-rich,Volcanic,19.14,Geothermal,0,0.8790136200764865,2,Yes
+1ee15d9a-d7c1-4973-b32f-8d8bafbe6765,Xenon,574.52,16,46,96.76,3,Methane-dominated,Icy,12.89,Geothermal,0,0.8923408856903738,2,No
+e1cf97bd-5503-4d0f-a80b-6d443cdae05e,Elysium,651.16,46,94,467.41,7,Methane-dominated,Rocky,17.95,Chemical,1,0.3096100433612693,2,Yes
+4bdf7b7b-2345-4ac4-829d-78b0325aafde,Elysium,714.7,34,180,450.74,4,Methane-dominated,Oceanic,18.7,Nuclear,2,0.3241643962691514,2,No
+484b36ef-c4e6-4ffc-be8f-39d2d285b802,Aurora,468.4,30,327,83.22,7,Hydrogen-rich,Oceanic,5.65,Solar,1,0.3514739679409592,1,No
+da170070-ffea-477e-97d1-cc57cf48f9b5,Titanium,369.15,32,356,93.49,2,Methane-dominated,Rocky,8.42,Solar,3,0.9296702039743757,0,No
+6e75d74c-7386-4d04-9da7-2847b2e39786,Zarathustra,352.32,6,82,146.86,7,Methane-dominated,Rocky,0.21,Nuclear,2,0.1505922528346535,0,No
+dc64e2cd-5076-4484-8865-fa0d16e53a2d,Zarathustra,14.29,31,341,158.87,6,Oxygen-rich,Volcanic,10.35,Nuclear,3,0.4221529380847365,0,No
+02f51b80-0486-411f-8282-ee32553466a9,Elysium,144.73,42,48,151.33,3,Oxygen-rich,Icy,16.35,Solar,3,0.5572871564927292,2,No
+c1d3fb3f-ec1d-4c85-a99d-b1ea560b81b6,Xenon,230.43,47,308,225.17,5,Oxygen-rich,Oceanic,16.66,Nuclear,2,0.42002224601355154,2,No
+3438e62c-ee35-4c3d-9789-39806c6e399d,Zarathustra,580.75,29,359,,3,Carbon dioxide-heavy,Icy,9.68,Nuclear,2,1.0,2,No
+ebab3521-b618-4d12-a274-156eb694f2d7,Aurora,355.13,32,299,440.78,5,Methane-dominated,Rocky,6.81,Geothermal,4,0.06668714149203173,2,Yes
+9de2bd51-e39d-4d2a-8ede-814908319e7d,Zarathustra,378.22,31,344,119.0,5,Carbon dioxide-heavy,Rocky,1.94,Geothermal,2,0.28194271677947047,2,Yes
+4bd91c6d-3ce4-4df8-be21-b7ca423d37fc,Titanium,62.93,7,84,217.3,1,Carbon dioxide-heavy,Icy,6.5,Chemical,1,0.258733628630894,2,No
+0e7a546e-c955-4a88-9a44-869c17e01947,Xenon,11.28,25,238,145.76,3,Oxygen-rich,Icy,10.32,Nuclear,1,0.7690194813658935,0,No
+7414e328-fb92-471a-a5ba-02da53e916c1,Titanium,586.33,26,98,497.92,2,Methane-dominated,Volcanic,0.19,Nuclear,4,0.9423933547173089,0,No
+c4cac6c4-a6c3-4191-afd7-bc08ed6af70a,Titanium,950.54,7,52,240.24,5,Hydrogen-rich,Icy,1.78,Nuclear,3,0.2031679123544927,1,Yes
+a87e0ed4-996e-41e1-9b6c-53d80dba40d6,Elysium,174.58,17,292,129.53,6,Oxygen-rich,Rocky,9.4,Nuclear,0,0.012429513414620848,0,No
+df801cf3-bacd-4b6b-b5b6-ad39a545d9ce,Aurora,292.68,13,249,137.0,9,Carbon dioxide-heavy,Icy,2.61,Nuclear,3,0.634225223288553,1,Yes
+962d4dcd-5cc9-400c-a48e-15ce65789ae7,Zarathustra,586.97,46,188,452.62,6,Carbon dioxide-heavy,Icy,1.58,Chemical,0,0.7170536132800003,1,Yes
+4053876f-7ed5-42c6-b153-c09e28bdf0b8,Aurora,676.07,33,244,443.86,6,Methane-dominated,Icy,5.82,Nuclear,3,0.7175168690005581,2,Yes
+e4258797-bd5a-4723-9e70-9f9519ea0d09,Zarathustra,197.97,10,33,66.93,7,Carbon dioxide-heavy,Rocky,5.86,Chemical,0,0.6153738532354727,2,Yes
+3faadacc-2851-4fd3-a5b4-7df6d42de805,Aurora,483.34,49,137,450.0,2,Oxygen-rich,Icy,15.08,Solar,1,0.11821052165740711,1,No
+add2e3bc-170e-4c32-bcf7-6abdc75f7608,Aurora,47.57,40,351,,7,Methane-dominated,Rocky,14.9,Chemical,1,0.9711973513317537,1,No
+46b880e9-925d-4dd9-9eba-238eb4ae7da3,Xenon,158.52,30,363,379.59,2,Oxygen-rich,Volcanic,18.36,Solar,3,0.10816532302473796,1,Yes
+0949ce2e-f38a-4e5d-a541-42cc085fef9f,Zarathustra,463.61,42,40,462.22,1,Oxygen-rich,Oceanic,7.01,Solar,2,0.667392874781722,2,No
+de8350b9-e238-49e0-8268-a2d6f3f02c30,Titanium,189.27,29,217,356.02,8,Carbon dioxide-heavy,Volcanic,7.17,Chemical,0,0.3930908204634724,0,Yes
+49b4568a-b88c-4bb5-9272-1af8a7e804f2,Elysium,483.16,25,156,412.24,5,Oxygen-rich,Volcanic,17.65,Chemical,0,0.47344308403535346,2,No
+91e04a52-a9d1-482f-86b2-8e4fe2338db4,Xenon,422.32,7,57,81.09,6,Hydrogen-rich,Icy,19.28,Nuclear,1,0.9998799687473992,0,No
+ac742813-64f0-4cea-9735-5a83afa32b71,Zarathustra,532.87,14,248,495.99,8,Hydrogen-rich,Oceanic,19.02,Solar,1,0.6505551201213373,1,Yes
+a5373af2-d1d6-49cc-9335-044b245c58d3,Titanium,305.49,36,338,484.86,1,Hydrogen-rich,Rocky,10.07,Geothermal,1,0.11613154928045041,1,Yes
+ad666a01-5b9f-4f9e-b8d5-1755db17a2fc,Zarathustra,892.45,30,124,200.77,3,Hydrogen-rich,Rocky,4.98,Nuclear,0,0.6444890204134106,2,Yes
+4b55f3c7-363c-4b02-babd-d3b25880a37a,Aurora,954.0,7,285,265.65,5,Oxygen-rich,Oceanic,17.66,Geothermal,3,1.0,1,Yes
+c25cb7df-4864-4c8c-8f53-0db7c7376cd8,Zarathustra,706.82,41,222,402.37,5,Carbon dioxide-heavy,Icy,3.17,Nuclear,4,0.9537055446048032,1,Yes
+9fbd7a5a-2817-4e7a-85b2-a9366aa68858,Xenon,527.09,35,209,348.22,8,Hydrogen-rich,Icy,13.13,Chemical,0,0.0,2,No
+20dda4c5-37a9-4656-b846-9c47a3da3d6e,Xenon,366.93,5,333,194.25,9,Hydrogen-rich,Icy,3.61,Solar,3,0.5038588324276086,0,Yes
+905b707c-b367-4137-8f4e-4147ee39fa44,Zarathustra,849.56,17,190,73.2,6,Oxygen-rich,Oceanic,2.73,Solar,1,0.0,0,No
+3a5be7f6-58f7-4f96-afc2-9bb32347707b,Aurora,283.77,38,144,298.68,5,Methane-dominated,Icy,12.85,Geothermal,4,0.611290481916219,0,Yes
+32e598bc-179c-4194-8680-0897f9106a30,Xenon,575.21,8,71,160.85,1,Oxygen-rich,Rocky,0.84,Geothermal,2,0.5799700500338105,2,No
+f0092b75-d782-4cb6-9f75-c22844eaae3f,Aurora,852.91,7,296,168.16,9,Hydrogen-rich,Volcanic,8.04,Solar,0,0.3765832745972713,1,No
+3060d9fe-521e-437f-8a67-485c7887509f,Elysium,444.88,44,192,478.54,4,Methane-dominated,Icy,3.67,Geothermal,4,0.46936399924947464,2,Yes
+3ac1523c-380b-4399-b009-881f828834ab,Zarathustra,217.34,33,129,71.37,7,Methane-dominated,Oceanic,15.46,Chemical,3,0.30316348609345817,1,No
+6d780277-0b45-4cae-a7f5-2bc462ffafcf,Xenon,725.38,40,306,423.47,10,Hydrogen-rich,Volcanic,9.99,Solar,0,0.8964618291272001,0,No
+977dae99-c443-44ee-9682-6b343c041c74,Aurora,267.63,14,235,79.49,7,Oxygen-rich,Icy,8.95,Geothermal,1,0.7306637416519937,2,No
+18c76948-38e7-4e7a-a6bd-8a1ab90355b6,Aurora,39.7,40,218,449.01,9,Oxygen-rich,Rocky,8.11,Chemical,2,0.7824749339707726,1,No
+42b483dc-89c3-4c0d-8d47-fa75668150e4,Elysium,986.85,45,37,152.51,6,Methane-dominated,Oceanic,3.09,Solar,0,0.312893224982932,2,Yes
+27c18323-8708-4521-b4c1-d0ff9c06f49b,Titanium,434.25,23,241,132.02,10,Methane-dominated,Oceanic,12.46,Nuclear,2,0.27163149163489697,0,No
+4d13f220-dd53-4219-a067-d0076929a596,Zarathustra,956.38,23,58,234.24,6,Methane-dominated,Oceanic,1.87,Solar,0,0.0,1,Yes
+af464b56-b1eb-456d-98cf-421d6fecec29,Aurora,570.7,47,181,222.68,9,Carbon dioxide-heavy,Icy,6.63,Nuclear,3,0.14297436198246147,2,No
+2abc9a92-0456-43e0-9c69-8f35c2d15aff,Titanium,711.83,32,117,263.4,9,Oxygen-rich,Oceanic,11.24,Nuclear,4,0.23351007955777514,0,Yes
+0be37058-b6f2-4303-9b42-126f28b6f9b0,Zarathustra,374.9,30,73,235.3,9,Methane-dominated,Volcanic,12.23,Solar,3,0.5929280629261684,0,Yes
+c58a8394-5005-4d7e-b0fd-9dc321277bab,Xenon,839.02,17,231,420.19,5,Oxygen-rich,Oceanic,18.88,Nuclear,0,0.46226059972437333,1,No
+89b5479a-1ce2-4f1f-8b42-7dc7cf3f0927,Titanium,98.24,12,349,171.4,5,Oxygen-rich,Icy,15.98,Nuclear,3,0.16864093600998603,2,Yes
+db86d7aa-8383-4b14-8e01-4b523de4c32a,Titanium,697.37,18,63,402.78,8,Methane-dominated,Oceanic,0.69,Chemical,3,0.5432287602711225,1,No
+a44db7f7-72a9-431c-a61e-dd6072ec4835,Zarathustra,815.98,8,215,399.5,2,Oxygen-rich,Rocky,2.79,Geothermal,3,0.693582198197134,2,Yes
+e10df99b-a076-4384-bda6-1bcfd049f1d4,Zarathustra,715.09,41,259,293.46,4,Oxygen-rich,Icy,0.49,Nuclear,1,0.6772679171020416,2,Yes
+5212c0ad-b40e-4045-afd4-85bf4b5bb26a,Aurora,957.07,47,258,221.62,8,Oxygen-rich,Rocky,13.06,Chemical,2,0.01648631791735672,2,No
+720928e3-b48f-4fc9-a956-675e4a6e8b4e,Elysium,383.16,36,111,305.11,9,Carbon dioxide-heavy,Oceanic,2.57,Nuclear,3,0.4372285661480583,0,Yes
+a208e25e-f1ce-4eb0-aa00-1696323f3606,Titanium,179.02,28,51,408.65,5,Oxygen-rich,Volcanic,0.57,Solar,0,0.11681341419230876,0,No
+c3cdeb75-2b2e-48b2-bb6a-c8a02172a5c5,Zarathustra,172.27,16,280,73.54,4,Oxygen-rich,Volcanic,11.92,Chemical,0,0.57683837407731,1,No
+799aacb2-21a8-484d-ac48-dbb154f1191b,Zarathustra,865.25,22,259,100.4,3,Methane-dominated,Rocky,11.59,Solar,1,0.5743157285362716,1,Yes
+09ed39ab-ee6a-4862-88bc-92ff0ada8daa,Elysium,617.45,9,321,252.18,8,Carbon dioxide-heavy,Rocky,2.88,Geothermal,0,0.5148164216097028,2,No
+cb037d2a-356e-4d10-82b0-d6e755e5c12a,Aurora,810.78,7,169,458.03,2,Carbon dioxide-heavy,Oceanic,11.03,Solar,4,0.8153480431738965,1,No
+b7e75372-94da-4705-95f4-fa688fd8d40d,Xenon,187.87,8,256,212.96,10,Methane-dominated,Icy,16.9,Geothermal,0,0.42912363206940046,2,Yes
+7e1c178f-72cd-4fe6-8849-926438819318,Xenon,658.11,43,298,105.67,5,Oxygen-rich,Icy,13.14,Chemical,1,0.35168082797295863,0,Yes
+c8e1e3e3-860a-4442-8e81-4350d0f6f4f8,Elysium,28.67,30,79,94.9,4,Carbon dioxide-heavy,Icy,5.12,Nuclear,4,0.5927955297772425,1,No
+5981bc95-ee66-4764-a64e-be3fcfccd624,Elysium,311.39,47,314,328.39,4,Oxygen-rich,Oceanic,1.22,Chemical,3,0.8833848706751372,2,No
+4a8594bc-900b-48f7-84c1-51a5be57c6e3,Elysium,97.49,33,295,113.88,1,Hydrogen-rich,Volcanic,4.46,Solar,2,0.5799471059648051,0,No
+b171ae23-dc09-4d60-ab7b-17bcd31ae908,Aurora,273.66,19,357,313.52,2,Oxygen-rich,Volcanic,8.03,Solar,2,0.5479518904547466,2,Yes
+fe582392-ecd8-43bf-8af2-73a3dd379b44,Xenon,43.52,32,273,123.49,8,Carbon dioxide-heavy,Icy,3.46,Nuclear,4,0.0,2,Yes
+c96d3193-9024-49e9-bdf6-f1e5e45192a2,Titanium,878.43,19,163,296.39,8,Oxygen-rich,Oceanic,14.4,Solar,1,0.26645204395413236,1,Yes
+32d80a83-8896-425d-95bd-c6de4f98dc41,Xenon,596.3,7,334,316.25,1,Methane-dominated,Oceanic,14.84,Chemical,0,0.6532580705117067,0,No
+7dd84915-f407-4695-be75-80843bd55e1e,Titanium,830.41,36,138,299.29,2,Methane-dominated,Oceanic,9.95,Nuclear,0,0.4396760413784117,1,Yes
+4cfb3ad2-ca6a-4f90-a1f6-dfb3ef82077c,Xenon,125.28,20,302,253.82,10,Hydrogen-rich,Oceanic,16.41,Geothermal,0,0.18014482847312407,2,Yes
+80a66776-5717-4d9c-becd-ae1396770446,Zarathustra,914.13,23,240,146.58,3,Oxygen-rich,Volcanic,0.26,Geothermal,3,0.05442578304038674,0,No
+4b74cbdd-a54d-4374-af19-616b32fc0c19,Elysium,943.54,38,280,420.0,10,Oxygen-rich,Icy,14.1,Nuclear,3,0.39483666455283656,1,Yes
+d5fccc2a-e47b-4470-aaf5-1e0b088b8752,Aurora,399.37,46,323,356.43,8,Carbon dioxide-heavy,Icy,16.45,Solar,2,0.17075615822816648,2,No
+f9ffe6dc-e783-4779-9948-b46b9c82441b,Xenon,891.89,13,207,438.52,6,Methane-dominated,Icy,17.68,Chemical,4,0.9221054097350787,1,No
+20da5a66-c2e5-453a-b1c5-f5fa801e6481,Titanium,464.32,44,324,441.21,5,Carbon dioxide-heavy,Volcanic,17.36,Geothermal,1,0.1166494222139211,1,No
+445b9e56-0670-425d-b88f-617489e5d64a,Elysium,627.81,21,173,323.69,10,Carbon dioxide-heavy,Rocky,16.64,Chemical,4,0.49731410587038843,2,Yes
+f147968d-ef73-4a11-af90-1de86a240580,Zarathustra,783.64,38,211,53.45,9,Methane-dominated,Rocky,10.37,Nuclear,4,0.6652484923143944,0,Yes
+d89aadf9-ddfb-4bab-8f49-c60da8926936,Zarathustra,733.13,40,331,206.3,3,Oxygen-rich,Volcanic,14.2,Nuclear,4,0.34047926794464434,1,No
+21e97ba5-a398-4ffd-aa62-0722728ca01c,Titanium,977.08,15,80,,8,Methane-dominated,Icy,10.72,Solar,3,0.3706886022627732,2,No
+d75eea8a-0288-4370-b8ee-34a753eb9cac,Elysium,541.7,23,311,314.84,7,Carbon dioxide-heavy,Icy,12.94,Geothermal,4,0.7314819656551718,0,No
+4c2f6ecf-67df-4cdd-b8be-c3cff93aed27,Aurora,432.32,43,119,184.18,9,Oxygen-rich,Rocky,13.14,Chemical,4,0.5119347532621106,0,No
+23111154-efe5-4111-ac07-e0747ab381ae,Aurora,408.91,36,122,181.54,9,Carbon dioxide-heavy,Icy,9.26,Geothermal,0,0.24491570827298784,1,No
+542f0944-e0fd-40f4-bec7-9a44dc8da1cc,Titanium,531.6,37,42,443.14,4,Carbon dioxide-heavy,Icy,19.67,Solar,1,0.6113583941925628,0,No
+a9a9ae1b-6696-4d6a-9cb4-898e5a9bbafa,Aurora,456.98,9,178,309.99,6,Carbon dioxide-heavy,Rocky,14.88,Nuclear,1,0.495020557080737,1,No
+a651ed38-dd1f-4bf2-9626-68c44a385e71,Titanium,932.85,43,142,198.16,1,Methane-dominated,Volcanic,10.15,Nuclear,3,0.6795155272068447,1,Yes
+d78f86c3-7eb1-4c25-a0df-96908ae1a829,Aurora,948.71,44,99,92.38,10,Oxygen-rich,Oceanic,19.63,Geothermal,4,0.4996399030769818,2,Yes
+c8100e04-b66c-4ea9-8eae-684fa68d774e,Aurora,224.2,16,149,57.65,6,Hydrogen-rich,Volcanic,3.87,Solar,1,0.6083570700212046,2,No
+cc4af7ee-ac0e-4372-b0a8-f3c3d91ab619,Aurora,634.3,25,250,76.48,8,Oxygen-rich,Icy,10.22,Geothermal,4,0.23879180660299817,0,Yes
+53e07237-4947-458b-9328-f53adbb21013,Elysium,759.7,32,351,325.66,8,Hydrogen-rich,Rocky,10.66,Chemical,0,0.5282341667114692,2,Yes
+f6bc4092-41cc-4e1d-9d3c-2b4d31e0d7a8,Zarathustra,875.23,35,276,213.09,1,Oxygen-rich,Volcanic,0.71,Nuclear,4,0.2960769510057477,0,No
+e3009267-8ab6-494b-83f1-11cd4df40055,Aurora,315.21,25,37,457.79,10,Methane-dominated,Icy,2.01,Geothermal,1,0.9679922945923699,0,No
+d39a34e3-4b1a-46e5-8329-e1539c701518,Aurora,842.94,7,269,324.89,3,Carbon dioxide-heavy,Rocky,16.73,Solar,0,0.09618605128516321,0,No
+845cbb93-f838-48a0-a057-6ba7e3954adc,Aurora,906.02,29,104,454.02,6,Methane-dominated,Icy,2.85,Chemical,3,1.0,1,Yes
+2b8d91a0-9e5e-40aa-9984-1d5019eea6a3,Zarathustra,794.38,40,107,360.81,6,Hydrogen-rich,Oceanic,15.66,Nuclear,3,0.3071776500888853,1,No
+ed4f2bd8-ba53-44c6-8dd0-4c96599eef6e,Titanium,874.3,40,64,208.63,7,Oxygen-rich,Rocky,19.01,Solar,2,0.6985598608322808,1,No
+538cdcbb-113d-434b-b68d-18492c404871,Aurora,223.29,47,337,436.59,1,,Volcanic,14.26,Solar,2,0.9031569746639713,0,Yes
+1645d6e6-09bc-4263-8b0d-cdb88615c7e1,Aurora,274.35,7,68,183.56,1,Carbon dioxide-heavy,Volcanic,5.84,Geothermal,0,0.42258783390103155,0,No
+ed38cdb5-1595-454c-b3d7-4b5cf609a20f,Xenon,856.44,10,360,337.51,4,Hydrogen-rich,Oceanic,4.63,Geothermal,0,0.14328176864146214,0,No
+13e3c702-bfc3-4ce3-9dde-123a2d30d589,Elysium,709.13,5,279,334.24,10,Methane-dominated,Rocky,8.15,Solar,3,0.5652124805907204,2,No
+c2ef626f-ae20-4aea-a1f4-4aad18001013,Titanium,250.39,7,139,383.06,4,Oxygen-rich,Volcanic,3.0,Chemical,1,0.82018224486665,0,No
+7013a6ea-e4e9-4bed-b661-ed1f76cf9d50,Zarathustra,950.71,46,310,94.41,5,Carbon dioxide-heavy,Icy,18.85,Geothermal,1,0.32456469446298797,2,No
+6edbf7b3-e0e7-45ae-b37f-55e5158fee58,Elysium,957.0,26,191,378.81,9,Methane-dominated,Oceanic,2.7,Nuclear,4,0.937472101066342,2,Yes
+e2aff8b6-bfa3-469c-a7bf-053b124c552e,Aurora,114.49,39,164,477.6,2,Methane-dominated,Icy,8.63,Chemical,0,0.1949957843187009,2,No
+477a3aec-f152-4831-b1bc-b0a508a22f4f,Elysium,296.68,47,194,171.18,4,Hydrogen-rich,Icy,13.85,Chemical,2,0.5078651810217814,0,Yes
+38dee52a-eed7-49d3-ad56-8c7ca90bd97c,Xenon,1.49,26,274,401.22,3,Hydrogen-rich,Icy,5.72,Chemical,2,0.9429333788953128,1,Yes
+5c2e5bb9-d18e-4d8c-a209-56ed1360a9d0,Zarathustra,49.55,18,267,160.79,6,Hydrogen-rich,Rocky,12.68,Nuclear,2,0.42208985794539144,1,No
+e46c5faa-b293-4bb6-9e5b-6e1ebe66595f,Titanium,493.76,10,211,444.13,4,Hydrogen-rich,Rocky,14.33,Solar,1,0.09582530584914113,0,Yes
+c0540af1-755e-46f2-a234-a4cce9b1d9ca,Titanium,239.05,34,241,276.67,1,Oxygen-rich,Icy,11.58,Nuclear,4,0.7129131965798319,1,No
+975886f2-2a88-422b-b3df-e77dc33e865b,Aurora,813.49,17,200,448.3,5,Hydrogen-rich,Volcanic,5.76,Geothermal,0,0.5459377115652717,0,No
+487e59b0-42cb-42f4-b612-a6b2be899611,Titanium,571.75,21,344,338.78,3,Oxygen-rich,Rocky,11.53,Chemical,4,0.7445625466637164,2,Yes
+c167bedb-7737-4196-877f-d71f3ae9969e,Elysium,371.59,6,314,279.6,1,Oxygen-rich,Volcanic,17.6,Solar,4,0.657892736611915,2,No
+e52ffe9c-1fd1-497e-b21c-b5c4d225583e,Xenon,410.9,20,270,54.83,9,Methane-dominated,Icy,12.94,Solar,1,0.6841713894142223,0,No
+e342b89b-b2f1-426a-a79e-fdb765052931,Aurora,305.05,38,299,167.53,3,Methane-dominated,Rocky,18.96,Solar,1,0.5450371346168541,0,Yes
+c6a11842-c22a-470a-b1a4-2f69f73b7795,Aurora,61.94,40,268,81.58,9,Hydrogen-rich,Oceanic,5.44,Nuclear,3,0.36251457284854915,2,No
+c17e72a2-0d55-4c88-bac0-6461fdeb0d47,Zarathustra,928.06,22,245,171.21,5,Oxygen-rich,Volcanic,12.67,Nuclear,2,0.31426857441992223,2,No
+f0264d29-7837-488d-9647-9f2fa4908822,Titanium,840.87,5,36,141.53,10,Oxygen-rich,Volcanic,6.39,Geothermal,3,0.34783434567300114,2,Yes
+889e148e-056a-43fe-ad8f-984e580a8cd8,Elysium,86.13,27,284,255.76,8,Oxygen-rich,Icy,4.46,Solar,2,0.34883801052398733,1,Yes
+c5a4159e-9757-447a-95cb-250013b0f8ef,Titanium,361.38,15,336,177.11,5,,Volcanic,19.07,Nuclear,3,0.7789407585362603,2,No
+4b3c9a14-7252-4eac-91e2-fc11f783b79e,Zarathustra,642.2,42,93,437.29,5,Oxygen-rich,Volcanic,15.63,Geothermal,2,0.2121421339143844,1,Yes
+4a2ade18-cb73-47c5-8453-dd8e1352aeb8,Elysium,230.0,41,266,68.09,2,Carbon dioxide-heavy,Oceanic,11.56,Nuclear,2,0.42524563209624566,2,No
+bf75da35-c42a-4b2b-88b6-45a61f0cc14d,Xenon,568.83,47,30,497.32,7,Hydrogen-rich,Volcanic,7.78,Solar,1,0.2501204097812432,1,Yes
+dd141cb7-82cf-4224-9295-3eaac6fd4f83,Zarathustra,389.7,31,302,106.39,10,Methane-dominated,Volcanic,5.91,Solar,3,0.1636400771956855,2,No
+fddebc30-708b-4ec8-a4f6-552830b08702,Titanium,984.26,33,70,395.14,10,Oxygen-rich,Icy,2.93,Chemical,2,0.33253687279976185,1,Yes
+0fd3e492-e27e-4b4d-b7ad-9a648e783fd0,Zarathustra,999.33,32,202,246.5,4,Carbon dioxide-heavy,Oceanic,3.8,Chemical,0,0.08551794879552581,0,No
+18647883-e506-481d-b5e5-88272a030d2d,Elysium,841.82,5,144,297.48,8,Methane-dominated,Volcanic,19.88,Geothermal,3,1.0,0,Yes
+f4550b48-412c-4f7e-bea5-4670304e1825,Xenon,821.58,19,177,103.17,2,Methane-dominated,Icy,11.65,Solar,4,0.08186070238987905,2,No
+c00bbad6-9fa5-40eb-981a-c9955a6d9bdd,Elysium,86.55,32,146,145.98,7,Methane-dominated,Volcanic,10.8,Geothermal,1,0.17503981736137714,1,Yes
+3d658b51-260d-4f6c-b60c-d42277e9e0f8,Elysium,326.08,25,342,361.28,1,Methane-dominated,Volcanic,18.77,Chemical,3,0.09808744918084462,2,No
+0cb3d0f5-6ec6-4100-8512-b224fd98debd,Zarathustra,9.16,21,48,402.85,8,Hydrogen-rich,Volcanic,11.6,Chemical,1,0.3468933698019143,1,Yes
+9a3be8cd-5db8-4a46-98bd-02764eaaac4e,Aurora,988.33,17,137,427.98,6,Hydrogen-rich,Volcanic,13.01,Geothermal,0,0.6551441865781052,0,Yes
